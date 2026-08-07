@@ -1,0 +1,13 @@
+analysis,parameter,value,frr,far,relevance,faithfulness,coverage,hit_at_5,ctx_rel,sr_comp,ps_relevance,ps_faithfulness,ps_coverage,rank_stability
+dda_margin,delta_dda,0.03,0.043,0.054,0.868,0.853,0.842,,,,,,,
+dda_margin,delta_dda,0.05,0.040,0.056,0.871,0.855,0.845,,,,,,,
+dda_margin,delta_dda,0.07,0.042,0.058,0.869,0.854,0.843,,,,,,,
+dda_beta,beta_vector,0.35/0.20/0.20/0.25,0.041,0.058,0.872,0.852,0.844,,,,,,,
+dda_beta,beta_vector,0.30/0.25/0.20/0.25,0.040,0.056,0.871,0.855,0.845,,,,,,,
+dda_beta,beta_vector,0.25/0.30/0.20/0.25,0.042,0.052,0.868,0.858,0.843,,,,,,,
+hybrid_alpha,alpha,0.40,0.043,,0.866,0.853,,0.872,0.807,,,,,
+hybrid_alpha,alpha,0.60,0.040,,0.871,0.855,,0.878,0.812,,,,,
+hybrid_alpha,alpha,0.80,0.041,,0.868,0.854,,0.875,0.809,,,,,
+sr_lambda,lambda_sr,0.30,,,,,,,,0.818,0.846,0.901,0.819,0.94
+sr_lambda,lambda_sr,0.50,,,,,,,,0.821,0.850,0.904,0.823,1.00
+sr_lambda,lambda_sr,0.70,,,,,,,,0.819,0.848,0.902,0.821,0.95

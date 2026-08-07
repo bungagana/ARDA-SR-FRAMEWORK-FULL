@@ -1,0 +1,755 @@
+{
+    "llm_only":  {
+                     "rel":  0.6106,
+                     "faith":  0.3213,
+                     "cov":  0.5576,
+                     "frr":  0.33,
+                     "far":  0.08,
+                     "hit_at_5":  0.0,
+                     "ctx_rel":  null,
+                     "tool_acc":  null,
+                     "latency_s":  1.187,
+                     "per_category":  {
+                                          "DK":  {
+                                                     "rel":  0.7884,
+                                                     "faith":  0.4243,
+                                                     "cov":  0.713,
+                                                     "frr":  0.07,
+                                                     "far":  0.07,
+                                                     "hit_at_5":  0.0,
+                                                     "ctx_rel":  null,
+                                                     "tool_acc":  null,
+                                                     "latency_s":  1.103
+                                                 },
+                                          "FR":  {
+                                                     "rel":  0.4787,
+                                                     "faith":  0.2124,
+                                                     "cov":  0.442,
+                                                     "frr":  0.59,
+                                                     "far":  0.11,
+                                                     "hit_at_5":  0.0,
+                                                     "ctx_rel":  null,
+                                                     "tool_acc":  null,
+                                                     "latency_s":  1.065
+                                                 },
+                                          "CR":  {
+                                                     "rel":  0.4411,
+                                                     "faith":  0.1861,
+                                                     "cov":  0.402,
+                                                     "frr":  0.4,
+                                                     "far":  0.08,
+                                                     "hit_at_5":  0.0,
+                                                     "ctx_rel":  null,
+                                                     "tool_acc":  null,
+                                                     "latency_s":  1.26
+                                                 },
+                                          "AR":  {
+                                                     "rel":  0.6527,
+                                                     "faith":  0.3488,
+                                                     "cov":  0.6028,
+                                                     "frr":  0.275,
+                                                     "far":  0.12,
+                                                     "hit_at_5":  0.0,
+                                                     "ctx_rel":  null,
+                                                     "tool_acc":  null,
+                                                     "latency_s":  1.157
+                                                 },
+                                          "PS":  {
+                                                     "rel":  0.6919,
+                                                     "faith":  0.4348,
+                                                     "cov":  0.6284,
+                                                     "frr":  0.315,
+                                                     "far":  0.02,
+                                                     "hit_at_5":  0.0,
+                                                     "ctx_rel":  null,
+                                                     "tool_acc":  null,
+                                                     "latency_s":  1.349
+                                                 }
+                                      }
+                 },
+    "standard_rag":  {
+                         "rel":  0.7157,
+                         "faith":  0.7392,
+                         "cov":  0.6799,
+                         "frr":  0.175,
+                         "far":  0.12,
+                         "hit_at_5":  0.768,
+                         "ctx_rel":  0.7022,
+                         "tool_acc":  null,
+                         "latency_s":  3.785,
+                         "per_category":  {
+                                              "DK":  {
+                                                         "rel":  0.6493,
+                                                         "faith":  0.6141,
+                                                         "cov":  0.6179,
+                                                         "frr":  0.235,
+                                                         "far":  0.18,
+                                                         "hit_at_5":  0.625,
+                                                         "ctx_rel":  0.6376,
+                                                         "tool_acc":  null,
+                                                         "latency_s":  3.532
+                                                     },
+                                              "FR":  {
+                                                         "rel":  0.8114,
+                                                         "faith":  0.8388,
+                                                         "cov":  0.7706,
+                                                         "frr":  0.07,
+                                                         "far":  0.06,
+                                                         "hit_at_5":  0.905,
+                                                         "ctx_rel":  0.7628,
+                                                         "tool_acc":  null,
+                                                         "latency_s":  3.54
+                                                     },
+                                              "CR":  {
+                                                         "rel":  0.6857,
+                                                         "faith":  0.7262,
+                                                         "cov":  0.6516,
+                                                         "frr":  0.17,
+                                                         "far":  0.115,
+                                                         "hit_at_5":  0.78,
+                                                         "ctx_rel":  0.6667,
+                                                         "tool_acc":  null,
+                                                         "latency_s":  3.936
+                                                     },
+                                              "AR":  {
+                                                         "rel":  0.6955,
+                                                         "faith":  0.692,
+                                                         "cov":  0.663,
+                                                         "frr":  0.205,
+                                                         "far":  0.14,
+                                                         "hit_at_5":  0.73,
+                                                         "ctx_rel":  0.6779,
+                                                         "tool_acc":  null,
+                                                         "latency_s":  3.62
+                                                     },
+                                              "PS":  {
+                                                         "rel":  0.7364,
+                                                         "faith":  0.8249,
+                                                         "cov":  0.6962,
+                                                         "frr":  0.195,
+                                                         "far":  0.105,
+                                                         "hit_at_5":  0.8,
+                                                         "ctx_rel":  0.7543,
+                                                         "tool_acc":  null,
+                                                         "latency_s":  4.296
+                                                     }
+                                          }
+                     },
+    "hybrid_rag":  {
+                       "rel":  0.7462,
+                       "faith":  0.771,
+                       "cov":  0.7214,
+                       "frr":  0.164,
+                       "far":  0.102,
+                       "hit_at_5":  0.796,
+                       "ctx_rel":  0.733,
+                       "tool_acc":  null,
+                       "latency_s":  4.072,
+                       "per_category":  {
+                                            "DK":  {
+                                                       "rel":  0.6975,
+                                                       "faith":  0.6601,
+                                                       "cov":  0.6756,
+                                                       "frr":  0.25,
+                                                       "far":  0.095,
+                                                       "hit_at_5":  0.655,
+                                                       "ctx_rel":  0.7014,
+                                                       "tool_acc":  null,
+                                                       "latency_s":  3.866
+                                                   },
+                                            "FR":  {
+                                                       "rel":  0.8249,
+                                                       "faith":  0.8537,
+                                                       "cov":  0.8069,
+                                                       "frr":  0.07,
+                                                       "far":  0.065,
+                                                       "hit_at_5":  0.92,
+                                                       "ctx_rel":  0.8134,
+                                                       "tool_acc":  null,
+                                                       "latency_s":  3.76
+                                                   },
+                                            "CR":  {
+                                                       "rel":  0.7212,
+                                                       "faith":  0.7622,
+                                                       "cov":  0.6938,
+                                                       "frr":  0.13,
+                                                       "far":  0.14,
+                                                       "hit_at_5":  0.83,
+                                                       "ctx_rel":  0.6929,
+                                                       "tool_acc":  null,
+                                                       "latency_s":  4.277
+                                                   },
+                                            "AR":  {
+                                                       "rel":  0.7193,
+                                                       "faith":  0.7328,
+                                                       "cov":  0.6983,
+                                                       "frr":  0.17,
+                                                       "far":  0.125,
+                                                       "hit_at_5":  0.775,
+                                                       "ctx_rel":  0.6902,
+                                                       "tool_acc":  null,
+                                                       "latency_s":  3.955
+                                                   },
+                                            "PS":  {
+                                                       "rel":  0.7683,
+                                                       "faith":  0.8465,
+                                                       "cov":  0.7326,
+                                                       "frr":  0.2,
+                                                       "far":  0.085,
+                                                       "hit_at_5":  0.8,
+                                                       "ctx_rel":  0.7572,
+                                                       "tool_acc":  null,
+                                                       "latency_s":  4.501
+                                                   }
+                                        }
+                   },
+    "hyde_rag":  {
+                     "rel":  0.7381,
+                     "faith":  0.7623,
+                     "cov":  0.6962,
+                     "frr":  0.167,
+                     "far":  0.098,
+                     "hit_at_5":  0.786,
+                     "ctx_rel":  0.7189,
+                     "tool_acc":  null,
+                     "latency_s":  5.206,
+                     "per_category":  {
+                                          "DK":  {
+                                                     "rel":  0.6794,
+                                                     "faith":  0.6475,
+                                                     "cov":  0.6511,
+                                                     "frr":  0.255,
+                                                     "far":  0.11,
+                                                     "hit_at_5":  0.64,
+                                                     "ctx_rel":  0.6727,
+                                                     "tool_acc":  null,
+                                                     "latency_s":  5.038
+                                                 },
+                                          "FR":  {
+                                                     "rel":  0.8281,
+                                                     "faith":  0.8626,
+                                                     "cov":  0.7776,
+                                                     "frr":  0.04,
+                                                     "far":  0.04,
+                                                     "hit_at_5":  0.955,
+                                                     "ctx_rel":  0.7939,
+                                                     "tool_acc":  null,
+                                                     "latency_s":  4.901
+                                                 },
+                                          "CR":  {
+                                                     "rel":  0.7102,
+                                                     "faith":  0.7452,
+                                                     "cov":  0.6702,
+                                                     "frr":  0.185,
+                                                     "far":  0.075,
+                                                     "hit_at_5":  0.75,
+                                                     "ctx_rel":  0.6717,
+                                                     "tool_acc":  null,
+                                                     "latency_s":  5.325
+                                                 },
+                                          "AR":  {
+                                                     "rel":  0.7129,
+                                                     "faith":  0.7128,
+                                                     "cov":  0.6622,
+                                                     "frr":  0.195,
+                                                     "far":  0.2,
+                                                     "hit_at_5":  0.75,
+                                                     "ctx_rel":  0.6969,
+                                                     "tool_acc":  null,
+                                                     "latency_s":  5.205
+                                                 },
+                                          "PS":  {
+                                                     "rel":  0.7598,
+                                                     "faith":  0.8436,
+                                                     "cov":  0.7202,
+                                                     "frr":  0.16,
+                                                     "far":  0.065,
+                                                     "hit_at_5":  0.835,
+                                                     "ctx_rel":  0.7412,
+                                                     "tool_acc":  null,
+                                                     "latency_s":  5.561
+                                                 }
+                                      }
+                 },
+    "adaptive_rag":  {
+                         "rel":  0.7815,
+                         "faith":  0.7901,
+                         "cov":  0.7365,
+                         "frr":  0.127,
+                         "far":  0.092,
+                         "hit_at_5":  0.837,
+                         "ctx_rel":  0.7676,
+                         "tool_acc":  0.727,
+                         "latency_s":  4.532,
+                         "per_category":  {
+                                              "DK":  {
+                                                         "rel":  0.7578,
+                                                         "faith":  0.7015,
+                                                         "cov":  0.7177,
+                                                         "frr":  0.095,
+                                                         "far":  0.09,
+                                                         "hit_at_5":  0.83,
+                                                         "ctx_rel":  0.7471,
+                                                         "tool_acc":  0.705,
+                                                         "latency_s":  4.282
+                                                     },
+                                              "FR":  {
+                                                         "rel":  0.8638,
+                                                         "faith":  0.8666,
+                                                         "cov":  0.8016,
+                                                         "frr":  0.07,
+                                                         "far":  0.035,
+                                                         "hit_at_5":  0.925,
+                                                         "ctx_rel":  0.8295,
+                                                         "tool_acc":  0.69,
+                                                         "latency_s":  4.21
+                                                     },
+                                              "CR":  {
+                                                         "rel":  0.7513,
+                                                         "faith":  0.7817,
+                                                         "cov":  0.7149,
+                                                         "frr":  0.125,
+                                                         "far":  0.095,
+                                                         "hit_at_5":  0.86,
+                                                         "ctx_rel":  0.7453,
+                                                         "tool_acc":  0.74,
+                                                         "latency_s":  4.681
+                                                     },
+                                              "AR":  {
+                                                         "rel":  0.7464,
+                                                         "faith":  0.7262,
+                                                         "cov":  0.6996,
+                                                         "frr":  0.16,
+                                                         "far":  0.135,
+                                                         "hit_at_5":  0.79,
+                                                         "ctx_rel":  0.7204,
+                                                         "tool_acc":  0.79,
+                                                         "latency_s":  4.516
+                                                     },
+                                              "PS":  {
+                                                         "rel":  0.7884,
+                                                         "faith":  0.8746,
+                                                         "cov":  0.7489,
+                                                         "frr":  0.185,
+                                                         "far":  0.105,
+                                                         "hit_at_5":  0.78,
+                                                         "ctx_rel":  0.7925,
+                                                         "tool_acc":  0.71,
+                                                         "latency_s":  4.973
+                                                     }
+                                          },
+                         "sr_comp":  0.711
+                     },
+    "crag":  {
+                 "rel":  0.759,
+                 "faith":  0.8049,
+                 "cov":  0.7255,
+                 "frr":  0.128,
+                 "far":  0.103,
+                 "hit_at_5":  0.832,
+                 "ctx_rel":  0.7507,
+                 "tool_acc":  null,
+                 "latency_s":  4.751,
+                 "per_category":  {
+                                      "DK":  {
+                                                 "rel":  0.719,
+                                                 "faith":  0.708,
+                                                 "cov":  0.6873,
+                                                 "frr":  0.145,
+                                                 "far":  0.085,
+                                                 "hit_at_5":  0.77,
+                                                 "ctx_rel":  0.7112,
+                                                 "tool_acc":  null,
+                                                 "latency_s":  4.459
+                                             },
+                                      "FR":  {
+                                                 "rel":  0.8344,
+                                                 "faith":  0.8773,
+                                                 "cov":  0.8022,
+                                                 "frr":  0.02,
+                                                 "far":  0.09,
+                                                 "hit_at_5":  0.96,
+                                                 "ctx_rel":  0.8291,
+                                                 "tool_acc":  null,
+                                                 "latency_s":  4.393
+                                             },
+                                      "CR":  {
+                                                 "rel":  0.7292,
+                                                 "faith":  0.7887,
+                                                 "cov":  0.7039,
+                                                 "frr":  0.15,
+                                                 "far":  0.125,
+                                                 "hit_at_5":  0.815,
+                                                 "ctx_rel":  0.7168,
+                                                 "tool_acc":  null,
+                                                 "latency_s":  4.932
+                                             },
+                                      "AR":  {
+                                                 "rel":  0.7238,
+                                                 "faith":  0.7722,
+                                                 "cov":  0.7039,
+                                                 "frr":  0.14,
+                                                 "far":  0.145,
+                                                 "hit_at_5":  0.825,
+                                                 "ctx_rel":  0.7145,
+                                                 "tool_acc":  null,
+                                                 "latency_s":  4.714
+                                             },
+                                      "PS":  {
+                                                 "rel":  0.7885,
+                                                 "faith":  0.8786,
+                                                 "cov":  0.73,
+                                                 "frr":  0.185,
+                                                 "far":  0.07,
+                                                 "hit_at_5":  0.79,
+                                                 "ctx_rel":  0.7716,
+                                                 "tool_acc":  null,
+                                                 "latency_s":  5.259
+                                             }
+                                  }
+             },
+    "react":  {
+                  "rel":  0.7726,
+                  "faith":  0.7572,
+                  "cov":  0.7325,
+                  "frr":  0.143,
+                  "far":  0.102,
+                  "hit_at_5":  0.797,
+                  "ctx_rel":  0.7541,
+                  "tool_acc":  0.687,
+                  "latency_s":  6.046,
+                  "per_category":  {
+                                       "DK":  {
+                                                  "rel":  0.7429,
+                                                  "faith":  0.6464,
+                                                  "cov":  0.701,
+                                                  "frr":  0.18,
+                                                  "far":  0.065,
+                                                  "hit_at_5":  0.655,
+                                                  "ctx_rel":  0.7255,
+                                                  "tool_acc":  0.755,
+                                                  "latency_s":  5.765
+                                              },
+                                       "FR":  {
+                                                  "rel":  0.8407,
+                                                  "faith":  0.8549,
+                                                  "cov":  0.8081,
+                                                  "frr":  0.025,
+                                                  "far":  0.095,
+                                                  "hit_at_5":  0.945,
+                                                  "ctx_rel":  0.8246,
+                                                  "tool_acc":  0.645,
+                                                  "latency_s":  5.651
+                                              },
+                                       "CR":  {
+                                                  "rel":  0.7493,
+                                                  "faith":  0.7351,
+                                                  "cov":  0.699,
+                                                  "frr":  0.135,
+                                                  "far":  0.105,
+                                                  "hit_at_5":  0.825,
+                                                  "ctx_rel":  0.7121,
+                                                  "tool_acc":  0.69,
+                                                  "latency_s":  6.212
+                                              },
+                                       "AR":  {
+                                                  "rel":  0.7408,
+                                                  "faith":  0.7117,
+                                                  "cov":  0.7064,
+                                                  "frr":  0.16,
+                                                  "far":  0.16,
+                                                  "hit_at_5":  0.79,
+                                                  "ctx_rel":  0.7175,
+                                                  "tool_acc":  0.675,
+                                                  "latency_s":  5.979
+                                              },
+                                       "PS":  {
+                                                  "rel":  0.7894,
+                                                  "faith":  0.838,
+                                                  "cov":  0.7482,
+                                                  "frr":  0.215,
+                                                  "far":  0.085,
+                                                  "hit_at_5":  0.77,
+                                                  "ctx_rel":  0.7817,
+                                                  "tool_acc":  0.67,
+                                                  "latency_s":  6.623
+                                              }
+                                   },
+                  "sr_comp":  0.673
+              },
+    "selfrag":  {
+                    "rel":  0.7883,
+                    "faith":  0.8129,
+                    "cov":  0.7456,
+                    "frr":  0.115,
+                    "far":  0.087,
+                    "hit_at_5":  0.84,
+                    "ctx_rel":  0.7744,
+                    "tool_acc":  0.706,
+                    "latency_s":  5.744,
+                    "per_category":  {
+                                         "DK":  {
+                                                    "rel":  0.7662,
+                                                    "faith":  0.7295,
+                                                    "cov":  0.7372,
+                                                    "frr":  0.09,
+                                                    "far":  0.065,
+                                                    "hit_at_5":  0.825,
+                                                    "ctx_rel":  0.7585,
+                                                    "tool_acc":  0.685,
+                                                    "latency_s":  5.47
+                                                },
+                                         "FR":  {
+                                                    "rel":  0.867,
+                                                    "faith":  0.8757,
+                                                    "cov":  0.8095,
+                                                    "frr":  0.015,
+                                                    "far":  0.065,
+                                                    "hit_at_5":  0.985,
+                                                    "ctx_rel":  0.8448,
+                                                    "tool_acc":  0.74,
+                                                    "latency_s":  5.396
+                                                },
+                                         "CR":  {
+                                                    "rel":  0.7568,
+                                                    "faith":  0.806,
+                                                    "cov":  0.7121,
+                                                    "frr":  0.16,
+                                                    "far":  0.075,
+                                                    "hit_at_5":  0.795,
+                                                    "ctx_rel":  0.746,
+                                                    "tool_acc":  0.715,
+                                                    "latency_s":  5.893
+                                                },
+                                         "AR":  {
+                                                    "rel":  0.7554,
+                                                    "faith":  0.7721,
+                                                    "cov":  0.714,
+                                                    "frr":  0.15,
+                                                    "far":  0.135,
+                                                    "hit_at_5":  0.795,
+                                                    "ctx_rel":  0.7315,
+                                                    "tool_acc":  0.705,
+                                                    "latency_s":  5.683
+                                                },
+                                         "PS":  {
+                                                    "rel":  0.7959,
+                                                    "faith":  0.881,
+                                                    "cov":  0.7551,
+                                                    "frr":  0.16,
+                                                    "far":  0.095,
+                                                    "hit_at_5":  0.8,
+                                                    "ctx_rel":  0.7812,
+                                                    "tool_acc":  0.685,
+                                                    "latency_s":  6.28
+                                                }
+                                     },
+                    "sr_comp":  0.698
+                },
+    "flare":  {
+                  "rel":  0.7758,
+                  "faith":  0.7953,
+                  "cov":  0.734,
+                  "frr":  0.133,
+                  "far":  0.097,
+                  "hit_at_5":  0.819,
+                  "ctx_rel":  0.761,
+                  "tool_acc":  null,
+                  "latency_s":  6.0,
+                  "per_category":  {
+                                       "DK":  {
+                                                  "rel":  0.7521,
+                                                  "faith":  0.6948,
+                                                  "cov":  0.7051,
+                                                  "frr":  0.135,
+                                                  "far":  0.08,
+                                                  "hit_at_5":  0.74,
+                                                  "ctx_rel":  0.7371,
+                                                  "tool_acc":  null,
+                                                  "latency_s":  5.678
+                                              },
+                                       "FR":  {
+                                                  "rel":  0.8469,
+                                                  "faith":  0.8722,
+                                                  "cov":  0.7998,
+                                                  "frr":  0.055,
+                                                  "far":  0.055,
+                                                  "hit_at_5":  0.94,
+                                                  "ctx_rel":  0.8316,
+                                                  "tool_acc":  null,
+                                                  "latency_s":  5.699
+                                              },
+                                       "CR":  {
+                                                  "rel":  0.7417,
+                                                  "faith":  0.7809,
+                                                  "cov":  0.707,
+                                                  "frr":  0.12,
+                                                  "far":  0.075,
+                                                  "hit_at_5":  0.855,
+                                                  "ctx_rel":  0.726,
+                                                  "tool_acc":  null,
+                                                  "latency_s":  6.084
+                                              },
+                                       "AR":  {
+                                                  "rel":  0.7395,
+                                                  "faith":  0.7584,
+                                                  "cov":  0.7096,
+                                                  "frr":  0.165,
+                                                  "far":  0.165,
+                                                  "hit_at_5":  0.785,
+                                                  "ctx_rel":  0.7274,
+                                                  "tool_acc":  null,
+                                                  "latency_s":  5.907
+                                              },
+                                       "PS":  {
+                                                  "rel":  0.7991,
+                                                  "faith":  0.87,
+                                                  "cov":  0.7485,
+                                                  "frr":  0.19,
+                                                  "far":  0.11,
+                                                  "hit_at_5":  0.775,
+                                                  "ctx_rel":  0.777,
+                                                  "tool_acc":  null,
+                                                  "latency_s":  6.635
+                                              }
+                                   }
+              },
+    "ircot":  {
+                  "rel":  0.7633,
+                  "faith":  0.7813,
+                  "cov":  0.7139,
+                  "frr":  0.147,
+                  "far":  0.116,
+                  "hit_at_5":  0.805,
+                  "ctx_rel":  0.7573,
+                  "tool_acc":  null,
+                  "latency_s":  6.337,
+                  "per_category":  {
+                                       "DK":  {
+                                                  "rel":  0.7063,
+                                                  "faith":  0.6613,
+                                                  "cov":  0.6701,
+                                                  "frr":  0.175,
+                                                  "far":  0.13,
+                                                  "hit_at_5":  0.725,
+                                                  "ctx_rel":  0.7095,
+                                                  "tool_acc":  null,
+                                                  "latency_s":  6.025
+                                              },
+                                       "FR":  {
+                                                  "rel":  0.8404,
+                                                  "faith":  0.8555,
+                                                  "cov":  0.7831,
+                                                  "frr":  0.04,
+                                                  "far":  0.07,
+                                                  "hit_at_5":  0.935,
+                                                  "ctx_rel":  0.8176,
+                                                  "tool_acc":  null,
+                                                  "latency_s":  5.935
+                                              },
+                                       "CR":  {
+                                                  "rel":  0.7774,
+                                                  "faith":  0.8104,
+                                                  "cov":  0.7348,
+                                                  "frr":  0.125,
+                                                  "far":  0.115,
+                                                  "hit_at_5":  0.845,
+                                                  "ctx_rel":  0.7643,
+                                                  "tool_acc":  null,
+                                                  "latency_s":  6.415
+                                              },
+                                       "AR":  {
+                                                  "rel":  0.7253,
+                                                  "faith":  0.7317,
+                                                  "cov":  0.6802,
+                                                  "frr":  0.145,
+                                                  "far":  0.16,
+                                                  "hit_at_5":  0.79,
+                                                  "ctx_rel":  0.7203,
+                                                  "tool_acc":  null,
+                                                  "latency_s":  6.258
+                                              },
+                                       "PS":  {
+                                                  "rel":  0.7669,
+                                                  "faith":  0.8475,
+                                                  "cov":  0.7013,
+                                                  "frr":  0.25,
+                                                  "far":  0.105,
+                                                  "hit_at_5":  0.73,
+                                                  "ctx_rel":  0.7667,
+                                                  "tool_acc":  null,
+                                                  "latency_s":  7.05
+                                              }
+                                   }
+              },
+    "arda_pmr":  {
+                     "rel":  0.871,
+                     "faith":  0.855,
+                     "cov":  0.845,
+                     "frr":  0.04,
+                     "far":  0.056,
+                     "hit_at_5":  0.878,
+                     "ctx_rel":  0.812,
+                     "tool_acc":  0.878,
+                     "latency_s":  6.4,
+                     "pmr_comp":  0.97,
+                     "per_category":  {
+                                          "DK":  {
+                                                     "rel":  0.902,
+                                                     "faith":  0.838,
+                                                     "cov":  0.8678,
+                                                     "frr":  0.02,
+                                                     "far":  0.03,
+                                                     "hit_at_5":  0.855,
+                                                     "ctx_rel":  0.8707,
+                                                     "tool_acc":  0.88,
+                                                     "latency_s":  5.069
+                                                 },
+                                          "FR":  {
+                                                     "rel":  0.9037,
+                                                     "faith":  0.912,
+                                                     "cov":  0.8817,
+                                                     "frr":  0.01,
+                                                     "far":  0.035,
+                                                     "hit_at_5":  0.985,
+                                                     "ctx_rel":  0.8884,
+                                                     "tool_acc":  0.85,
+                                                     "latency_s":  5.514
+                                                 },
+                                          "CR":  {
+                                                     "rel":  0.8634,
+                                                     "faith":  0.848,
+                                                     "cov":  0.8324,
+                                                     "frr":  0.045,
+                                                     "far":  0.04,
+                                                     "hit_at_5":  0.935,
+                                                     "ctx_rel":  0.8409,
+                                                     "tool_acc":  0.885,
+                                                     "latency_s":  6.724
+                                                 },
+                                          "AR":  {
+                                                     "rel":  0.8362,
+                                                     "faith":  0.818,
+                                                     "cov":  0.8191,
+                                                     "frr":  0.07,
+                                                     "far":  0.15,
+                                                     "hit_at_5":  0.885,
+                                                     "ctx_rel":  0.8345,
+                                                     "tool_acc":  0.88,
+                                                     "latency_s":  5.962
+                                                 },
+                                          "PS":  {
+                                                     "rel":  0.8499,
+                                                     "faith":  0.858,
+                                                     "cov":  0.8228,
+                                                     "frr":  0.055,
+                                                     "far":  0.025,
+                                                     "hit_at_5":  0.895,
+                                                     "ctx_rel":  0.836,
+                                                     "tool_acc":  0.895,
+                                                     "latency_s":  8.72
+                                                 }
+                                      },
+                     "sr_comp":  0.821
+                 }
+}

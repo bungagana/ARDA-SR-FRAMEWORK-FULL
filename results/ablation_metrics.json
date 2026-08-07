@@ -1,0 +1,63 @@
+{
+    "V0_base_rag":  {
+                        "label":  "Standard RAG baseline",
+                        "rel":  0.716,
+                        "faith":  0.739,
+                        "cov":  0.68,
+                        "frr":  0.175,
+                        "far":  0.12,
+                        "hit_at_5":  0.768,
+                        "ctx_rel":  0.702,
+                        "tool_acc":  null,
+                        "latency_s":  3.8
+                    },
+    "V1_aqcc":  {
+                    "label":  "+ AQCC (Adaptive Routing)",
+                    "rel":  0.758,
+                    "faith":  0.769,
+                    "cov":  0.715,
+                    "frr":  0.142,
+                    "far":  0.096,
+                    "hit_at_5":  0.798,
+                    "ctx_rel":  0.74,
+                    "tool_acc":  0.812,
+                    "latency_s":  4.1
+                },
+    "V2_hybrid":  {
+                      "label":  "+ Hybrid Retrieval",
+                      "rel":  0.789,
+                      "faith":  0.81,
+                      "cov":  0.75,
+                      "frr":  0.12,
+                      "far":  0.088,
+                      "hit_at_5":  0.832,
+                      "ctx_rel":  0.778,
+                      "tool_acc":  0.836,
+                      "latency_s":  4.4
+                  },
+    "V3_ddaf":  {
+                    "label":  "+ DDAF (Dual-Draft Arbitration)",
+                    "rel":  0.847,
+                    "faith":  0.841,
+                    "cov":  0.816,
+                    "frr":  0.062,
+                    "far":  0.074,
+                    "hit_at_5":  0.876,
+                    "ctx_rel":  0.832,
+                    "tool_acc":  0.856,
+                    "latency_s":  5.9
+                },
+    "V4_pmr":  {
+                   "label":  "+ PMR (Policy-scenario Reasoning)",
+                   "rel":  0.871,
+                   "faith":  0.855,
+                   "cov":  0.845,
+                   "frr":  0.04,
+                   "far":  0.056,
+                   "hit_at_5":  0.878,
+                   "ctx_rel":  0.812,
+                   "tool_acc":  0.878,
+                   "latency_s":  6.4,
+                   "sr_comp":  0.821
+               }
+}

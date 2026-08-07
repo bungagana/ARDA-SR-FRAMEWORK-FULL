@@ -1,0 +1,202 @@
+{
+  "llm_only": {
+    "rel": {
+      "statistic": 496074.5,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 1.5209
+    },
+    "faith": {
+      "statistic": 500500.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 3.282
+    },
+    "frr": {
+      "statistic": 55173.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.5667
+    }
+  },
+  "standard_rag": {
+    "rel": {
+      "statistic": 480432.5,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 1.2754
+    },
+    "faith": {
+      "statistic": 450724.5,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.9087
+    },
+    "frr": {
+      "statistic": 16968.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.3158
+    }
+  },
+  "hybrid_rag": {
+    "rel": {
+      "statistic": 462159.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 1.032
+    },
+    "faith": {
+      "statistic": 413759.5,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.6769
+    },
+    "frr": {
+      "statistic": 14993.5,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.2967
+    }
+  },
+  "hyde_rag": {
+    "rel": {
+      "statistic": 468208.5,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 1.0978
+    },
+    "faith": {
+      "statistic": 424930.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.7348
+    },
+    "frr": {
+      "statistic": 14758.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.3072
+    }
+  },
+  "adaptive_rag": {
+    "rel": {
+      "statistic": 432714.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.7845
+    },
+    "faith": {
+      "statistic": 388454.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.544
+    },
+    "frr": {
+      "statistic": 9438.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.2266
+    }
+  },
+  "crag": {
+    "rel": {
+      "statistic": 453056.5,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.9407
+    },
+    "faith": {
+      "statistic": 360567.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.4154
+    },
+    "frr": {
+      "statistic": 9377.5,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.2301
+    }
+  },
+  "react": {
+    "rel": {
+      "statistic": 444030.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.8659
+    },
+    "faith": {
+      "statistic": 433291.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.7917
+    },
+    "frr": {
+      "statistic": 11782.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.2572
+    }
+  },
+  "selfrag": {
+    "rel": {
+      "statistic": 424864.5,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.7288
+    },
+    "faith": {
+      "statistic": 346010.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.356
+    },
+    "frr": {
+      "statistic": 7490.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.2054
+    }
+  },
+  "flare": {
+    "rel": {
+      "statistic": 434206.5,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.8218
+    },
+    "faith": {
+      "statistic": 376203.5,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.4896
+    },
+    "frr": {
+      "statistic": 10287.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.2383
+    }
+  },
+  "ircot": {
+    "rel": {
+      "statistic": 447568.5,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.9052
+    },
+    "faith": {
+      "statistic": 400314.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.5955
+    },
+    "frr": {
+      "statistic": 11954.0,
+      "p_value": 0.0,
+      "significant": true,
+      "effect_size_d": 0.2679
+    }
+  }
+}

@@ -1,0 +1,30 @@
+# ARDA-SR experiment codebase — Python 3.10+
+# Install: pip install -r requirements.txt
+
+# LLM providers
+google-genai==1.73.1        # Gemini — generation, routing, retrieval-grounded drafts
+anthropic==0.120.2          # Claude — QA dataset generation (claude-haiku-4-5)
+openai==2.33.0              # GPT — independent LLM-as-judge (gpt-5.4-mini)
+
+# Retrieval / embeddings
+sentence-transformers==5.4.1
+faiss-cpu==1.13.2
+rank_bm25==0.2.2
+huggingface_hub==0.35.0
+
+# Document parsing
+pdfplumber==0.11.7
+python-docx==1.2.0
+
+# Data / numerics / stats
+numpy==1.26.4
+pandas==2.3.2
+scipy==1.15.3
+
+# Plotting (figures / sensitivity analysis)
+matplotlib==3.10.5
+seaborn==0.13.2
+
+# Utilities
+python-dotenv==1.1.1
+tqdm==4.67.1
