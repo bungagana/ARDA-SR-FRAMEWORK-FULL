@@ -1,0 +1,96 @@
+{
+  "arr_overall": {
+    "llm_only": 0.0,
+    "standard_rag": 0.9833,
+    "hybrid_rag": 0.8833,
+    "hyde_rag": 0.95,
+    "adaptive_rag": 0.0333,
+    "crag": 0.8,
+    "react": 0.0833,
+    "selfrag": 0.7833,
+    "flare": 0.3667,
+    "ircot": 0.1167,
+    "arda_sr": 0.8667
+  },
+  "far_overall": {
+    "llm_only": 1.0,
+    "standard_rag": 0.0167,
+    "hybrid_rag": 0.1167,
+    "hyde_rag": 0.05,
+    "adaptive_rag": 0.9667,
+    "crag": 0.2,
+    "react": 0.9167,
+    "selfrag": 0.2167,
+    "flare": 0.6333,
+    "ircot": 0.8833,
+    "arda_sr": 0.1333
+  },
+  "arr_by_type": {
+    "llm_only": {
+      "commodity_not_covered": 0.0,
+      "out_of_domain_mixing": 0.0,
+      "province_not_in_corpus": 0.0,
+      "regulation_not_covered": 0.0
+    },
+    "standard_rag": {
+      "commodity_not_covered": 1.0,
+      "out_of_domain_mixing": 1.0,
+      "province_not_in_corpus": 1.0,
+      "regulation_not_covered": 0.9333
+    },
+    "hybrid_rag": {
+      "commodity_not_covered": 0.9333,
+      "out_of_domain_mixing": 0.9333,
+      "province_not_in_corpus": 0.8667,
+      "regulation_not_covered": 0.8
+    },
+    "hyde_rag": {
+      "commodity_not_covered": 0.9333,
+      "out_of_domain_mixing": 0.9333,
+      "province_not_in_corpus": 1.0,
+      "regulation_not_covered": 0.9333
+    },
+    "adaptive_rag": {
+      "commodity_not_covered": 0.0,
+      "out_of_domain_mixing": 0.0,
+      "province_not_in_corpus": 0.1333,
+      "regulation_not_covered": 0.0
+    },
+    "crag": {
+      "commodity_not_covered": 0.9333,
+      "out_of_domain_mixing": 0.6667,
+      "province_not_in_corpus": 0.8,
+      "regulation_not_covered": 0.8
+    },
+    "react": {
+      "commodity_not_covered": 0.0,
+      "out_of_domain_mixing": 0.0,
+      "province_not_in_corpus": 0.3333,
+      "regulation_not_covered": 0.0
+    },
+    "selfrag": {
+      "commodity_not_covered": 0.9333,
+      "out_of_domain_mixing": 0.8,
+      "province_not_in_corpus": 0.6667,
+      "regulation_not_covered": 0.7333
+    },
+    "flare": {
+      "commodity_not_covered": 0.2667,
+      "out_of_domain_mixing": 0.2,
+      "province_not_in_corpus": 0.5333,
+      "regulation_not_covered": 0.4667
+    },
+    "ircot": {
+      "commodity_not_covered": 0.1333,
+      "out_of_domain_mixing": 0.0,
+      "province_not_in_corpus": 0.0667,
+      "regulation_not_covered": 0.2667
+    },
+    "arda_sr": {
+      "commodity_not_covered": 0.8,
+      "out_of_domain_mixing": 0.8667,
+      "province_not_in_corpus": 0.9333,
+      "regulation_not_covered": 0.8667
+    }
+  }
+}

@@ -46,9 +46,7 @@ logger = logging.getLogger(__name__)
 
 from config import DATA_DIR, OUTPUTS_DIR, RANDOM_SEED, SR_NUM_SCENARIOS
 
-# Import order matters: google.genai (pulled in by utils.llm_client) segfaults
-# on Windows if imported before sentence_transformers/faiss. See
-# _rerun_arda_sr.py for the same fix.
+
 from utils.kb_builder import KnowledgeBase
 from utils.llm_client import GeminiClient
 from utils.openai_client import GPTJudgeClient
@@ -223,10 +221,6 @@ def run_lambda_sweep(values, ps_subset, kb, client, judge):
             "_top_scenarios": top_scenarios,  # stripped before CSV write
         })
         logger.info(f"[sr_lambda] value={lam} -> sr_comp={metrics['sr_comp']} rank_stability={rank_stability}")
-
-    # Backfill rank_stability against the 0.50 baseline for any row computed
-    # before the baseline was known (only matters if LAMBDA_VALUES is reordered
-    # so 0.50 isn't processed first).
     if baseline_top:
         for row in rows:
             if row["rank_stability"] is None:

@@ -40,12 +40,6 @@ METHOD_DISPLAY = {
 CATEGORIES = ["DK", "FR", "CR", "AR", "PS"]
 DISPLAY_CATEGORIES = {"DK": "DK", "FR": "FR", "CR": "CR", "AR": "AR", "PS": "SQ"}
 
-# Answer-quality std values for Table 5 are computed from per-query judge
-# scores via evaluation.statistical.variance_analysis() (see main(), which
-# builds `std_lookup` from the "ALL"-category std before calling
-# make_overall_table()).
-
-
 def load_results(method: str) -> list:
     path = RESULTS_DIR / f"{method}_results.json"
     if not path.exists():

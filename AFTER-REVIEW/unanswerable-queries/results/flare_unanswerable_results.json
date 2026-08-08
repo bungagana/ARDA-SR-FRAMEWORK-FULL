@@ -1,0 +1,2818 @@
+[
+  {
+    "query": "Berapa luas total kawasan transmigrasi yang berstatus Mandiri di Provinsi Bali?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Luas total kawasan transmigrasi berstatus Mandiri di Provinsi Bali adalah [ Informasi mengenai luas total kawasan transmigrasi berstatus Mandiri di Provinsi Bali tidak ditemukan dalam bukti yang diberikan. Bukti yang ada hanya mencakup Kawasan Transmigrasi Tampolore di Sulawesi Tengah dan Kawasan Transmigrasi Salor di Papua Selatan. Luas total kawasan transmigrasi berstatus Mandiri di Provinsi Bali adalah ** i tidak ditemukan dalam bukti yang diberikan. Bukti yang ada hanya menc",
+    "evidence": [
+      {
+        "chunk_id": 246,
+        "filename": "tampolore.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 539,
+        "text": "KAWASAN TRANSMIGRASI TAMPOLORE — Kabupaten Poso, Provinsi Sulawesi Tengah\nKawasan Transmigrasi Tampolore memiliki luas 18.967,23 hektare dengan jumlah penduduk 27.609 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 9 Tahun 2016 dengan kriteria K-1. Status kawasan adalah Mandiri dengan nilai IPKT 2023 sebesar 56,93. Ruang lingkup wilayah mencakup 4 kecamatan dan 23 desa, serta memiliki 1 SP Bina. Berdasarkan IDM 2023, terdapat 1 desa mandiri, 5 desa maju, dan 17 desa berkembang. Potensi daya tampung kawasan adalah 285 KK.",
+        "province": "Sulawesi Tengah",
+        "year": "2016",
+        "commodities": [
+          "kopi",
+          "kakao",
+          "sapi"
+        ],
+        "hybrid_score": 0.7045
+      },
+      {
+        "chunk_id": 193,
+        "filename": "salor.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 818,
+        "text": "KAWASAN TRANSMIGRASI SALOR — Kabupaten Merauke, Provinsi Papua Selatan\r\nKawasan Transmigrasi Salor memiliki luas 75.819,90 hektare dengan jumlah penduduk 55.424 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 9 Tahun 2016 dengan kriteria K-2 dan K-3. Status kawasan adalah Mandiri dengan nilai IPKT 2023 sebesar 62,99. Ruang lingkup wilayah mencakup 5 kecamatan dan 34 desa. Aksesibilitas kawasan ke PKSN Merauke berjarak 60 kilometer. Berdasarkan IDM 2023 terdapat 2 desa mandiri, 23 desa maju, 7 desa berkembang, dan 2 desa sangat tertinggal.\r\nDokumen perencanaan yang tersedia meliputi RKT Tahun 2013; RTSP dan RSKP tidak dirinci. Status lahan kawasan adalah Non-HPL. Sertipikat SHM Transmigrasi yang sudah terbit berjumlah 400 bidang. Kawasan memiliki konektivitas internet. Jarak ke ibu kota provinsi",
+        "province": "Papua",
+        "year": "2016",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet"
+        ],
+        "hybrid_score": 0.6816
+      },
+      {
+        "chunk_id": 53,
+        "filename": "hulu.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 0,
+        "chunk_size": 761,
+        "text": "DATA LENGKAP – KAWASAN TRANSMIGRASI KETUNGAU HULU\nA. Identitas, Penetapan, dan Posisi Strategis Kawasan\nKawasan Transmigrasi Ketungau Hulu berada di Kabupaten Sintang, Provinsi Kalimantan Barat.\nLuas total kawasan adalah 27.988,27 hektare.\nJumlah penduduk di kawasan tercatat 5.895 jiwa.\nKawasan ditetapkan berdasarkan KEPMENDESA PDTT Nomor 104 Tahun 2017.\nBerdasarkan tipologi nasional, kawasan ini termasuk kriteria K-2.\nAksesibilitas strategis kawasan ke PKSN Jasa adalah 0 km (berada langsung di simpul PKSN).\n(Informasi ini berasal dari infografis “Informasi Umum” pada halaman 1.)\nB. Status Kawasan dan Indeks Pembangunan Kawasan Transmigrasi (IPKT)\nStatus perkembangan kawasan dikategorikan sebagai Kawasan Berkembang.\nNilai IPKT Tahun 2023 adalah 33,24.",
+        "region": "Ketungau Hulu",
+        "province": "Kalimantan Barat",
+        "year": "2017",
+        "commodities": [
+          "padi",
+          "jagung",
+          "kelapa sawit",
+          "karet",
+          "sapi"
+        ],
+        "hybrid_score": 0.6742
+      },
+      {
+        "chunk_id": 69,
+        "filename": "kobalima.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 819,
+        "text": "KAWASAN TRANSMIGRASI KOBALIMA TIMUR – MALAKA, NTT\r\nKawasan Transmigrasi Kobalima Timur terletak di Kabupaten Malaka, Provinsi Nusa Tenggara Timur dengan luas 78.209 hektare dan jumlah penduduk 90.664 jiwa. Status kawasan adalah Mandiri dengan nilai IPKT 2023 sebesar 51,19. Ruang lingkup wilayah mencakup 9 kecamatan dan 98 desa, serta memiliki 2 SP Bina. Berdasarkan IDM 2023, terdapat 1 desa berstatus Mandiri, 8 desa Maju, 36 desa Berkembang, 51 desa Tertinggal, dan sisanya termasuk kategori Sangat Tertinggal. Dasar penetapan kawasan adalah Kepmendesa PDTT No.118 Tahun 2017 dengan kriteria K-2. Aksesibilitas ke PKSN Atambua berjarak 62,1 km.\r\nDari sisi perencanaan, kawasan memiliki dokumen RKT Tahun 2013, RTSP untuk SP Kapitan Meo SKP.A/SP.1 Tahun 2018, serta RSKP berupa SKP E Tahun 2017 dan SKP A Tahun 2018.",
+        "region": "Kobalima Timur",
+        "province": "Nusa Tenggara Timur",
+        "year": "2023",
+        "commodities": [
+          "padi",
+          "jagung",
+          "sapi"
+        ],
+        "hybrid_score": 0.6912
+      },
+      {
+        "chunk_id": 53,
+        "filename": "hulu.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 0,
+        "chunk_size": 761,
+        "text": "DATA LENGKAP – KAWASAN TRANSMIGRASI KETUNGAU HULU\nA. Identitas, Penetapan, dan Posisi Strategis Kawasan\nKawasan Transmigrasi Ketungau Hulu berada di Kabupaten Sintang, Provinsi Kalimantan Barat.\nLuas total kawasan adalah 27.988,27 hektare.\nJumlah penduduk di kawasan tercatat 5.895 jiwa.\nKawasan ditetapkan berdasarkan KEPMENDESA PDTT Nomor 104 Tahun 2017.\nBerdasarkan tipologi nasional, kawasan ini termasuk kriteria K-2.\nAksesibilitas strategis kawasan ke PKSN Jasa adalah 0 km (berada langsung di simpul PKSN).\n(Informasi ini berasal dari infografis “Informasi Umum” pada halaman 1.)\nB. Status Kawasan dan Indeks Pembangunan Kawasan Transmigrasi (IPKT)\nStatus perkembangan kawasan dikategorikan sebagai Kawasan Berkembang.\nNilai IPKT Tahun 2023 adalah 33,24.",
+        "region": "Ketungau Hulu",
+        "province": "Kalimantan Barat",
+        "year": "2017",
+        "commodities": [
+          "padi",
+          "jagung",
+          "kelapa sawit",
+          "karet",
+          "sapi"
+        ],
+        "hybrid_score": 0.6873
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 35.207,
+    "flare_iters": 3,
+    "query_id": "uq_0001",
+    "unans_type": "province_not_in_corpus",
+    "reason": "Bali tidak ada di corpus (province coverage: Sultra, Sulteng, Sulbar, Kalsel, Sumut, Kalbar, Papua, Sumsel, Maluku, Kalteng, Sulsel, Sulut, NTT, Kaltim).",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa status IPKT 2023 untuk kawasan transmigrasi di Provinsi Jawa Barat?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Status IPKT 2023 untuk kawasan transmigrasi Berdasarkan bukti yang diberikan, tidak ada informasi mengenai status IPKT 2023 untuk kawasan transmigrasi di Provinsi Jawa Barat. Bukti yang tersedia hanya mencakup informasi untuk Kalimantan Next sentence: Untuk menjawab pertanyaan ini",
+    "evidence": [
+      {
+        "chunk_id": 3,
+        "filename": "3.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 3,
+        "chunk_size": 541,
+        "text": "erta pembentukan unit TETRA 1.\n4) Cahaya Baru – Barito Kuala, Kalimantan Selatan Kawasan Transmigrasi Cahaya Baru memiliki luas 61.147,70 hektare dengan penduduk 85.914 jiwa, ditetapkan melalui KEPMENDESA PDTT Nomor 9 Tahun 2016, berstatus mandiri dengan IPKT 2023 sebesar 70, mencakup tujuh kecamatan dan 48 desa, serta berjarak 25 km dari WM Banjarmasin. Status lahan adalah HPL, dengan dokumen RKT 2006, RTSP Cahaya Baru/Sampurna 2003, dan RTSP Jejangkit Barat 2006 serta 2008; terdapat 2.770 bidang SHM terbit dan 30 bidang belum terbit.",
+        "province": "Kalimantan Selatan",
+        "year": "2017",
+        "commodities": [
+          "padi",
+          "jagung",
+          "sapi"
+        ],
+        "hybrid_score": 0.7442
+      },
+      {
+        "chunk_id": 193,
+        "filename": "salor.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 818,
+        "text": "KAWASAN TRANSMIGRASI SALOR — Kabupaten Merauke, Provinsi Papua Selatan\r\nKawasan Transmigrasi Salor memiliki luas 75.819,90 hektare dengan jumlah penduduk 55.424 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 9 Tahun 2016 dengan kriteria K-2 dan K-3. Status kawasan adalah Mandiri dengan nilai IPKT 2023 sebesar 62,99. Ruang lingkup wilayah mencakup 5 kecamatan dan 34 desa. Aksesibilitas kawasan ke PKSN Merauke berjarak 60 kilometer. Berdasarkan IDM 2023 terdapat 2 desa mandiri, 23 desa maju, 7 desa berkembang, dan 2 desa sangat tertinggal.\r\nDokumen perencanaan yang tersedia meliputi RKT Tahun 2013; RTSP dan RSKP tidak dirinci. Status lahan kawasan adalah Non-HPL. Sertipikat SHM Transmigrasi yang sudah terbit berjumlah 400 bidang. Kawasan memiliki konektivitas internet. Jarak ke ibu kota provinsi",
+        "province": "Papua",
+        "year": "2016",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet"
+        ],
+        "hybrid_score": 0.7315
+      },
+      {
+        "chunk_id": 139,
+        "filename": "parit rambutan.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 0,
+        "chunk_size": 758,
+        "text": "DATA TERSTRUKTUR – KAWASAN TRANSMIGRASI PARIT RAMBUTAN\nA. Identitas dan Penetapan Kawasan\nKawasan Transmigrasi Parit Rambutan terletak di Kabupaten Ogan Ilir, Provinsi Sumatera Selatan.\nLuas Kawasan Transmigrasi Parit Rambutan adalah 19.281,76 hektare.\nJumlah penduduk Kawasan Transmigrasi Parit Rambutan tercatat 19.264 jiwa.\nKawasan Transmigrasi Parit Rambutan ditetapkan berdasarkan KEPMENDESA PDTT Nomor 104 Tahun 2017.\nKawasan Transmigrasi Parit Rambutan termasuk dalam kriteria K-3.\nAksesibilitas ke Wilayah Metropolitan (WM) Palembang dari Parit Rambutan berjarak 36 kilometer.\nB. Status Kawasan dan Wilayah\nStatus Kawasan Transmigrasi Parit Rambutan adalah kawasan mandiri.\nNilai IPKT Kawasan Transmigrasi Parit Rambutan pada tahun 2023 adalah 50,12.",
+        "region": "Parit Rambutan",
+        "province": "Sumatera Selatan",
+        "year": "2017",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "sapi"
+        ],
+        "hybrid_score": 0.7166
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 11.829,
+    "flare_iters": 2,
+    "query_id": "uq_0002",
+    "unans_type": "province_not_in_corpus",
+    "reason": "Jawa Barat tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Sebutkan daftar kawasan transmigrasi yang berada di Provinsi Jawa Tengah beserta status IPKT-nya.",
+    "reference": "",
+    "method": "flare",
+    "answer": "Berikut adalah daftar kawasan transmigrasi di Provinsi Jawa Tengah beserta status IP KT-nya:\n\nBerdasarkan bukti yang diberikan, tidak ada informasi mengenai daftar kawasan transmigrasi di Provinsi Jawa Tengah beserta status IPKT-nya. Bukti yang tersedia merujuk pada kawasan transmigrasi di Provinsi Sulawesi Tengah (Palolo) dan Kalimantan Tengah (Arut Selatan & Kotawaringin Lama). Untuk dapat menjawab pertanyaan mengenai kawasan",
+    "evidence": [
+      {
+        "chunk_id": 134,
+        "filename": "palolo.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 560,
+        "text": "KAWASAN TRANSMIGRASI PALOLO — Kabupaten Sigi, Provinsi Sulawesi Tengah\nKawasan Transmigrasi Palolo memiliki luas 57.570,03 hektare dengan jumlah penduduk 62.407 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 115 Tahun 2018. Status kawasan adalah Mandiri dengan nilai IPKT 2023 sebesar 64,49. Ruang lingkup wilayah mencakup 4 kecamatan dan 37 desa, serta memiliki 2 SP Bina. Berdasarkan IDM 2023, terdapat 18 desa mandiri/maju, 18 desa berkembang, dan 1 desa tertinggal. Aksesibilitas kawasan ke Kawasan Industri (KI) Palu berjarak 64,8 kilometer.",
+        "province": "Sulawesi Tengah",
+        "year": "2018",
+        "commodities": [
+          "padi",
+          "jagung",
+          "sapi"
+        ],
+        "hybrid_score": 0.7511
+      },
+      {
+        "chunk_id": 74,
+        "filename": "kotawaringin.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 547,
+        "text": "2) Arut Selatan & Kotawaringin Lama – Kotawaringin Barat, Kalimantan Tengah\nKawasan Transmigrasi Arut Selatan dan Kotawaringin Lama memiliki luas 46.139 hektare dengan penduduk 40.981 jiwa, ditetapkan melalui KEPMENDESA PDTT Nomor 132 Tahun 2019, berstatus mandiri dengan IPKT 2023 sebesar 61,66, mencakup dua kecamatan dan sepuluh desa, serta berjarak 50 km dari KI Surya Borneo. Status lahan adalah Non-HPL, dengan dokumen RKT 2019, RTSP SP Rangda 2022, RSKP SKP B 2019 dan SKP A 2021; terdapat 398 bidang SHM terbit dan 530 bidang belum terbit.",
+        "province": "Kalimantan Tengah",
+        "year": "2019",
+        "commodities": [
+          "padi"
+        ],
+        "hybrid_score": 0.7419
+      },
+      {
+        "chunk_id": 255,
+        "filename": "telang.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 0,
+        "chunk_size": 777,
+        "text": "DATA TERSTRUKTUR – KAWASAN TRANSMIGRASI TELANG\nA. Identitas dan Penetapan Kawasan\nKawasan Transmigrasi Telang terletak di Kabupaten Banyuasin, Provinsi Sumatera Selatan.\nLuas Kawasan Transmigrasi Telang adalah 95.542,09 hektare.\nJumlah penduduk Kawasan Transmigrasi Telang tercatat 106.033 jiwa.\nKawasan Transmigrasi Telang ditetapkan berdasarkan KEPMENDESA PDTT Nomor 9 Tahun 2016.\nKawasan Transmigrasi Telang termasuk dalam kriteria K-2 dan K-3.\nAksesibilitas ke Wilayah Metropolitan (WM) Palembang dari Telang berjarak 43 kilometer.\nB. Status Kawasan dan Wilayah\nStatus Kawasan Transmigrasi Telang adalah kawasan mandiri.\nNilai IPKT Kawasan Transmigrasi Telang pada tahun 2023 adalah 68,91.\nRuang lingkup wilayah Kawasan Transmigrasi Telang mencakup 4 kecamatan dan 29 desa.",
+        "region": "Telang",
+        "province": "Sumatera Selatan",
+        "year": "2016",
+        "commodities": [
+          "padi",
+          "jagung",
+          "sapi"
+        ],
+        "hybrid_score": 0.6814
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 25.194,
+    "flare_iters": 2,
+    "query_id": "uq_0003",
+    "unans_type": "province_not_in_corpus",
+    "reason": "Jawa Tengah tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Berapa jumlah penduduk di kawasan transmigrasi Kabupaten Karawang, Provinsi Jawa Barat?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Jumlah penduduk di kawasan transmigrasi Kabupaten Karawang, Provinsi Jawa Barat adalah [ Tidak ada informasi mengenai jumlah penduduk di kawasan transmigrasi Kabupaten Karawang, Provinsi Jawa Barat dalam bukti yang diberikan. Bukti yang tersedia hanya membahas Kawasan Transmigrasi Klamono–Segun di Kabupaten Sorong, Papua Barat Daya, dan Kawasan Transmigrasi Tubbi Taramanu di Kabupaten Polewali Mandar, Sulawesi Barat. Jumlah penduduk di kawasan transmigrasi Kabupaten Karawang, Provinsi Jawa Barat tidak dapat ditentukan berdasarkan",
+    "evidence": [
+      {
+        "chunk_id": 64,
+        "filename": "klamono.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 592,
+        "text": "KAWASAN TRANSMIGRASI KLAMONO–SEGUN — Kabupaten Sorong, Provinsi Papua Barat Daya\nKawasan Transmigrasi Klamono–Segun memiliki luas 135.272,2 hektare dengan jumlah penduduk 15.574 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 106 Tahun 2018 dengan kriteria K-2. Status kawasan adalah Berkembang dengan nilai IPKT 2023 sebesar 29,12. Ruang lingkup wilayah mencakup 3 kecamatan dan 19 desa. Aksesibilitas kawasan ke Destinasi Pariwisata Prioritas (DPP) Raja Ampat berjarak 105 kilometer. Berdasarkan IDM 2023, terdapat 4 desa maju, 11 desa berkembang, dan 4 desa sangat tertinggal.",
+        "region": "Klamono",
+        "province": "Papua",
+        "year": "2018",
+        "commodities": [
+          "padi",
+          "sapi"
+        ],
+        "hybrid_score": 0.7097
+      },
+      {
+        "chunk_id": 268,
+        "filename": "tubi.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 484,
+        "text": "KAWASAN TRANSMIGRASI TUBBI TARAMANU – POLEWALI MANDAR, SULBAR\nKawasan Transmigrasi Tubbi Taramanu terletak di Kabupaten Polewali Mandar, Sulawesi Barat dengan luas 24.947,19 hektare dan jumlah penduduk 59.232 jiwa. Status kawasan adalah Berkembang dengan IPKT 2023 sebesar 33,36. Ruang lingkup wilayah mencakup 3 kecamatan dan 22 desa serta memiliki 1 SP Bina. Dasar penetapan kawasan adalah Kepmendesa PDTT No. 91 Tahun 2016 dengan kriteria K-3. Aksesibilitas ke IKN berjarak 735 km.",
+        "region": "Tubbi Taramanu",
+        "province": "Sulawesi Barat",
+        "year": "2023",
+        "commodities": [
+          "padi",
+          "kopi",
+          "kakao",
+          "sapi"
+        ],
+        "hybrid_score": 0.6919
+      },
+      {
+        "chunk_id": 198,
+        "filename": "sardudu.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 540,
+        "text": "KAWASAN TRANSMIGRASI SARUDU BARAS — Kabupaten Mamuju Utara, Sulawesi Barat\nKawasan Transmigrasi Sarudu Baras memiliki luas 36.902,77 hektare dengan jumlah penduduk 36.460 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT Nomor 104 Tahun 2017 dengan kriteria K-1. Status kawasan adalah Mandiri dengan IPKT 2023 sebesar 59,64. Ruang lingkup wilayah mencakup 3 kecamatan dan 18 desa serta memiliki 1 SP Bina. Berdasarkan IDM 2023, terdapat 3 desa mandiri, 13 desa maju, dan 2 desa berkembang. Potensi daya tampung kawasan adalah 510 KK.",
+        "province": "Sulawesi Barat",
+        "year": "2017",
+        "commodities": [
+          "padi",
+          "jagung",
+          "kakao",
+          "sapi",
+          "udang"
+        ],
+        "hybrid_score": 0.6902
+      },
+      {
+        "chunk_id": 139,
+        "filename": "parit rambutan.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 0,
+        "chunk_size": 758,
+        "text": "DATA TERSTRUKTUR – KAWASAN TRANSMIGRASI PARIT RAMBUTAN\nA. Identitas dan Penetapan Kawasan\nKawasan Transmigrasi Parit Rambutan terletak di Kabupaten Ogan Ilir, Provinsi Sumatera Selatan.\nLuas Kawasan Transmigrasi Parit Rambutan adalah 19.281,76 hektare.\nJumlah penduduk Kawasan Transmigrasi Parit Rambutan tercatat 19.264 jiwa.\nKawasan Transmigrasi Parit Rambutan ditetapkan berdasarkan KEPMENDESA PDTT Nomor 104 Tahun 2017.\nKawasan Transmigrasi Parit Rambutan termasuk dalam kriteria K-3.\nAksesibilitas ke Wilayah Metropolitan (WM) Palembang dari Parit Rambutan berjarak 36 kilometer.\nB. Status Kawasan dan Wilayah\nStatus Kawasan Transmigrasi Parit Rambutan adalah kawasan mandiri.\nNilai IPKT Kawasan Transmigrasi Parit Rambutan pada tahun 2023 adalah 50,12.",
+        "region": "Parit Rambutan",
+        "province": "Sumatera Selatan",
+        "year": "2017",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "sapi"
+        ],
+        "hybrid_score": 0.7837
+      },
+      {
+        "chunk_id": 236,
+        "filename": "Takung–Kamang Baru.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 0,
+        "chunk_size": 735,
+        "text": "DATA TERSTRUKTUR – KAWASAN TRANSMIGRASI MUARA TAKUNG–KAMANG BARU\nA. Identitas dan Penetapan Kawasan\nKawasan Transmigrasi Muara Takung–Kamang Baru terletak di Kabupaten Sijunjung, Provinsi Sumatera Barat.\nLuas Kawasan Transmigrasi Muara Takung–Kamang Baru adalah 57.847 hektare.\nJumlah penduduk Kawasan Transmigrasi Muara Takung–Kamang Baru tercatat 51.729 jiwa.\nKawasan Transmigrasi Muara Takung–Kamang Baru ditetapkan berdasarkan KEPMENDESA PDTT Nomor 118 Tahun 2017.\nKawasan Transmigrasi Muara Takung–Kamang Baru termasuk dalam kriteria K-1.\nPotensi daya tampung Kawasan Transmigrasi Muara Takung–Kamang Baru adalah 599 KK.\nB. Status Kawasan dan Wilayah\nStatus Kawasan Transmigrasi Muara Takung–Kamang Baru adalah kawasan berkembang.",
+        "region": "Muara Takung",
+        "year": "2017",
+        "commodities": [
+          "padi",
+          "jagung",
+          "sapi"
+        ],
+        "hybrid_score": 0.7779
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 32.333,
+    "flare_iters": 3,
+    "query_id": "uq_0004",
+    "unans_type": "province_not_in_corpus",
+    "reason": "Jawa Barat/Karawang tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Apa kriteria penetapan kawasan transmigrasi \"Makmur Jaya\" di Provinsi Nusa Tenggara Barat?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Penetapan kawasan transmigrasi \"Makmur Jaya\" di Provinsi Nusa Tenggara Barat tidak dapat dijelaskan secara spesifik berdasarkan bukti yang diberikan. Namun, secara umum",
+    "evidence": [
+      {
+        "chunk_id": 1071,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 178,
+        "chunk_size": 820,
+        "text": "mpat yang berada di sekitarnya.\nSalah satu upaya yang dilakukan pemerintah untuk melibatkan penduduk setempat dalam program transmigrasi\nadalah pembangunan kawasan transmigrasi yang terintegrasi\ndengan penduduk lokal/desa yang ada, yaitu dengan cara\nmemasukkan desa sekitar ke dalam deliniasi SKP, yang mengarah\nke pembentukan satu kesatuan kawasan ekonomi dalam sistem\npengembangan ekonomi wilayah.\nUntuk mewujudkan data dan deliniasi peta Rencana Satuan\nKawasan Pengembangan (RSKP) sudah ter upload dalam Aplikasi\nSIPUKAT, dengan penggambaran di bawah ini yaitu Kawasan\nMelolo, Kabupaten Sumba Timur, Provinsi Nusa Tenggara Timur.\n111\nSOLUSI PERENCANAAN TRANSMIGRASI\nGambar 5. 25 Rencana Teknis Satuan Pengembangan\n(RSKP)\n5.16.2 Rencana Teknis Satuan Pemukiman (RTSP)\nRencana Teknis Satuan Permukiman (RSKP) untuk\nmeng",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.7933
+      },
+      {
+        "chunk_id": 255,
+        "filename": "telang.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 0,
+        "chunk_size": 777,
+        "text": "DATA TERSTRUKTUR – KAWASAN TRANSMIGRASI TELANG\nA. Identitas dan Penetapan Kawasan\nKawasan Transmigrasi Telang terletak di Kabupaten Banyuasin, Provinsi Sumatera Selatan.\nLuas Kawasan Transmigrasi Telang adalah 95.542,09 hektare.\nJumlah penduduk Kawasan Transmigrasi Telang tercatat 106.033 jiwa.\nKawasan Transmigrasi Telang ditetapkan berdasarkan KEPMENDESA PDTT Nomor 9 Tahun 2016.\nKawasan Transmigrasi Telang termasuk dalam kriteria K-2 dan K-3.\nAksesibilitas ke Wilayah Metropolitan (WM) Palembang dari Telang berjarak 43 kilometer.\nB. Status Kawasan dan Wilayah\nStatus Kawasan Transmigrasi Telang adalah kawasan mandiri.\nNilai IPKT Kawasan Transmigrasi Telang pada tahun 2023 adalah 68,91.\nRuang lingkup wilayah Kawasan Transmigrasi Telang mencakup 4 kecamatan dan 29 desa.",
+        "region": "Telang",
+        "province": "Sumatera Selatan",
+        "year": "2016",
+        "commodities": [
+          "padi",
+          "jagung",
+          "sapi"
+        ],
+        "hybrid_score": 0.6931
+      },
+      {
+        "chunk_id": 139,
+        "filename": "parit rambutan.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 0,
+        "chunk_size": 758,
+        "text": "DATA TERSTRUKTUR – KAWASAN TRANSMIGRASI PARIT RAMBUTAN\nA. Identitas dan Penetapan Kawasan\nKawasan Transmigrasi Parit Rambutan terletak di Kabupaten Ogan Ilir, Provinsi Sumatera Selatan.\nLuas Kawasan Transmigrasi Parit Rambutan adalah 19.281,76 hektare.\nJumlah penduduk Kawasan Transmigrasi Parit Rambutan tercatat 19.264 jiwa.\nKawasan Transmigrasi Parit Rambutan ditetapkan berdasarkan KEPMENDESA PDTT Nomor 104 Tahun 2017.\nKawasan Transmigrasi Parit Rambutan termasuk dalam kriteria K-3.\nAksesibilitas ke Wilayah Metropolitan (WM) Palembang dari Parit Rambutan berjarak 36 kilometer.\nB. Status Kawasan dan Wilayah\nStatus Kawasan Transmigrasi Parit Rambutan adalah kawasan mandiri.\nNilai IPKT Kawasan Transmigrasi Parit Rambutan pada tahun 2023 adalah 50,12.",
+        "region": "Parit Rambutan",
+        "province": "Sumatera Selatan",
+        "year": "2017",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "sapi"
+        ],
+        "hybrid_score": 0.686
+      }
+    ],
+    "is_refusal": false,
+    "latency_s": 30.535,
+    "flare_iters": 2,
+    "query_id": "uq_0005",
+    "unans_type": "province_not_in_corpus",
+    "reason": "NTB tidak ada di corpus (hanya NTT yang tercakup); nama kawasan fiktif.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Bandingkan status kawasan transmigrasi di Provinsi Aceh dan Provinsi Riau berdasarkan IPKT 2023.",
+    "reference": "",
+    "method": "flare",
+    "answer": "Berdasarkan IPKT 2023, status kawasan transmigrasi di Provinsi Aceh dan Provinsi R",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 8.949,
+    "flare_iters": 1,
+    "query_id": "uq_0006",
+    "unans_type": "province_not_in_corpus",
+    "reason": "Aceh dan Riau tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa saja program layanan transmigrasi yang tersedia di Provinsi DI Yogyakarta?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Provinsi DI Yogyakarta menyediakan berbagai program layanan transmigrasi untuk memfas ilitasi pendaftaran program transmigrasi. Layanan ini juga mencakup layanan pendaftaran program transmigrasi. Selain itu, terkait dengan penempatan , terkait dengan penempatan, Provinsi DI Yogyakarta menerapkan kebijakan baru \"rasakan dulu, baru tempatkan\". Kebijakan ini menegaskan bahwa penempatan warga transmigran tidak akan dilakukan sebelum lokasi tersebut dinyatakan layak secara langsung oleh para pengambil keputusan.",
+    "evidence": [
+      {
+        "chunk_id": 692,
+        "filename": "layanan_standar_penempatan_transmigran.txt",
+        "category": "service_programs",
+        "doc_type": "txt",
+        "chunk_index": 1,
+        "chunk_size": 820,
+        "text": "akta\nLaporan Laporan Keuangan\nRencana Kinerja\nPerjanjian Kinerja\nLaporan Kinerja Informasi Publik Informasi Wajib Berkala\nInformasi Tersedia Setiap Saat\nDaftar Informasi Publik\nInformasi Pengadaan Barang dan Jasa\nPermohonan Informasi Publik\nInternal\nPPID\nKabar Balai BBPPMT Yogyakarta\nBPPMT Denpasar\nBPPMT Pekanbaru\nBPPMT Banjarmasin\nCari untuk: Cari Cari\nCari untuk: Cari Cari\nHome\nProfile Tentang Transmigrasi\nVision and Mission\nOrganization Structure\nSejarah Transmigrasi\nOfficials Profile\nDuties and Functions\nServices Transmigration Requirements\nTransmigration Program Registration\nTransmigrant Guide\nTrans Complete\nProcess Flow of Development and Transmigration Area\nPrograms and Policies Program Unggulan\nUnit Kerja Inspektorat Jenderal\nSekretariat Jenderal\nDitjen PPK Transmigrasi\nDitjen PEM Transmigrasi\nPublica",
+        "year": "2025",
+        "hybrid_score": 0.7267
+      },
+      {
+        "chunk_id": 694,
+        "filename": "layanan_standar_penempatan_transmigran.txt",
+        "category": "service_programs",
+        "doc_type": "txt",
+        "chunk_index": 3,
+        "chunk_size": 790,
+        "text": "migrasi nasional melalui penerapan standar baru: “rasakan dulu, baru tempatkan”. Kebijakan ini menegaskan bahwa penempatan warga transmigran tidak akan dilakukan sebelum lokasi tersebut dinyatakan layak secara langsung oleh para pengambil keputusan, termasuk oleh Menteri sendiri. Langkah ini diumumkan dalam dialog terbuka yang digelar di bawah rindangnya pepohonan kawasan Balai Besar Pelatihan dan Pemberdayaan Masyarakat Transmigrasi Yogyakarta , pada Kamis (03/07/2025).\nKebijakan ini merupakan respons terhadap berbagai permasalahan di masa lalu, di mana penempatan transmigran kerap mengabaikan kondisi faktual di lapangan. Hal tersebut seringkali berujung pada tidak optimalnya pelaksanaan program, pemborosan anggaran negara, serta menurunnya kualitas hidup warga yang ditempatkan.",
+        "year": "2025",
+        "hybrid_score": 0.7113
+      },
+      {
+        "chunk_id": 1095,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 202,
+        "chunk_size": 820,
+        "text": "rtas pada seminar terbatas\nPenemukenakan Konsep Ketransmigrasian yang Berwawasan Kemandirian Lokan, diUniversitas Hasanudin, Makassar\nSoetrisno, Loekman1995, Menuju Masyarakat Partisipatif,\nYogyakarta Kanisius\nBappenas 2006, Keterpaduan Kebijakan Antar Sektor dan Antar\nDaerah dalam Peningkatan Daya Saing Kawasan Andalan dan\nPercepatan Pembangunan Daerah Tertinggal. Laporan Akhir\nKajian. Bappenas, Jakarta\nAnharudin, dkk, 2006 Membidik Arah Kebijakan Transmigrasi\nPasca Reformasi, Pusat Penelitian dan Pengembangan\nKetransmigrasian Departemen Tenaga Kerja dan\nTransmigrasi, Jakarta\nDeni R dan Djumantri M, 2002 “Pergeseran Pendekatan dalam\nPerencanaan Pengembangan Wilayah/Kawasan di Indonesia,\ndalam: Winarso, H et al editor. Pemikiran dan Praktek\n132\nSIPUKAT\nPerencanaan dalam era Transformasi di Indonesia.\nDepartem",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.6878
+      },
+      {
+        "chunk_id": 694,
+        "filename": "layanan_standar_penempatan_transmigran.txt",
+        "category": "service_programs",
+        "doc_type": "txt",
+        "chunk_index": 3,
+        "chunk_size": 790,
+        "text": "migrasi nasional melalui penerapan standar baru: “rasakan dulu, baru tempatkan”. Kebijakan ini menegaskan bahwa penempatan warga transmigran tidak akan dilakukan sebelum lokasi tersebut dinyatakan layak secara langsung oleh para pengambil keputusan, termasuk oleh Menteri sendiri. Langkah ini diumumkan dalam dialog terbuka yang digelar di bawah rindangnya pepohonan kawasan Balai Besar Pelatihan dan Pemberdayaan Masyarakat Transmigrasi Yogyakarta , pada Kamis (03/07/2025).\nKebijakan ini merupakan respons terhadap berbagai permasalahan di masa lalu, di mana penempatan transmigran kerap mengabaikan kondisi faktual di lapangan. Hal tersebut seringkali berujung pada tidak optimalnya pelaksanaan program, pemborosan anggaran negara, serta menurunnya kualitas hidup warga yang ditempatkan.",
+        "year": "2025",
+        "hybrid_score": 0.7515
+      },
+      {
+        "chunk_id": 1095,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 202,
+        "chunk_size": 820,
+        "text": "rtas pada seminar terbatas\nPenemukenakan Konsep Ketransmigrasian yang Berwawasan Kemandirian Lokan, diUniversitas Hasanudin, Makassar\nSoetrisno, Loekman1995, Menuju Masyarakat Partisipatif,\nYogyakarta Kanisius\nBappenas 2006, Keterpaduan Kebijakan Antar Sektor dan Antar\nDaerah dalam Peningkatan Daya Saing Kawasan Andalan dan\nPercepatan Pembangunan Daerah Tertinggal. Laporan Akhir\nKajian. Bappenas, Jakarta\nAnharudin, dkk, 2006 Membidik Arah Kebijakan Transmigrasi\nPasca Reformasi, Pusat Penelitian dan Pengembangan\nKetransmigrasian Departemen Tenaga Kerja dan\nTransmigrasi, Jakarta\nDeni R dan Djumantri M, 2002 “Pergeseran Pendekatan dalam\nPerencanaan Pengembangan Wilayah/Kawasan di Indonesia,\ndalam: Winarso, H et al editor. Pemikiran dan Praktek\n132\nSIPUKAT\nPerencanaan dalam era Transformasi di Indonesia.\nDepartem",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.7045
+      }
+    ],
+    "is_refusal": false,
+    "latency_s": 37.845,
+    "flare_iters": 3,
+    "query_id": "uq_0007",
+    "unans_type": "province_not_in_corpus",
+    "reason": "DIY tidak ada di corpus (layanan_* files yang ada: Grobogan, Bondowoso, Sleman, Solo).",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Berapa skor IPKT kawasan transmigrasi \"Sejahtera Mulya\" di Provinsi Lampung?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Untuk mendapatkan skor IPKT kawasan transmigrasi \"Sejahtera Mulya\" Untuk mendapatkan skor IP",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 13.606,
+    "flare_iters": 1,
+    "query_id": "uq_0008",
+    "unans_type": "province_not_in_corpus",
+    "reason": "Lampung tidak ada di corpus; nama kawasan fiktif.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Sebutkan desa-desa target di kawasan transmigrasi Provinsi Sumatera Barat.",
+    "reference": "",
+    "method": "flare",
+    "answer": "Desa-desa target di kawasan transmigrasi Provinsi Sumatera Barat meliputi: Berikut adalah prediksi kalimat selanjutnya",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 9.941,
+    "flare_iters": 1,
+    "query_id": "uq_0009",
+    "unans_type": "province_not_in_corpus",
+    "reason": "Sumatera Barat tidak ada di corpus (hanya Sumut & Sumsel).",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa status pembangunan kawasan transmigrasi di Provinsi Kepulauan Riau tahun 2024?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Status pembangunan kawasan transmigrasi di Provinsi Kepulauan Riau pada tahun Kepulauan Riau pada tahun 2024 tidak dapat diberikan berdasarkan bukti yang tersedia. Bukti yang diberikan ( bukti yang diberikan tidak mencakup informasi mengenai status pembangunan kawasan transmigrasi di Provinsi Kepulauan Riau pada tahun 2024. Bukti yang tersedia hanya membahas Kawasan Transmigrasi Salor di Provinsi Papua Selatan dan Kawasan Transmigrasi Rasau Jaya, dengan data IPKT terbaru yang disebutkan adalah untuk tahun 2023.",
+    "evidence": [
+      {
+        "chunk_id": 193,
+        "filename": "salor.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 818,
+        "text": "KAWASAN TRANSMIGRASI SALOR — Kabupaten Merauke, Provinsi Papua Selatan\r\nKawasan Transmigrasi Salor memiliki luas 75.819,90 hektare dengan jumlah penduduk 55.424 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 9 Tahun 2016 dengan kriteria K-2 dan K-3. Status kawasan adalah Mandiri dengan nilai IPKT 2023 sebesar 62,99. Ruang lingkup wilayah mencakup 5 kecamatan dan 34 desa. Aksesibilitas kawasan ke PKSN Merauke berjarak 60 kilometer. Berdasarkan IDM 2023 terdapat 2 desa mandiri, 23 desa maju, 7 desa berkembang, dan 2 desa sangat tertinggal.\r\nDokumen perencanaan yang tersedia meliputi RKT Tahun 2013; RTSP dan RSKP tidak dirinci. Status lahan kawasan adalah Non-HPL. Sertipikat SHM Transmigrasi yang sudah terbit berjumlah 400 bidang. Kawasan memiliki konektivitas internet. Jarak ke ibu kota provinsi",
+        "province": "Papua",
+        "year": "2016",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet"
+        ],
+        "hybrid_score": 0.5632
+      },
+      {
+        "chunk_id": 171,
+        "filename": "rasau jaya.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 1,
+        "chunk_size": 803,
+        "text": "an kawasan.\nB. Status Kawasan dan Indeks Pembangunan Kawasan Transmigrasi (IPKT) Status perkembangan Kawasan Transmigrasi Rasau Jaya dikategorikan sebagai berdaya saing, menunjukkan tingkat kemajuan ekonomi dan kelembagaan yang relatif tinggi dibanding kawasan lain.\nNilai IPKT Rasau Jaya pada tahun 2023 tercatat sebesar 77,72, yang menempatkannya dalam kategori kawasan maju secara fungsional.\nWilayah administratif kawasan mencakup 5 kecamatan dan 28 desa.\nBerdasarkan Indeks Desa Membangun (IDM) 2023:\n23 desa berstatus mandiri,\n5 desa berstatus maju,\nTidak terdapat desa berstatus berkembang, tertinggal, maupun sangat tertinggal.\nC. Status Lahan dan Dokumen Perencanaan\nStatus penguasaan lahan kawasan adalah Non-HPL, yang berarti berada di luar pengelolaan langsung aset tanah transmigrasi pusat.",
+        "region": "Rasau Jaya",
+        "province": "Kalimantan Barat",
+        "year": "2016",
+        "commodities": [
+          "padi",
+          "kelapa sawit",
+          "karet",
+          "sapi"
+        ],
+        "hybrid_score": 0.5607
+      },
+      {
+        "chunk_id": 236,
+        "filename": "Takung–Kamang Baru.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 0,
+        "chunk_size": 735,
+        "text": "DATA TERSTRUKTUR – KAWASAN TRANSMIGRASI MUARA TAKUNG–KAMANG BARU\nA. Identitas dan Penetapan Kawasan\nKawasan Transmigrasi Muara Takung–Kamang Baru terletak di Kabupaten Sijunjung, Provinsi Sumatera Barat.\nLuas Kawasan Transmigrasi Muara Takung–Kamang Baru adalah 57.847 hektare.\nJumlah penduduk Kawasan Transmigrasi Muara Takung–Kamang Baru tercatat 51.729 jiwa.\nKawasan Transmigrasi Muara Takung–Kamang Baru ditetapkan berdasarkan KEPMENDESA PDTT Nomor 118 Tahun 2017.\nKawasan Transmigrasi Muara Takung–Kamang Baru termasuk dalam kriteria K-1.\nPotensi daya tampung Kawasan Transmigrasi Muara Takung–Kamang Baru adalah 599 KK.\nB. Status Kawasan dan Wilayah\nStatus Kawasan Transmigrasi Muara Takung–Kamang Baru adalah kawasan berkembang.",
+        "region": "Muara Takung",
+        "year": "2017",
+        "commodities": [
+          "padi",
+          "jagung",
+          "sapi"
+        ],
+        "hybrid_score": 0.5574
+      },
+      {
+        "chunk_id": 589,
+        "filename": "PP Nomor 19 Tahun 2024.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 0,
+        "chunk_size": 773,
+        "text": "PRESIDEN\nREI'UELIK INDONESIA\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 19 TAHUN 2024\nTENTANG\nPERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 15 TAHUN 1997\nTENTANG KETRANSMIGRASIAN SEBAGAIMANA TELAH DIUBAH DENGAN\nUNDANG-UNDANG NOMOR 29 TAHUN 2OO9 TENTANG PERUBAHAN ATAS\nUNDANG-UNDANG NOMOR 15 TAHUN 1997 TENTANG KETRANSMIGRASIAN\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nPRESIDEN REPUBLIK INDONESIA,\nMenimbang a. bahwa dalam rangka mempercepat pembangunan wilayah\nmelalui penyelenggaraan transmigrasi diperlukan\npengembangan transmigrasi yang berbasis ilmu\npengetahuan dan teknologi dan penyesuaian terhadap\ndiberlakukannya sistem penyelenggaraan pemerintah\ndaerah urusan konkuren;\nb. bahwa Peraturan Pemerintah Nomor 3 Tahun 2014 tentang\nPelaksanaan Undang-Undang Nomor 15 Tahun 1997",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "regulation_type": "PP",
+        "hybrid_score": 0.5974
+      },
+      {
+        "chunk_id": 171,
+        "filename": "rasau jaya.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 1,
+        "chunk_size": 803,
+        "text": "an kawasan.\nB. Status Kawasan dan Indeks Pembangunan Kawasan Transmigrasi (IPKT) Status perkembangan Kawasan Transmigrasi Rasau Jaya dikategorikan sebagai berdaya saing, menunjukkan tingkat kemajuan ekonomi dan kelembagaan yang relatif tinggi dibanding kawasan lain.\nNilai IPKT Rasau Jaya pada tahun 2023 tercatat sebesar 77,72, yang menempatkannya dalam kategori kawasan maju secara fungsional.\nWilayah administratif kawasan mencakup 5 kecamatan dan 28 desa.\nBerdasarkan Indeks Desa Membangun (IDM) 2023:\n23 desa berstatus mandiri,\n5 desa berstatus maju,\nTidak terdapat desa berstatus berkembang, tertinggal, maupun sangat tertinggal.\nC. Status Lahan dan Dokumen Perencanaan\nStatus penguasaan lahan kawasan adalah Non-HPL, yang berarti berada di luar pengelolaan langsung aset tanah transmigrasi pusat.",
+        "region": "Rasau Jaya",
+        "province": "Kalimantan Barat",
+        "year": "2016",
+        "commodities": [
+          "padi",
+          "kelapa sawit",
+          "karet",
+          "sapi"
+        ],
+        "hybrid_score": 0.5768
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 39.585,
+    "flare_iters": 3,
+    "query_id": "uq_0010",
+    "unans_type": "province_not_in_corpus",
+    "reason": "Kepulauan Riau tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Bagaimana prioritas intervensi untuk kawasan transmigrasi di Provinsi Bangka Belitung?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Prioritas intervensi untuk kawasan transmigrasi di Provinsi Bangka Bel itung adalah sebagai berikut:",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 7.466,
+    "flare_iters": 1,
+    "query_id": "uq_0011",
+    "unans_type": "province_not_in_corpus",
+    "reason": "Bangka Belitung tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Berapa hektare luas kawasan transmigrasi \"Tunas Harapan\" di Provinsi Gorontalo?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Luas kawasan transmigrasi \"Tunas Harapan\" di Provinsi Gorontalo adalah [jumlah] hektare. Tidak ada informasi mengenai luas kawasan transmigrasi \"Tunas Harapan Luas kawasan transmigrasi \"Tunas Harapan\" di Provinsi Gorontalo tidak ditemukan dalam bukti yang diberikan. Luas kawasan transmigrasi \"Tunas Harapan\" di Provinsi Gorontalo tidak ditemukan dalam bukti yang diberikan.",
+    "evidence": [
+      {
+        "chunk_id": 228,
+        "filename": "sumlatala.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 590,
+        "text": "KAWASAN TRANSMIGRASI SUMALATA — Kabupaten Gorontalo Utara, Provinsi Gorontalo\nKawasan Transmigrasi Sumalata memiliki luas 54.299,87 hektare dengan jumlah penduduk 53.376 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 71 Tahun 2016 dengan kriteria K-1. Status kawasan adalah Mandiri dengan nilai IPKT 2023 sebesar 64,71. Ruang lingkup wilayah mencakup 6 kecamatan dan 60 desa, serta memiliki 1 SP Bina. Potensi daya tampung kawasan adalah 255 KK. Berdasarkan status IDM 2023, terdapat 9 desa mandiri, 26 desa maju, 25 desa berkembang, dan tidak terdapat desa sangat tertinggal.",
+        "year": "2016",
+        "commodities": [
+          "jagung",
+          "kopi",
+          "sapi"
+        ],
+        "hybrid_score": 0.8455
+      },
+      {
+        "chunk_id": 64,
+        "filename": "klamono.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 592,
+        "text": "KAWASAN TRANSMIGRASI KLAMONO–SEGUN — Kabupaten Sorong, Provinsi Papua Barat Daya\nKawasan Transmigrasi Klamono–Segun memiliki luas 135.272,2 hektare dengan jumlah penduduk 15.574 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 106 Tahun 2018 dengan kriteria K-2. Status kawasan adalah Berkembang dengan nilai IPKT 2023 sebesar 29,12. Ruang lingkup wilayah mencakup 3 kecamatan dan 19 desa. Aksesibilitas kawasan ke Destinasi Pariwisata Prioritas (DPP) Raja Ampat berjarak 105 kilometer. Berdasarkan IDM 2023, terdapat 4 desa maju, 11 desa berkembang, dan 4 desa sangat tertinggal.",
+        "region": "Klamono",
+        "province": "Papua",
+        "year": "2018",
+        "commodities": [
+          "padi",
+          "sapi"
+        ],
+        "hybrid_score": 0.6085
+      },
+      {
+        "chunk_id": 193,
+        "filename": "salor.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 818,
+        "text": "KAWASAN TRANSMIGRASI SALOR — Kabupaten Merauke, Provinsi Papua Selatan\r\nKawasan Transmigrasi Salor memiliki luas 75.819,90 hektare dengan jumlah penduduk 55.424 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 9 Tahun 2016 dengan kriteria K-2 dan K-3. Status kawasan adalah Mandiri dengan nilai IPKT 2023 sebesar 62,99. Ruang lingkup wilayah mencakup 5 kecamatan dan 34 desa. Aksesibilitas kawasan ke PKSN Merauke berjarak 60 kilometer. Berdasarkan IDM 2023 terdapat 2 desa mandiri, 23 desa maju, 7 desa berkembang, dan 2 desa sangat tertinggal.\r\nDokumen perencanaan yang tersedia meliputi RKT Tahun 2013; RTSP dan RSKP tidak dirinci. Status lahan kawasan adalah Non-HPL. Sertipikat SHM Transmigrasi yang sudah terbit berjumlah 400 bidang. Kawasan memiliki konektivitas internet. Jarak ke ibu kota provinsi",
+        "province": "Papua",
+        "year": "2016",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet"
+        ],
+        "hybrid_score": 0.5913
+      },
+      {
+        "chunk_id": 228,
+        "filename": "sumlatala.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 590,
+        "text": "KAWASAN TRANSMIGRASI SUMALATA — Kabupaten Gorontalo Utara, Provinsi Gorontalo\nKawasan Transmigrasi Sumalata memiliki luas 54.299,87 hektare dengan jumlah penduduk 53.376 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 71 Tahun 2016 dengan kriteria K-1. Status kawasan adalah Mandiri dengan nilai IPKT 2023 sebesar 64,71. Ruang lingkup wilayah mencakup 6 kecamatan dan 60 desa, serta memiliki 1 SP Bina. Potensi daya tampung kawasan adalah 255 KK. Berdasarkan status IDM 2023, terdapat 9 desa mandiri, 26 desa maju, 25 desa berkembang, dan tidak terdapat desa sangat tertinggal.",
+        "year": "2016",
+        "commodities": [
+          "jagung",
+          "kopi",
+          "sapi"
+        ],
+        "hybrid_score": 0.7847
+      },
+      {
+        "chunk_id": 77,
+        "filename": "lagita.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 0,
+        "chunk_size": 802,
+        "text": "DATA TERSTRUKTUR – KAWASAN TRANSMIGRASI LAGITA\nA. Identitas dan Penetapan Kawasan\nKawasan Transmigrasi Lagita terletak di Kabupaten Bengkulu Utara, Provinsi Bengkulu.\nLuas Kawasan Transmigrasi Lagita adalah 99.941,82 hektare.\nJumlah penduduk Kawasan Transmigrasi Lagita tercatat 29.142 jiwa.\nKawasan Transmigrasi Lagita ditetapkan berdasarkan KEPMENDESA PDTT Nomor 9 Tahun 2016.\nKawasan Transmigrasi Lagita termasuk dalam kriteria K-2.\nAksesibilitas ke PKL Arga Makmur dari Lagita berjarak 37,6 kilometer.\nB. Status Kawasan dan Wilayah\nStatus Kawasan Transmigrasi Lagita adalah berdaya saing.\nNilai IPKT Kawasan Transmigrasi Lagita pada tahun 2023 adalah 78,77.\nRuang lingkup wilayah Kawasan Transmigrasi Lagita mencakup 7 kecamatan dan 56 desa.\nBerdasarkan IDM 2023, terdapat 4 desa berstatus mandiri.",
+        "region": "Lagita",
+        "year": "2016",
+        "commodities": [
+          "padi",
+          "jagung",
+          "kopi",
+          "kelapa sawit",
+          "karet"
+        ],
+        "hybrid_score": 0.5644
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 31.455,
+    "flare_iters": 3,
+    "query_id": "uq_0012",
+    "unans_type": "province_not_in_corpus",
+    "reason": "Gorontalo tidak ada di corpus; nama kawasan fiktif.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Apa status IPKT dan jumlah rumah tangga di kawasan transmigrasi Provinsi Papua Barat Daya?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Status IPKT dan jumlah rumah tangga di kawasan transmigrasi Provinsi Papua Barat Daya adalah",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 8.352,
+    "flare_iters": 1,
+    "query_id": "uq_0013",
+    "unans_type": "province_not_in_corpus",
+    "reason": "Papua Barat Daya (provinsi hasil pemekaran 2022) tidak ada di corpus, walau 'Papua' (provinsi induk lama) ada — sengaja mirip untuk menguji false-positive retrieval.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Sebutkan komoditas unggulan di kawasan transmigrasi Provinsi Papua Pegunungan.",
+    "reference": "",
+    "method": "flare",
+    "answer": "Komoditas unggulan di kawasan transmigrasi Provinsi Papua Pegunungan Berdasarkan bukti yang diberikan, tidak ada informasi spesifik mengenai komoditas unggulan di kawasan transmigrasi Provinsi Papua Pegunungan. Berdasarkan bukti yang diberikan, tidak ada informasi spesifik mengenai kom",
+    "evidence": [
+      {
+        "chunk_id": 1053,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 160,
+        "chunk_size": 820,
+        "text": "ak\n45 Maluku Maluku Tengah Kobisonta\n46 Maluku Utara Kepuluan Sula Pulau Mangoli 47 Maluku Utara Pulau Morotai Morotai\n48 Papua Merauke Salor\n49 Papua Merauke Muting\n50 Papua Keerom Senggi\n52 Papua Barat Fak Fak Bombrey-Tomage\n52 Papua Barat Teluk Wondama Werianggi Werabur\n94\nSIPUKAT\n5.7 Sinergitas Kementerian/Lembaga\nParadigma transmigrasi yang transformatif harus\nmemberikan ruang dan peluang transmigran agar lebih produktif\ndan sejahtera. Transmigrasi harus menjadi media pengembangan\ndiri dan komunitas masyarakat untuk maju dan berkembang.\nArah kebijakan pokok pembangunan berbasis kewilayahan dalam\nkurun waktu 2020-2024, pembangunan kawasan transmigrasi\ndifokuskan pada pemenuhan pelayanan dasar, peningkatan\naksesibilitas dan pengembangan ekonomi mendukung pusat\npertumbuhan wilayah.\nHal ini perlu adanya sine",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.7739
+      },
+      {
+        "chunk_id": 1064,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 171,
+        "chunk_size": 820,
+        "text": "emandirian (transmigran\ndan masyarakat sekitar permukiman transmigrasi). Ketiga, mewujudkan integrasi di permukiman transmigrasi, sehingga\nekonomi dan sosial budaya mampu tumbuh dan berkembang\nsecara berkelanjutan. Untuk perlu ditingkatkan komoditas\nunggulan di kawasan transmigrasi ataupun Eks Pemukiman\nTransmigrasi. Data komoditas unggulan ditampilkan dengan icon\nkomoditas yang ada di 152 kawasan transmigrasi dan telah tersaji\n104\nSIPUKAT\npada aplikasi SIPUKAT, yang tergambarkan pada gambar 5.21\nberikut ini.\nGambar 5. 21 Icon Komoditas Kawasan Subulussalam\n105\nSOLUSI PERENCANAAN TRANSMIGRASI\n5.14 Lokasi Wisata\nKawasan transmigrasi memiliki banyak potensi sumber daya\nyang dapat digali dan dikembangkan menjadi kegiatan produktif\nyang bisa mendongkrak ekonomi daerah, meningkatkan\npendapatan dan kesejahteraan ma",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.6528
+      },
+      {
+        "chunk_id": 193,
+        "filename": "salor.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 818,
+        "text": "KAWASAN TRANSMIGRASI SALOR — Kabupaten Merauke, Provinsi Papua Selatan\r\nKawasan Transmigrasi Salor memiliki luas 75.819,90 hektare dengan jumlah penduduk 55.424 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 9 Tahun 2016 dengan kriteria K-2 dan K-3. Status kawasan adalah Mandiri dengan nilai IPKT 2023 sebesar 62,99. Ruang lingkup wilayah mencakup 5 kecamatan dan 34 desa. Aksesibilitas kawasan ke PKSN Merauke berjarak 60 kilometer. Berdasarkan IDM 2023 terdapat 2 desa mandiri, 23 desa maju, 7 desa berkembang, dan 2 desa sangat tertinggal.\r\nDokumen perencanaan yang tersedia meliputi RKT Tahun 2013; RTSP dan RSKP tidak dirinci. Status lahan kawasan adalah Non-HPL. Sertipikat SHM Transmigrasi yang sudah terbit berjumlah 400 bidang. Kawasan memiliki konektivitas internet. Jarak ke ibu kota provinsi",
+        "province": "Papua",
+        "year": "2016",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet"
+        ],
+        "hybrid_score": 0.6422
+      },
+      {
+        "chunk_id": 1053,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 160,
+        "chunk_size": 820,
+        "text": "ak\n45 Maluku Maluku Tengah Kobisonta\n46 Maluku Utara Kepuluan Sula Pulau Mangoli 47 Maluku Utara Pulau Morotai Morotai\n48 Papua Merauke Salor\n49 Papua Merauke Muting\n50 Papua Keerom Senggi\n52 Papua Barat Fak Fak Bombrey-Tomage\n52 Papua Barat Teluk Wondama Werianggi Werabur\n94\nSIPUKAT\n5.7 Sinergitas Kementerian/Lembaga\nParadigma transmigrasi yang transformatif harus\nmemberikan ruang dan peluang transmigran agar lebih produktif\ndan sejahtera. Transmigrasi harus menjadi media pengembangan\ndiri dan komunitas masyarakat untuk maju dan berkembang.\nArah kebijakan pokok pembangunan berbasis kewilayahan dalam\nkurun waktu 2020-2024, pembangunan kawasan transmigrasi\ndifokuskan pada pemenuhan pelayanan dasar, peningkatan\naksesibilitas dan pengembangan ekonomi mendukung pusat\npertumbuhan wilayah.\nHal ini perlu adanya sine",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.8179
+      },
+      {
+        "chunk_id": 193,
+        "filename": "salor.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 818,
+        "text": "KAWASAN TRANSMIGRASI SALOR — Kabupaten Merauke, Provinsi Papua Selatan\r\nKawasan Transmigrasi Salor memiliki luas 75.819,90 hektare dengan jumlah penduduk 55.424 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 9 Tahun 2016 dengan kriteria K-2 dan K-3. Status kawasan adalah Mandiri dengan nilai IPKT 2023 sebesar 62,99. Ruang lingkup wilayah mencakup 5 kecamatan dan 34 desa. Aksesibilitas kawasan ke PKSN Merauke berjarak 60 kilometer. Berdasarkan IDM 2023 terdapat 2 desa mandiri, 23 desa maju, 7 desa berkembang, dan 2 desa sangat tertinggal.\r\nDokumen perencanaan yang tersedia meliputi RKT Tahun 2013; RTSP dan RSKP tidak dirinci. Status lahan kawasan adalah Non-HPL. Sertipikat SHM Transmigrasi yang sudah terbit berjumlah 400 bidang. Kawasan memiliki konektivitas internet. Jarak ke ibu kota provinsi",
+        "province": "Papua",
+        "year": "2016",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet"
+        ],
+        "hybrid_score": 0.7118
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 36.386,
+    "flare_iters": 3,
+    "query_id": "uq_0014",
+    "unans_type": "province_not_in_corpus",
+    "reason": "Papua Pegunungan (provinsi pemekaran) tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Berapa jumlah desa dengan status IDM Berkembang di kawasan transmigrasi Provinsi Banten?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Berdasarkan data yang tersedia, jumlah desa dengan status IDM Berkembang di kawasan transmigrasi Provinsi Banten tidak tersedia dalam data yang diberikan. Data yang tersedia hanya mencakup informasi mengenai Kawasan Transmigrasi Patlean dan Kawasan Transmigrasi Pulau B Berdasarkan data yang tersedia, jumlah desa dengan status IDM Berikut adalah prediksi kalimat",
+    "evidence": [
+      {
+        "chunk_id": 148,
+        "filename": "patlean.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 491,
+        "text": "KAWASAN TRANSMIGRASI PATLEAN — Kabupaten Halmahera Timur, Provinsi Maluku Utara\nKawasan Transmigrasi Patlean memiliki luas 29.711 hektare dengan jumlah penduduk 21.715 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 115 Tahun 2018 dengan kriteria K-1. Status kawasan adalah Berkembang dengan nilai IPKT 2023 sebesar 48,15. Ruang lingkup wilayah mencakup 1 kecamatan dan 7 desa, dengan potensi daya tampung 322 KK. Berdasarkan IDM 2023 terdapat 1 desa maju dan 6 desa berkembang.",
+        "province": "Maluku",
+        "year": "2018",
+        "commodities": [
+          "padi",
+          "jagung",
+          "sapi"
+        ],
+        "hybrid_score": 0.7832
+      },
+      {
+        "chunk_id": 15,
+        "filename": "bacan.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 527,
+        "text": "KAWASAN TRANSMIGRASI PULAU BACAN — Kabupaten Halmahera Selatan, Provinsi Maluku Utara\nKawasan Transmigrasi Pulau Bacan memiliki luas 16.742 hektare dengan jumlah penduduk 6.619 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 118 Tahun 2017 dengan kriteria K-2. Status kawasan adalah Berkembang dengan nilai IPKT 2023 sebesar 32,14. Ruang lingkup wilayah mencakup 3 kecamatan dan 7 desa. Aksesibilitas kawasan ke KI Pulau Obi berjarak 102 kilometer. Berdasarkan IDM 2023, terdapat 3 desa maju dan 4 desa berkembang.",
+        "province": "Maluku",
+        "year": "2017",
+        "commodities": [
+          "padi",
+          "jagung",
+          "kakao",
+          "sapi"
+        ],
+        "hybrid_score": 0.7653
+      },
+      {
+        "chunk_id": 711,
+        "filename": "pengantar_kriteria_kawasan.docx",
+        "category": "general_reference",
+        "doc_type": "docx",
+        "chunk_index": 5,
+        "chunk_size": 583,
+        "text": " berkembang berjumlah 575 desa, setara dengan 46,67 persen berdasarkan IDM 2023. Desa berstatus tertinggal berjumlah 207 desa, setara dengan 16,80 persen berdasarkan IDM 2023.\nDesa berstatus sangat tertinggal berjumlah 15 desa, setara dengan 1,22 persen berdasarkan IDM 2023.\nPersentase status desa juga disajikan berdasarkan proyeksi Indeks Desa tahun 2023.\nD. Cakupan Wilayah Administratif 45 Kawasan Transmigrasi\nSebanyak 45 kawasan transmigrasi mencakup 43 kabupaten.\nSebanyak 45 kawasan transmigrasi mencakup 21 provinsi.\nSebanyak 45 kawasan transmigrasi mencakup 171 kecamatan.",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "hybrid_score": 0.7626
+      },
+      {
+        "chunk_id": 148,
+        "filename": "patlean.txt",
+        "category": "regional_profile",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 491,
+        "text": "KAWASAN TRANSMIGRASI PATLEAN — Kabupaten Halmahera Timur, Provinsi Maluku Utara\nKawasan Transmigrasi Patlean memiliki luas 29.711 hektare dengan jumlah penduduk 21.715 jiwa. Kawasan ini ditetapkan berdasarkan KEPMENDESA PDTT No. 115 Tahun 2018 dengan kriteria K-1. Status kawasan adalah Berkembang dengan nilai IPKT 2023 sebesar 48,15. Ruang lingkup wilayah mencakup 1 kecamatan dan 7 desa, dengan potensi daya tampung 322 KK. Berdasarkan IDM 2023 terdapat 1 desa maju dan 6 desa berkembang.",
+        "province": "Maluku",
+        "year": "2018",
+        "commodities": [
+          "padi",
+          "jagung",
+          "sapi"
+        ],
+        "hybrid_score": 0.7767
+      },
+      {
+        "chunk_id": 711,
+        "filename": "pengantar_kriteria_kawasan.docx",
+        "category": "general_reference",
+        "doc_type": "docx",
+        "chunk_index": 5,
+        "chunk_size": 583,
+        "text": " berkembang berjumlah 575 desa, setara dengan 46,67 persen berdasarkan IDM 2023. Desa berstatus tertinggal berjumlah 207 desa, setara dengan 16,80 persen berdasarkan IDM 2023.\nDesa berstatus sangat tertinggal berjumlah 15 desa, setara dengan 1,22 persen berdasarkan IDM 2023.\nPersentase status desa juga disajikan berdasarkan proyeksi Indeks Desa tahun 2023.\nD. Cakupan Wilayah Administratif 45 Kawasan Transmigrasi\nSebanyak 45 kawasan transmigrasi mencakup 43 kabupaten.\nSebanyak 45 kawasan transmigrasi mencakup 21 provinsi.\nSebanyak 45 kawasan transmigrasi mencakup 171 kecamatan.",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "hybrid_score": 0.7729
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 33.332,
+    "flare_iters": 3,
+    "query_id": "uq_0015",
+    "unans_type": "province_not_in_corpus",
+    "reason": "Banten tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa isi Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Undang-Undang Nomor 15 Tahun 199 7 tentang Ketransmigras",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 6.478,
+    "flare_iters": 1,
+    "query_id": "uq_0016",
+    "unans_type": "regulation_not_covered",
+    "reason": "UU yang ada di corpus adalah UU No. 29/2009, bukan UU No. 15/1997.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa perubahan utama dalam Peraturan Pemerintah Nomor 3 Tahun 2014 tentang Pelaksanaan Undang-Undang Ketransmigrasian?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Peraturan Pemerintah Nomor 3 Tahun 2014 membawa beberapa perubahan karena sudah tidak sesuai dengan perkembangan dan kebutuhan di masyarakat sehingga ...sehingga perlu",
+    "evidence": [
+      {
+        "chunk_id": 590,
+        "filename": "PP Nomor 19 Tahun 2024.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 1,
+        "chunk_size": 820,
+        "text": "erintah Nomor 3 Tahun 2014 tentang\nPelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian sebagaimana telah diubah dengan\nUndang-Undang Nomor 29 Tahun 2OO9 tentang Perubahan\nAtas Undang-Undang Nomor 15 Tahun 1997 tentang\nKetrans'migrasian sudah tidak sesuai dengan perkembangan\ndan kebutuhan di masyarakat sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, serta untuk melaksanakan\nketentuan Pasal 8 ayat (5), Pasal 14 ayat (5), Pasal 15\nayat (4), Pasal 17, Pasal 22, Pasal 31, Pasal 33, Pasal 35\nayat (4), Pasal35A ayat (2), Pasal35F, dan Pasal38 Undang-\nUndang Nomor 15 Tahun 1997 tentang Ketransmigrasian\nsebagaimana telah diubah dengan Undang-Undang\nNomor 29 Tahun 2OO9 tentang Perubahan atas Undang-\nUndang Nomor 15 Tahun 1997 tentang Ketransmi",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "regulation_type": "PP",
+        "hybrid_score": 0.8242
+      },
+      {
+        "chunk_id": 816,
+        "filename": "Permentrans_1_2025_KerjaSamaDaerah.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 0,
+        "chunk_size": 810,
+        "text": "PERATURAN MENTERI TRANSMIGRASI\nREPUBLIK INDONESIA\nNOMOR 1 TAHUN 2025\nTENTANG\nKERJA SAMA PELAKSANAAN TRANSMIGRASI ANTAR PEMERINTAH DAERAH\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nMENTERI TRANSMIGRASI\nREPUBLIK INDONESIA,\nMenimbang : bahwa untuk melaksanakan ketentuan Pasal 143 ayat (1)\nPeraturan Pemerintah Nomor 19 Tahun 2024 tentang Peraturan\nPelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian sebagaimana telah diubah dengan Undang-\nUndang Nomor 29 Tahun 2009 tentang Perubahan atas\nUndang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian, perlu menetapkan Peraturan Menteri\nTransmigrasi tentang Kerja Sama Pelaksanaan Transmigrasi\nAntar Pemerintah Daerah;\nMengingat : 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 39 Tahun 2008 tentang",
+        "year": "2025",
+        "regulation_type": "PP",
+        "hybrid_score": 0.8216
+      },
+      {
+        "chunk_id": 459,
+        "filename": "no 5.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 2,
+        "chunk_size": 820,
+        "text": "-Undang Nomor 39 Tahun 2008 tentang\nKementerian Negara (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran\nNegara Republik Indonesia Nomor 4916);\n4. Peraturan Pemerintah Nomor 3 Tahun 2014 tentang\nPelaksanaan Undang-Undang Nomor 15 Tahun 1997\ntentang Ketransmigrasian sebagaimana telah diubah\ndengan Undang-Undang Nomor 29 Tahun 2009 tentang\nPerubahan atas Undang-Undang Nomor 15 Tahun 1997\ntentang Ketransmigrasian (Lembaran Negara Republik\nIndonesia Tahun 2014 Nomor 9, Tambahan Lembaran\nNegara Republik Indonesia Nomor 5497);\n5. Peraturan Pemerintah Nomor 12 Tahun 2017 tentang\nPembinaan dan Pengawasan Penyelenggaraan\nPemerintahan Daerah (Lembaran Negara Republik\nIndonesia Tahun 2017 Nomor 73, Tambahan Lembaran\nNegara Republik Indonesia Nomor 6041);\n6. Peraturan Presiden Nomor 85 Tahun 202",
+        "region": "Dengan Rahmat Tuhan Yang Maha Esa",
+        "year": "2021",
+        "regulation_type": "PP",
+        "hybrid_score": 0.8041
+      }
+    ],
+    "is_refusal": false,
+    "latency_s": 32.373,
+    "flare_iters": 2,
+    "query_id": "uq_0017",
+    "unans_type": "regulation_not_covered",
+    "reason": "PP yang ada di corpus adalah PP No. 19/2024, bukan PP No. 3/2014.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Sebutkan isi Peraturan Menteri Transmigrasi Nomor 12 Tahun 2019 tentang Standar Pelayanan Minimal Kawasan Transmigrasi.",
+    "reference": "",
+    "method": "flare",
+    "answer": "Peraturan Menteri Transmigrasi Nomor 12 Tahun 201 9 tentang Standar Pelayanan Minimal Kawasan Transmigrasi. Berikut adalah prediksi kalimat selanjutnya",
+    "evidence": [
+      {
+        "chunk_id": 816,
+        "filename": "Permentrans_1_2025_KerjaSamaDaerah.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 0,
+        "chunk_size": 810,
+        "text": "PERATURAN MENTERI TRANSMIGRASI\nREPUBLIK INDONESIA\nNOMOR 1 TAHUN 2025\nTENTANG\nKERJA SAMA PELAKSANAAN TRANSMIGRASI ANTAR PEMERINTAH DAERAH\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nMENTERI TRANSMIGRASI\nREPUBLIK INDONESIA,\nMenimbang : bahwa untuk melaksanakan ketentuan Pasal 143 ayat (1)\nPeraturan Pemerintah Nomor 19 Tahun 2024 tentang Peraturan\nPelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian sebagaimana telah diubah dengan Undang-\nUndang Nomor 29 Tahun 2009 tentang Perubahan atas\nUndang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian, perlu menetapkan Peraturan Menteri\nTransmigrasi tentang Kerja Sama Pelaksanaan Transmigrasi\nAntar Pemerintah Daerah;\nMengingat : 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 39 Tahun 2008 tentang",
+        "year": "2025",
+        "regulation_type": "PP",
+        "hybrid_score": 0.7469
+      },
+      {
+        "chunk_id": 714,
+        "filename": "Permentrans_1_2024_OTK.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 2,
+        "chunk_size": 820,
+        "text": " Nomor 172 Tahun 2024 tentang\nKementerian Transmigrasi (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 368);\nMEMUTUSKAN:\nMenetapkan : PERATURAN MENTERI TRANSMIGRASI TENTANG\nORGANISASI DAN TATA KERJA KEMENTERIAN\nTRANSMIGRASI.\n- 2 -\nBAB I\nKETENTUAN UMUM\nPasal 1\nDalam Peraturan Menteri ini yang dimaksud dengan:\n1. Kementerian Transmigrasi yang selanjutnya disebut\nKementerian adalah kementerian yang\nmenyelenggarakan urusan pemerintahan di bidang\ntransmigrasi.\n2. Menteri adalah menteri yang menyelenggarakan urusan\npemerintahan di bidang transmigrasi.\nBAB II\nKEDUDUKAN, TUGAS, DAN FUNGSI\nPasal 2\n(1) Kementerian berada di bawah dan bertanggung jawab\nkepada Presiden.\n(2) Kementerian dipimpin oleh Menteri.\nPasal 3\n(1) Dalam memimpin Kementerian, Menteri sebagaimana\ndimaksud dalam Pasal 2 ayat (2) dapat dibantu ole",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "regulation_type": "Permen",
+        "hybrid_score": 0.6842
+      },
+      {
+        "chunk_id": 813,
+        "filename": "Permentrans_1_2024_OTK.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 101,
+        "chunk_size": 820,
+        "text": " Menteri ini.\nPasal 182\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan\nTransmigrasi Nomor 15 Tahun 2020 tentang Organisasi dan\nTata Kerja Kementerian Desa, Pembangunan Daerah\nTertinggal, dan Transmigrasi (Berita Negara Republik\nIndonesia Tahun 2020 Nomor 1256) sebagaimana telah\ndiubah dengan Peraturan Menteri Desa, Pembangunan\nDaerah Tertinggal, dan Transmigrasi Nomor 5 Tahun 2022\ntentang Perubahan atas Peraturan Menteri Desa,\nPembangunan Daerah Tertinggal, dan Transmigrasi Nomor 15\nTahun 2020 tentang Organisasi dan Tata Kerja Kementerian\nDesa, Pembangunan Daerah Tertinggal, dan Transmigrasi\n(Berita Negara Republik Indonesia Tahun 2022 Nomor 823)\nyang mengatur mengenai penyelenggaraan tugas dan fungsi di\nbidang ketransmigrasian, dicabut dan dinyatakan",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "regulation_type": "Permen",
+        "hybrid_score": 0.6827
+      }
+    ],
+    "is_refusal": false,
+    "latency_s": 22.585,
+    "flare_iters": 2,
+    "query_id": "uq_0018",
+    "unans_type": "regulation_not_covered",
+    "reason": "Permentrans yang ada di corpus adalah No. 1/2024, 1/2025, 8/2025 — bukan No. 12/2019.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa ketentuan dalam Peraturan Presiden Nomor 50 Tahun 2018 tentang Percepatan Pembangunan Kawasan Transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Peraturan Presiden Nomor 50 Tahun 2018 tentang Perce atan dan Integrasi Penyelenggaraan Transmigrasi. Peraturan Presiden Nomor 50 Tahun 2018 mengatur tentang percepatan pembangunan kawasan",
+    "evidence": [
+      {
+        "chunk_id": 1129,
+        "filename": "KAK_Transpolitan_SIPUKAT.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 9,
+        "chunk_size": 820,
+        "text": "sian;\n3. Peraturan Presiden Nomor 50 Tahun 2018 tentang Koordinasi dan Integrasi Penyelenggaraan Transmigrasi;\n4. Peraturan Presiden Nomor 18 Tahun 2020 tentang Rencana Pembangunan Jangka\nMenengah Nasional Tahun 2020-2024;\n5. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 12\nTahun 2017 tentang Kerja Sama Pelaksanaan Transmigrasi Antar Pemerintah Daerah;\n6. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 12\nTahun 2018 tentang Kerja Sama di Lingkungan Kementerian Desa, Pembangunan\nDaerah Tertinggal, dan Transmigrasi;\n7. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 19\nTahun 2018 tentang Pola Usaha Pokok Transmigrasi;\n8. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 4\nTahun 2019 tentang Su",
+        "region": "Transpolitan Melalui Sipukat",
+        "year": "2009",
+        "regulation_type": "PP",
+        "hybrid_score": 0.8235
+      },
+      {
+        "chunk_id": 589,
+        "filename": "PP Nomor 19 Tahun 2024.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 0,
+        "chunk_size": 773,
+        "text": "PRESIDEN\nREI'UELIK INDONESIA\nPERATURAN PEMERINTAH REPUBLIK INDONESIA\nNOMOR 19 TAHUN 2024\nTENTANG\nPERATURAN PELAKSANAAN UNDANG-UNDANG NOMOR 15 TAHUN 1997\nTENTANG KETRANSMIGRASIAN SEBAGAIMANA TELAH DIUBAH DENGAN\nUNDANG-UNDANG NOMOR 29 TAHUN 2OO9 TENTANG PERUBAHAN ATAS\nUNDANG-UNDANG NOMOR 15 TAHUN 1997 TENTANG KETRANSMIGRASIAN\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nPRESIDEN REPUBLIK INDONESIA,\nMenimbang a. bahwa dalam rangka mempercepat pembangunan wilayah\nmelalui penyelenggaraan transmigrasi diperlukan\npengembangan transmigrasi yang berbasis ilmu\npengetahuan dan teknologi dan penyesuaian terhadap\ndiberlakukannya sistem penyelenggaraan pemerintah\ndaerah urusan konkuren;\nb. bahwa Peraturan Pemerintah Nomor 3 Tahun 2014 tentang\nPelaksanaan Undang-Undang Nomor 15 Tahun 1997",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "regulation_type": "PP",
+        "hybrid_score": 0.7142
+      },
+      {
+        "chunk_id": 1047,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 154,
+        "chunk_size": 820,
+        "text": "ta Pengembangan Usaha\nTransmigran (PUT) telah tersajikan dalam aplikasi SIPUKAT, seperti gambar 5.11 di bawah ini.\nGambar 5. 11 Pengambang Usaha Transmigran (PUT)\n5.6 Prioritas Nasional 2020-2024\nSesuai dengan Peraturan Presiden No 18 Tahun 2020 tentang\nRencana Pembangunan Jangka Menengah Nasional (RPJMN)\n2020-2024, sehingga disusun rencana strategis untuk bidang\ntransmigrasi. Berdasarkan UU Ketransmigrasian mengamanatkan\nbahwa pembangunan transmigrasi dilaksanakan berbasis\n91\nSOLUSI PERENCANAAN TRANSMIGRASI\nkawasan. Mandat tersebut merupakan salah satu upaya\npercepatan pembangunan kota-kota kecil terutama di luar pulau\nJawa, untuk meningkatkan perannya sebagai motor penggerak\npembangunan daerah. Hal ini dapat dilihat pada gambar 5.12 dan\n5.13 di bawah ini.\nGambar 5. 12 Kawasan Transmigrasi Prioritas Nasional",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.6716
+      },
+      {
+        "chunk_id": 1129,
+        "filename": "KAK_Transpolitan_SIPUKAT.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 9,
+        "chunk_size": 820,
+        "text": "sian;\n3. Peraturan Presiden Nomor 50 Tahun 2018 tentang Koordinasi dan Integrasi Penyelenggaraan Transmigrasi;\n4. Peraturan Presiden Nomor 18 Tahun 2020 tentang Rencana Pembangunan Jangka\nMenengah Nasional Tahun 2020-2024;\n5. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 12\nTahun 2017 tentang Kerja Sama Pelaksanaan Transmigrasi Antar Pemerintah Daerah;\n6. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 12\nTahun 2018 tentang Kerja Sama di Lingkungan Kementerian Desa, Pembangunan\nDaerah Tertinggal, dan Transmigrasi;\n7. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 19\nTahun 2018 tentang Pola Usaha Pokok Transmigrasi;\n8. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 4\nTahun 2019 tentang Su",
+        "region": "Transpolitan Melalui Sipukat",
+        "year": "2009",
+        "regulation_type": "PP",
+        "hybrid_score": 0.7705
+      },
+      {
+        "chunk_id": 537,
+        "filename": "Permentrans Nomor 8 Tahun 2025 tentang Transformasi Transmigrasi.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 4,
+        "chunk_size": 820,
+        "text": "rasian sebagaimana telah diubah\ndengan Undang-Undang Nomor 29 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 1997\ntentang Ketransmigrasian (Lembaran Negara Republik\nIndonesia Tahun 2024 Nomor 79, Tambahan Lembaran\nNegara Republik Indonesia Nomor 6915);\n7. Peraturan Presiden Nomor 39 Tahun 2023 tentang\nManajemen Risiko Pembangunan Nasional (Lembaran\nNegara Republik Indonesia Tahun 2023 Nomor 90);\n8. Peraturan Presiden Nomor 172 Tahun 2024 tentang\nKementerian Transmigrasi (Lembaran Negara Republik\nIndonesia Tahun 2024 Nomor 368);\n9. Peraturan Presiden Nomor 12 Tahun 2025 tentang Rencana\nPembangunan Jangka Menengah Nasional Tahun\n2025-2029 (Lembaran Negara Republik Indonesia Tahun\n2025 Nomor 19);\n10. Peraturan Menteri Transmigrasi Nomor 1 Tahun 2024\ntentang Organisasi dan Tata Kerja Kementerian\nT",
+        "year": "2025",
+        "commodities": [
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.5972
+      }
+    ],
+    "is_refusal": false,
+    "latency_s": 38.024,
+    "flare_iters": 3,
+    "query_id": "uq_0019",
+    "unans_type": "regulation_not_covered",
+    "reason": "Tidak ada Perpres apa pun di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Bagaimana isi Peraturan Menteri Desa Nomor 91 Tahun 2016 tentang Status Perkembangan Desa?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Peraturan Menteri Desa Nomor 91 Tahun 2016 Next sentence: mengatur",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 6.964,
+    "flare_iters": 1,
+    "query_id": "uq_0020",
+    "unans_type": "regulation_not_covered",
+    "reason": "Regulasi ini disebut sebagai contoh kualitatif di paper (Fig. 4) tapi teks lengkapnya tidak ada sebagai dokumen tersendiri di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa isi SNI 7331:2019 tentang mutu biji kopi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Transmigrasi di Indonesia adalah program pemerintah yang bertujuan untuk memindahkan penduduk dari daerah The partial answer provided (\"",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 7.862,
+    "flare_iters": 1,
+    "query_id": "uq_0021",
+    "unans_type": "regulation_not_covered",
+    "reason": "SNI yang ada di corpus adalah SNI 8926 dan SNI 6232:2025, bukan SNI 7331:2019.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Sebutkan pasal-pasal penting dalam Undang-Undang Nomor 2 Tahun 1972 tentang Transmigrasi.",
+    "reference": "",
+    "method": "flare",
+    "answer": "Beberapa pasal penting dalam Undang-Undang Nomor 2 Tahun 1972 tentang Trans",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 7.609,
+    "flare_iters": 1,
+    "query_id": "uq_0022",
+    "unans_type": "regulation_not_covered",
+    "reason": "UU No. 2/1972 tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa isi Peraturan Menteri Pertanian Nomor 25 Tahun 2020 tentang Budidaya Komoditas Perkebunan di Kawasan Transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Peraturan Menteri Pertanian Nomor 25 Tahun 2020 mengatur Tidak ada informasi yang relevan dalam bukti yang diberikan mengenai isi Peraturan Menteri Pert anian Nomor 25 Tahun 2020 tentang Budidaya Kom anian Nomor 25 Tahun 2020 tentang Budidaya Komoditas Perkebunan di Kawasan Transmigrasi. Bukti yang diberikan hanya berisi informasi mengenai Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi.",
+    "evidence": [
+      {
+        "chunk_id": 813,
+        "filename": "Permentrans_1_2024_OTK.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 101,
+        "chunk_size": 820,
+        "text": " Menteri ini.\nPasal 182\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan\nTransmigrasi Nomor 15 Tahun 2020 tentang Organisasi dan\nTata Kerja Kementerian Desa, Pembangunan Daerah\nTertinggal, dan Transmigrasi (Berita Negara Republik\nIndonesia Tahun 2020 Nomor 1256) sebagaimana telah\ndiubah dengan Peraturan Menteri Desa, Pembangunan\nDaerah Tertinggal, dan Transmigrasi Nomor 5 Tahun 2022\ntentang Perubahan atas Peraturan Menteri Desa,\nPembangunan Daerah Tertinggal, dan Transmigrasi Nomor 15\nTahun 2020 tentang Organisasi dan Tata Kerja Kementerian\nDesa, Pembangunan Daerah Tertinggal, dan Transmigrasi\n(Berita Negara Republik Indonesia Tahun 2022 Nomor 823)\nyang mengatur mengenai penyelenggaraan tugas dan fungsi di\nbidang ketransmigrasian, dicabut dan dinyatakan",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "regulation_type": "Permen",
+        "hybrid_score": 0.7879
+      },
+      {
+        "chunk_id": 460,
+        "filename": "no 5.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 3,
+        "chunk_size": 820,
+        "text": "Nomor 85 Tahun 2020 tentang\nKementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi (Lembaran Negara Republik Indonesia\nTahun 2020 Nomor 192);\n7. Peraturan Menteri Desa, Pembangunan Daerah\nTertinggal, dan Transmigrasi Nomor 15 Tahun 2020\ntentang Organisasi dan Tata Kerja Kementerian Desa,\nPembangunan Daerah Tertinggal, dan Transmigrasi\n(Berita Negara Republik Indonesia Tahun 2020 Nomor\n1256);\nMEMUTUSKAN:\nMenetapkan : PERATURAN MENTERI DESA, PEMBANGUNAN DAERAH\nTERTINGGAL, DAN TRANSMIGRASI TENTANG TATA CARA\nPERENCANAAN KAWASAN TRANSMIGRASI.\n- 3 -\nBAB I\nKETENTUAN UMUM\nPasal 1\nDalam Peraturan Menteri ini yang dimaksud dengan:\n1. Ketransmigrasian adalah segala sesuatu yang berkaitan\ndengan penyelenggaraan transmigrasi.\n2. Transmigrasi adalah perpindahan penduduk secara\nsukarela untuk meningkatkan kesejah",
+        "region": "Dengan Rahmat Tuhan Yang Maha Esa",
+        "year": "2021",
+        "regulation_type": "PP",
+        "hybrid_score": 0.7563
+      },
+      {
+        "chunk_id": 1129,
+        "filename": "KAK_Transpolitan_SIPUKAT.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 9,
+        "chunk_size": 820,
+        "text": "sian;\n3. Peraturan Presiden Nomor 50 Tahun 2018 tentang Koordinasi dan Integrasi Penyelenggaraan Transmigrasi;\n4. Peraturan Presiden Nomor 18 Tahun 2020 tentang Rencana Pembangunan Jangka\nMenengah Nasional Tahun 2020-2024;\n5. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 12\nTahun 2017 tentang Kerja Sama Pelaksanaan Transmigrasi Antar Pemerintah Daerah;\n6. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 12\nTahun 2018 tentang Kerja Sama di Lingkungan Kementerian Desa, Pembangunan\nDaerah Tertinggal, dan Transmigrasi;\n7. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 19\nTahun 2018 tentang Pola Usaha Pokok Transmigrasi;\n8. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 4\nTahun 2019 tentang Su",
+        "region": "Transpolitan Melalui Sipukat",
+        "year": "2009",
+        "regulation_type": "PP",
+        "hybrid_score": 0.7355
+      },
+      {
+        "chunk_id": 813,
+        "filename": "Permentrans_1_2024_OTK.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 101,
+        "chunk_size": 820,
+        "text": " Menteri ini.\nPasal 182\nPada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan\nTransmigrasi Nomor 15 Tahun 2020 tentang Organisasi dan\nTata Kerja Kementerian Desa, Pembangunan Daerah\nTertinggal, dan Transmigrasi (Berita Negara Republik\nIndonesia Tahun 2020 Nomor 1256) sebagaimana telah\ndiubah dengan Peraturan Menteri Desa, Pembangunan\nDaerah Tertinggal, dan Transmigrasi Nomor 5 Tahun 2022\ntentang Perubahan atas Peraturan Menteri Desa,\nPembangunan Daerah Tertinggal, dan Transmigrasi Nomor 15\nTahun 2020 tentang Organisasi dan Tata Kerja Kementerian\nDesa, Pembangunan Daerah Tertinggal, dan Transmigrasi\n(Berita Negara Republik Indonesia Tahun 2022 Nomor 823)\nyang mengatur mengenai penyelenggaraan tugas dan fungsi di\nbidang ketransmigrasian, dicabut dan dinyatakan",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "regulation_type": "Permen",
+        "hybrid_score": 0.7879
+      },
+      {
+        "chunk_id": 460,
+        "filename": "no 5.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 3,
+        "chunk_size": 820,
+        "text": "Nomor 85 Tahun 2020 tentang\nKementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi (Lembaran Negara Republik Indonesia\nTahun 2020 Nomor 192);\n7. Peraturan Menteri Desa, Pembangunan Daerah\nTertinggal, dan Transmigrasi Nomor 15 Tahun 2020\ntentang Organisasi dan Tata Kerja Kementerian Desa,\nPembangunan Daerah Tertinggal, dan Transmigrasi\n(Berita Negara Republik Indonesia Tahun 2020 Nomor\n1256);\nMEMUTUSKAN:\nMenetapkan : PERATURAN MENTERI DESA, PEMBANGUNAN DAERAH\nTERTINGGAL, DAN TRANSMIGRASI TENTANG TATA CARA\nPERENCANAAN KAWASAN TRANSMIGRASI.\n- 3 -\nBAB I\nKETENTUAN UMUM\nPasal 1\nDalam Peraturan Menteri ini yang dimaksud dengan:\n1. Ketransmigrasian adalah segala sesuatu yang berkaitan\ndengan penyelenggaraan transmigrasi.\n2. Transmigrasi adalah perpindahan penduduk secara\nsukarela untuk meningkatkan kesejah",
+        "region": "Dengan Rahmat Tuhan Yang Maha Esa",
+        "year": "2021",
+        "regulation_type": "PP",
+        "hybrid_score": 0.7563
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 43.963,
+    "flare_iters": 3,
+    "query_id": "uq_0023",
+    "unans_type": "regulation_not_covered",
+    "reason": "Permentan yang ada di corpus tidak bernomor/bertahun ini.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Apa perubahan aturan pendaftaran transmigrasi menurut Peraturan Menteri Transmigrasi Nomor 5 Tahun 2015?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Peraturan Menteri Transmigrasi Nomor 5 Tahun 2015 Berdasarkan bukti yang diberikan, tidak ada informasi mengenai perubahan aturan Next sentence: Oleh karena itu",
+    "evidence": [
+      {
+        "chunk_id": 816,
+        "filename": "Permentrans_1_2025_KerjaSamaDaerah.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 0,
+        "chunk_size": 810,
+        "text": "PERATURAN MENTERI TRANSMIGRASI\nREPUBLIK INDONESIA\nNOMOR 1 TAHUN 2025\nTENTANG\nKERJA SAMA PELAKSANAAN TRANSMIGRASI ANTAR PEMERINTAH DAERAH\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nMENTERI TRANSMIGRASI\nREPUBLIK INDONESIA,\nMenimbang : bahwa untuk melaksanakan ketentuan Pasal 143 ayat (1)\nPeraturan Pemerintah Nomor 19 Tahun 2024 tentang Peraturan\nPelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian sebagaimana telah diubah dengan Undang-\nUndang Nomor 29 Tahun 2009 tentang Perubahan atas\nUndang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian, perlu menetapkan Peraturan Menteri\nTransmigrasi tentang Kerja Sama Pelaksanaan Transmigrasi\nAntar Pemerintah Daerah;\nMengingat : 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 39 Tahun 2008 tentang",
+        "year": "2025",
+        "regulation_type": "PP",
+        "hybrid_score": 0.8783
+      },
+      {
+        "chunk_id": 458,
+        "filename": "no 5.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 1,
+        "chunk_size": 820,
+        "text": "r 29 Tahun 2009 tentang Perubahan atas\nUndang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian, perlu menetapkan Peraturan Menteri Desa,\nPembangunan Daerah Tertinggal, dan Transmigrasi tentang\nTata Cara Perencanaan Kawasan Transmigrasi;\nMengingat : 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara\nRepublik Indonesia Tahun 1945;\n2. Undang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian (Lembaran Negara Republik Indonesia\nTahun 1997 Nomor 37, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 3682) sebagaimana telah\n- 2 -\ndiubah dengan Undang-Undang Nomor 29 Tahun 2009\ntentang Perubahan atas Undang-Undang Nomor 15\nTahun 1997 tentang Ketransmigrasian (Lembaran Negara\nRepublik Indonesia Tahun 2009 Nomor 131, Tambahan\nLembaran Negara Republik Indonesia Nomor 5050);\n3. Undang-Undang Nomor 39 Tahun 2008 tentang\n",
+        "region": "Dengan Rahmat Tuhan Yang Maha Esa",
+        "year": "2021",
+        "regulation_type": "PP",
+        "hybrid_score": 0.78
+      },
+      {
+        "chunk_id": 591,
+        "filename": "PP Nomor 19 Tahun 2024.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 2,
+        "chunk_size": 820,
+        "text": "entang Ketransmigrasian,\nperlu menetapkan Peraturan Pemerintah tentang Peraturan Pelaksanaan Undang-Undang Nomor 15 Tahun 1997\ntentang Ketransmigrasian sebagaimana telah diubah dengan\nUndang-Undang Nomor 29 Tahun 2OO9 tentang Perubahan\nAtas Undang-Undang Nomor 15 Tahun 1997 Tentang\nKetransmigrasian;\nMengingat\nSK No 205162 A\nPRESIDEN\nREPUBUK INDONESIA\n-2-\nMengingat 1. Pasal 5 ayat (21 Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian (Lembaran Negara Republiklndonesia\nTahun 1997 Nomor 37, Tambahan Lembaran Negara\nRepublik Indonesia Nomor 36821sebagaimana telah diubah\ndengan Undang-Undang Nomor 29 Tahun 2OO9 tentang\nPerubahan Atas Undang-Undang Nomor 15 Tahun t997\ntentang Ketransmigrasian (Lembaran Negara Republik\nlndonesia Tahun 2OO9 Nomor 1",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "regulation_type": "PP",
+        "hybrid_score": 0.7733
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 27.092,
+    "flare_iters": 2,
+    "query_id": "uq_0024",
+    "unans_type": "regulation_not_covered",
+    "reason": "Permentrans No. 5/2015 tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Bagaimana ketentuan insentif fiskal dalam Peraturan Pemerintah Nomor 12 Tahun 2021 tentang Kawasan Transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Peraturan Pemerintah Nomor 12 Tahun 2021 mengatur berbagai ketentuan Berdasarkan bukti yang diberikan, tidak ditemukan informasi mengenai ketentuan insentif fiskal dalam Peraturan Pemerintah Nomor 12 Tahun 2021 tentang Kawasan Transmigrasi. Bukti yang ada membahas Peraturan Menteri Transmigrasi Nomor 1 Tahun 2025 dan Peraturan Pemerintah Nomor 38 Tahun 2007. Berdasarkan bukti yang diberikan, tidak ditemukan informasi mengenai ketentuan insentif fiskal dalam Peraturan Pemerintah Nomor 12 Tahun 2021 tentang Kawasan Transmigrasi. Bukti yang ada membahas Peraturan Menteri Transmigrasi Nomor 1 Tahun 2025 tentang Kerja Sama Pelaksanaan Transmigrasi Antar Pemerintah Daerah, serta beberapa Peraturan Presiden dan Peraturan Menteri Desa yang terkait dengan transmigrasi, namun tidak ada yang secara spesifik menyebutkan PP Nomor 12 Tahun 2021 atau insentif fiskal. Berdasarkan bukti yang diberikan,",
+    "evidence": [
+      {
+        "chunk_id": 816,
+        "filename": "Permentrans_1_2025_KerjaSamaDaerah.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 0,
+        "chunk_size": 810,
+        "text": "PERATURAN MENTERI TRANSMIGRASI\nREPUBLIK INDONESIA\nNOMOR 1 TAHUN 2025\nTENTANG\nKERJA SAMA PELAKSANAAN TRANSMIGRASI ANTAR PEMERINTAH DAERAH\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nMENTERI TRANSMIGRASI\nREPUBLIK INDONESIA,\nMenimbang : bahwa untuk melaksanakan ketentuan Pasal 143 ayat (1)\nPeraturan Pemerintah Nomor 19 Tahun 2024 tentang Peraturan\nPelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian sebagaimana telah diubah dengan Undang-\nUndang Nomor 29 Tahun 2009 tentang Perubahan atas\nUndang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian, perlu menetapkan Peraturan Menteri\nTransmigrasi tentang Kerja Sama Pelaksanaan Transmigrasi\nAntar Pemerintah Daerah;\nMengingat : 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 39 Tahun 2008 tentang",
+        "year": "2025",
+        "regulation_type": "PP",
+        "hybrid_score": 0.7956
+      },
+      {
+        "chunk_id": 1013,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 120,
+        "chunk_size": 820,
+        "text": "ntang perubahan atas Undang-Undang No\n15 Tahun 1997 tentang Ketransmigrasian.\n63 SOLUSI PERENCANAAN TRANSMIGRASI\n15. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang\nPembagian Urusan Pemerintahan antara Pemerintah,\nPemerintah Daerah Provinsi, dan Pemerintah Daerah\nKabupaten/Kota;\n16. Peraturan Pemerintah Nomor 26 Tahun 2008 tentang\nRencana Tata Ruang Wilayah Nasional;\n17. Peraturan Pemerintah Nomor 15 Tahun 2010 tentang\nPenyelenggaraan Penataan Ruang;\n18. Peraturan Pemerintah Nomor 68 Tahun 2010 tentang\nBentuk dan Tata Cara Peran Masyarakat dalam Penataan\nRuang;\n19. Keputusan Presiden Nomor 32 Tahun 1990 tentang\nPengelolaan Kawasan Lindung;\n20. Permen PU Nomor: 15/PRT/M/2012, tentang Pedoman\nPenyusunan Rencana Tata Ruang Kawasan Strategis.\n21. Peraturan Presiden RI Nomor 32 Tahun 2011 tentang\nMasterplan Perce",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.7355
+      },
+      {
+        "chunk_id": 1011,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 118,
+        "chunk_size": 820,
+        "text": "si aktif masyarakat.\n27. Rencana Kawasan Transmigrasi yang selanjutnya disingkat RKT adalah hasil perencanaan kawasan transmigrasi yang\ndigunakan sebagai dasar dalam penyusunan rencana\nperwujudan kawasan transmigrasi.\n28. Hak Pengelolaan adalah hak menguasai dari negara yang,\nkewenangan pelaksanaannya sebagian dilimpahkan kepada\npemegangnya.\n62\nSIPUKAT\n3.7 Landasan Hukum\n1. Undang-Undang Nomor 3 Tahun 1972 Tentang Ketentuan-\nKetentuan Pokok Transmigrasi;\n2. Undang-Undang Nomor 5 Tahun 1997 Tentang\nKetransmigrasian\n3. Peraturan Pemerintah Nomor 2 Tahun 1999 Tentang\nPenyelenggaraan Transmigrasi;\n4. Undang-Undang Nomor 41 Tahun 1999 tentang Kehutanan;\n5. Undang-Undang Nomor 25 Tahun 2004 tentang Sistem\nPerencanaan Pembangunan Nasional;\n6. Undang-Undang Nomor 32 Tahun 2004 tentang\nPemerintahan Daerah;\n7. Undang-U",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.7269
+      },
+      {
+        "chunk_id": 816,
+        "filename": "Permentrans_1_2025_KerjaSamaDaerah.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 0,
+        "chunk_size": 810,
+        "text": "PERATURAN MENTERI TRANSMIGRASI\nREPUBLIK INDONESIA\nNOMOR 1 TAHUN 2025\nTENTANG\nKERJA SAMA PELAKSANAAN TRANSMIGRASI ANTAR PEMERINTAH DAERAH\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nMENTERI TRANSMIGRASI\nREPUBLIK INDONESIA,\nMenimbang : bahwa untuk melaksanakan ketentuan Pasal 143 ayat (1)\nPeraturan Pemerintah Nomor 19 Tahun 2024 tentang Peraturan\nPelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian sebagaimana telah diubah dengan Undang-\nUndang Nomor 29 Tahun 2009 tentang Perubahan atas\nUndang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian, perlu menetapkan Peraturan Menteri\nTransmigrasi tentang Kerja Sama Pelaksanaan Transmigrasi\nAntar Pemerintah Daerah;\nMengingat : 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 39 Tahun 2008 tentang",
+        "year": "2025",
+        "regulation_type": "PP",
+        "hybrid_score": 0.8017
+      },
+      {
+        "chunk_id": 1129,
+        "filename": "KAK_Transpolitan_SIPUKAT.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 9,
+        "chunk_size": 820,
+        "text": "sian;\n3. Peraturan Presiden Nomor 50 Tahun 2018 tentang Koordinasi dan Integrasi Penyelenggaraan Transmigrasi;\n4. Peraturan Presiden Nomor 18 Tahun 2020 tentang Rencana Pembangunan Jangka\nMenengah Nasional Tahun 2020-2024;\n5. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 12\nTahun 2017 tentang Kerja Sama Pelaksanaan Transmigrasi Antar Pemerintah Daerah;\n6. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 12\nTahun 2018 tentang Kerja Sama di Lingkungan Kementerian Desa, Pembangunan\nDaerah Tertinggal, dan Transmigrasi;\n7. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 19\nTahun 2018 tentang Pola Usaha Pokok Transmigrasi;\n8. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 4\nTahun 2019 tentang Su",
+        "region": "Transpolitan Melalui Sipukat",
+        "year": "2009",
+        "regulation_type": "PP",
+        "hybrid_score": 0.762
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 31.801,
+    "flare_iters": 3,
+    "query_id": "uq_0025",
+    "unans_type": "regulation_not_covered",
+    "reason": "PP No. 12/2021 tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa isi Instruksi Presiden Nomor 1 Tahun 2011 tentang Percepatan Transmigrasi Nasional?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Instruksi Presiden Nomor 1 Tahun 2011 tentang Percepatan Transmigrasi Nasional.\n\n**Keterangan:**\nBerdasarkan bukti Berdasarkan bukti yang diberikan, tidak ditemukan informasi mengenai isi dari Instruksi Presiden Nomor 1 Tahun 2011 tentang Percepatan Transmigrasi Nasional. Bukti yang ada hanya mencantumkan daftar undang-undang dan peraturan terkait ketransmigrasian dan pemerintahan, namun tidak secara spesifik merinci isi",
+    "evidence": [
+      {
+        "chunk_id": 537,
+        "filename": "Permentrans Nomor 8 Tahun 2025 tentang Transformasi Transmigrasi.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 4,
+        "chunk_size": 820,
+        "text": "rasian sebagaimana telah diubah\ndengan Undang-Undang Nomor 29 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 1997\ntentang Ketransmigrasian (Lembaran Negara Republik\nIndonesia Tahun 2024 Nomor 79, Tambahan Lembaran\nNegara Republik Indonesia Nomor 6915);\n7. Peraturan Presiden Nomor 39 Tahun 2023 tentang\nManajemen Risiko Pembangunan Nasional (Lembaran\nNegara Republik Indonesia Tahun 2023 Nomor 90);\n8. Peraturan Presiden Nomor 172 Tahun 2024 tentang\nKementerian Transmigrasi (Lembaran Negara Republik\nIndonesia Tahun 2024 Nomor 368);\n9. Peraturan Presiden Nomor 12 Tahun 2025 tentang Rencana\nPembangunan Jangka Menengah Nasional Tahun\n2025-2029 (Lembaran Negara Republik Indonesia Tahun\n2025 Nomor 19);\n10. Peraturan Menteri Transmigrasi Nomor 1 Tahun 2024\ntentang Organisasi dan Tata Kerja Kementerian\nT",
+        "year": "2025",
+        "commodities": [
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.7765
+      },
+      {
+        "chunk_id": 1013,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 120,
+        "chunk_size": 820,
+        "text": "ntang perubahan atas Undang-Undang No\n15 Tahun 1997 tentang Ketransmigrasian.\n63 SOLUSI PERENCANAAN TRANSMIGRASI\n15. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang\nPembagian Urusan Pemerintahan antara Pemerintah,\nPemerintah Daerah Provinsi, dan Pemerintah Daerah\nKabupaten/Kota;\n16. Peraturan Pemerintah Nomor 26 Tahun 2008 tentang\nRencana Tata Ruang Wilayah Nasional;\n17. Peraturan Pemerintah Nomor 15 Tahun 2010 tentang\nPenyelenggaraan Penataan Ruang;\n18. Peraturan Pemerintah Nomor 68 Tahun 2010 tentang\nBentuk dan Tata Cara Peran Masyarakat dalam Penataan\nRuang;\n19. Keputusan Presiden Nomor 32 Tahun 1990 tentang\nPengelolaan Kawasan Lindung;\n20. Permen PU Nomor: 15/PRT/M/2012, tentang Pedoman\nPenyusunan Rencana Tata Ruang Kawasan Strategis.\n21. Peraturan Presiden RI Nomor 32 Tahun 2011 tentang\nMasterplan Perce",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.757
+      },
+      {
+        "chunk_id": 1129,
+        "filename": "KAK_Transpolitan_SIPUKAT.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 9,
+        "chunk_size": 820,
+        "text": "sian;\n3. Peraturan Presiden Nomor 50 Tahun 2018 tentang Koordinasi dan Integrasi Penyelenggaraan Transmigrasi;\n4. Peraturan Presiden Nomor 18 Tahun 2020 tentang Rencana Pembangunan Jangka\nMenengah Nasional Tahun 2020-2024;\n5. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 12\nTahun 2017 tentang Kerja Sama Pelaksanaan Transmigrasi Antar Pemerintah Daerah;\n6. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 12\nTahun 2018 tentang Kerja Sama di Lingkungan Kementerian Desa, Pembangunan\nDaerah Tertinggal, dan Transmigrasi;\n7. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 19\nTahun 2018 tentang Pola Usaha Pokok Transmigrasi;\n8. Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 4\nTahun 2019 tentang Su",
+        "region": "Transpolitan Melalui Sipukat",
+        "year": "2009",
+        "regulation_type": "PP",
+        "hybrid_score": 0.7177
+      },
+      {
+        "chunk_id": 537,
+        "filename": "Permentrans Nomor 8 Tahun 2025 tentang Transformasi Transmigrasi.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 4,
+        "chunk_size": 820,
+        "text": "rasian sebagaimana telah diubah\ndengan Undang-Undang Nomor 29 Tahun 2009 tentang Perubahan atas Undang-Undang Nomor 15 Tahun 1997\ntentang Ketransmigrasian (Lembaran Negara Republik\nIndonesia Tahun 2024 Nomor 79, Tambahan Lembaran\nNegara Republik Indonesia Nomor 6915);\n7. Peraturan Presiden Nomor 39 Tahun 2023 tentang\nManajemen Risiko Pembangunan Nasional (Lembaran\nNegara Republik Indonesia Tahun 2023 Nomor 90);\n8. Peraturan Presiden Nomor 172 Tahun 2024 tentang\nKementerian Transmigrasi (Lembaran Negara Republik\nIndonesia Tahun 2024 Nomor 368);\n9. Peraturan Presiden Nomor 12 Tahun 2025 tentang Rencana\nPembangunan Jangka Menengah Nasional Tahun\n2025-2029 (Lembaran Negara Republik Indonesia Tahun\n2025 Nomor 19);\n10. Peraturan Menteri Transmigrasi Nomor 1 Tahun 2024\ntentang Organisasi dan Tata Kerja Kementerian\nT",
+        "year": "2025",
+        "commodities": [
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.7794
+      },
+      {
+        "chunk_id": 1013,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 120,
+        "chunk_size": 820,
+        "text": "ntang perubahan atas Undang-Undang No\n15 Tahun 1997 tentang Ketransmigrasian.\n63 SOLUSI PERENCANAAN TRANSMIGRASI\n15. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang\nPembagian Urusan Pemerintahan antara Pemerintah,\nPemerintah Daerah Provinsi, dan Pemerintah Daerah\nKabupaten/Kota;\n16. Peraturan Pemerintah Nomor 26 Tahun 2008 tentang\nRencana Tata Ruang Wilayah Nasional;\n17. Peraturan Pemerintah Nomor 15 Tahun 2010 tentang\nPenyelenggaraan Penataan Ruang;\n18. Peraturan Pemerintah Nomor 68 Tahun 2010 tentang\nBentuk dan Tata Cara Peran Masyarakat dalam Penataan\nRuang;\n19. Keputusan Presiden Nomor 32 Tahun 1990 tentang\nPengelolaan Kawasan Lindung;\n20. Permen PU Nomor: 15/PRT/M/2012, tentang Pedoman\nPenyusunan Rencana Tata Ruang Kawasan Strategis.\n21. Peraturan Presiden RI Nomor 32 Tahun 2011 tentang\nMasterplan Perce",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.7632
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 28.882,
+    "flare_iters": 3,
+    "query_id": "uq_0026",
+    "unans_type": "regulation_not_covered",
+    "reason": "Tidak ada Inpres apa pun di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Sebutkan isi Peraturan Menteri Transmigrasi Nomor 20 Tahun 2022 tentang Tata Kelola Data Kawasan Transmigrasi.",
+    "reference": "",
+    "method": "flare",
+    "answer": "Peraturan Menteri Transmigrasi Nomor 20 Tahun 20 22 tentang Tata Kelola",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 7.848,
+    "flare_iters": 1,
+    "query_id": "uq_0027",
+    "unans_type": "regulation_not_covered",
+    "reason": "Permentrans No. 20/2022 tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa isi SNI 8593:2018 tentang standar mutu jagung untuk pangan?",
+    "reference": "",
+    "method": "flare",
+    "answer": "The Indonesian transmigration program, yang telah berlangsung sejak era kolonial hingga Berdasarkan bukti yang diberikan, tidak ada informasi mengenai SNI Next sentence: Untuk menjawab pertanyaan ini",
+    "evidence": [
+      {
+        "chunk_id": 435,
+        "filename": "SNI_6232_2025_fakta_naratif_RAPIH.pdf",
+        "category": "technical_standards",
+        "doc_type": "pdf",
+        "chunk_index": 1,
+        "chunk_size": 820,
+        "text": "ngkup, acuan normatif, istilah dan definisi, klasifikasi, syarat mutu, cara uji, pengemasan, dan penandaan.\nStandar ini menetapkan persyaratan mutu dan metode untuk menentukan klasifikasi, kelas mutu,\npengemasan, dan penandaan jagung (Zea mays L.) dalam bentuk biji yang telah dipipil atau\ndikupas dari tongkol dan klobotnya. Standar ini berlaku untuk jagung sebagai bahan pangan\nmaupun bahan pakan.\nSebagai acuan normatif, standar ini merujuk pada SNI 0428 tentang Petunjuk pengambilan contoh\npadatan, SNI 2891 tentang Cara uji makanan dan minuman, AOAC 991.31 tentang metode kolom\nimunafinitas untuk aflatoksin pada jagung, serta AOAC 2005.08 tentang metode kromatografi cair\ndengan derivatisasi fotokimia pascakolom untuk aflatoksin.\nDalam istilah dan definisi, jagung yang dimaksud adalah jagung pipil kering atau bi",
+        "year": "2020",
+        "commodities": [
+          "jagung"
+        ],
+        "hybrid_score": 0.7617
+      },
+      {
+        "chunk_id": 399,
+        "filename": "Narasi Faktual SNI 8926.docx",
+        "category": "technical_standards",
+        "doc_type": "docx",
+        "chunk_index": 1,
+        "chunk_size": 779,
+        "text": "ndapat dari 30 September hingga 29 November 2020 sebelum ditetapkan sebagai SNI. SNI 8926:2020 merevisi dan menggantikan SNI 3920:2013 tentang Jagung dan SNI 4483-2013 tentang Jagung sebagai bahan pakan ternak, dengan tujuan menetapkan mutu jagung yang beredar di pasar, menjamin keamanan pangan, serta mendukung persaingan pasar yang sehat. Perubahan dilakukan pada ruang lingkup, acuan normatif, istilah dan definisi, klasifikasi, syarat mutu, cara uji, pengemasan, dan penandaan.\nStandar ini menetapkan persyaratan mutu dan metode untuk menentukan klasifikasi, kelas mutu, pengemasan, dan penandaan jagung (Zea mays L.) dalam bentuk biji yang telah dipipil (dikupas dari tongkol dan klobot). Standar berlaku untuk jagung yang digunakan sebagai bahan pangan maupun bahan pakan.",
+        "year": "2020",
+        "commodities": [
+          "jagung"
+        ],
+        "regulation_type": "UU",
+        "hybrid_score": 0.7499
+      },
+      {
+        "chunk_id": 402,
+        "filename": "Narasi Faktual SNI 8926.docx",
+        "category": "technical_standards",
+        "doc_type": "docx",
+        "chunk_index": 4,
+        "chunk_size": 465,
+        "text": ") serta berdasarkan pemanfaatannya (jagung bahan pangan dan jagung bahan pakan). Syarat mutu jagung terdiri atas syarat umum dan syarat khusus. Syarat umum mensyaratkan bahwa jagung harus bebas hama, bebas bau dan warna abnormal, serta bebas dari bahan kimia berbahaya dengan mengacu pada batas maksimum cemaran logam berat, residu pestisida, dan mikotoksin sesuai ketentuan yang berlaku. Untuk jagung organik, persyaratan mengacu pada SNI Sistem Pertanian Organik.",
+        "year": "2020",
+        "commodities": [
+          "jagung"
+        ],
+        "regulation_type": "UU",
+        "hybrid_score": 0.7281
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 23.855,
+    "flare_iters": 2,
+    "query_id": "uq_0028",
+    "unans_type": "regulation_not_covered",
+    "reason": "SNI 8593:2018 tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Bagaimana isi Peraturan Menteri Keuangan Nomor 77 Tahun 2019 tentang Pembiayaan Program Transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Peraturan Menteri Keuangan Nomor 77 Tahun 2019 mengatur Berdasarkan bukti yang diberikan, tidak ada informasi mengenai isi Peraturan Menteri Keuangan Nomor 77 Tahun 2019 tentang Pembiayaan Program Transmigrasi. Bukti yang tersedia adalah Peraturan Menteri Transmigrasi Nomor 1 Tahun 2025 dan Peraturan Menteri Transmigrasi tentang Organisasi dan Tata Kerja Kementerian Transmigrasi tahun 2024. Oleh karena itu",
+    "evidence": [
+      {
+        "chunk_id": 816,
+        "filename": "Permentrans_1_2025_KerjaSamaDaerah.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 0,
+        "chunk_size": 810,
+        "text": "PERATURAN MENTERI TRANSMIGRASI\nREPUBLIK INDONESIA\nNOMOR 1 TAHUN 2025\nTENTANG\nKERJA SAMA PELAKSANAAN TRANSMIGRASI ANTAR PEMERINTAH DAERAH\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nMENTERI TRANSMIGRASI\nREPUBLIK INDONESIA,\nMenimbang : bahwa untuk melaksanakan ketentuan Pasal 143 ayat (1)\nPeraturan Pemerintah Nomor 19 Tahun 2024 tentang Peraturan\nPelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian sebagaimana telah diubah dengan Undang-\nUndang Nomor 29 Tahun 2009 tentang Perubahan atas\nUndang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian, perlu menetapkan Peraturan Menteri\nTransmigrasi tentang Kerja Sama Pelaksanaan Transmigrasi\nAntar Pemerintah Daerah;\nMengingat : 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 39 Tahun 2008 tentang",
+        "year": "2025",
+        "regulation_type": "PP",
+        "hybrid_score": 0.7851
+      },
+      {
+        "chunk_id": 714,
+        "filename": "Permentrans_1_2024_OTK.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 2,
+        "chunk_size": 820,
+        "text": " Nomor 172 Tahun 2024 tentang\nKementerian Transmigrasi (Lembaran Negara Republik Indonesia Tahun 2024 Nomor 368);\nMEMUTUSKAN:\nMenetapkan : PERATURAN MENTERI TRANSMIGRASI TENTANG\nORGANISASI DAN TATA KERJA KEMENTERIAN\nTRANSMIGRASI.\n- 2 -\nBAB I\nKETENTUAN UMUM\nPasal 1\nDalam Peraturan Menteri ini yang dimaksud dengan:\n1. Kementerian Transmigrasi yang selanjutnya disebut\nKementerian adalah kementerian yang\nmenyelenggarakan urusan pemerintahan di bidang\ntransmigrasi.\n2. Menteri adalah menteri yang menyelenggarakan urusan\npemerintahan di bidang transmigrasi.\nBAB II\nKEDUDUKAN, TUGAS, DAN FUNGSI\nPasal 2\n(1) Kementerian berada di bawah dan bertanggung jawab\nkepada Presiden.\n(2) Kementerian dipimpin oleh Menteri.\nPasal 3\n(1) Dalam memimpin Kementerian, Menteri sebagaimana\ndimaksud dalam Pasal 2 ayat (2) dapat dibantu ole",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "regulation_type": "Permen",
+        "hybrid_score": 0.7003
+      },
+      {
+        "chunk_id": 818,
+        "filename": "Permentrans_1_2025_KerjaSamaDaerah.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 2,
+        "chunk_size": 820,
+        "text": "ia Tahun 2024 Nomor 79, Tambahan Lembaran\nNegara Republik Indonesia Nomor 6915); 4. Peraturan Presiden Nomor 172 Tahun 2024 tentang\nKementerian Transmigrasi (Lembaran Negara Republik\nIndonesia Tahun 2024 Nomor 368);\n- 2 -\n5. Peraturan Menteri Transmigrasi Nomor 1 Tahun 2024\ntentang Organisasi dan Tata Kerja Kementerian\nTransmigrasi (Berita Negara Republik Indonesia Tahun\n2024 Nomor 886);\nMEMUTUSKAN:\nMenetapkan : PERATURAN MENTERI TRANSMIGRASI TENTANG KERJA\nSAMA PELAKSANAAN TRANSMIGRASI ANTAR PEMERINTAH\nDAERAH.\nBAB I\nKETENTUAN UMUM\nPasal 1\nDalam Peraturan Menteri ini yang dimaksud dengan:\n1. Sinergi Perencanaan dan Pelaksanaan Pembangunan yang\nselanjutnya disebut Sinergi adalah pembagian peran dan\ntanggung jawab antara Pemerintah Pusat dan Pemerintah\nDaerah untuk memastikan bahwa perencanaan dan\npelaksanaan pe",
+        "year": "2025",
+        "regulation_type": "PP",
+        "hybrid_score": 0.6952
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 16.645,
+    "flare_iters": 2,
+    "query_id": "uq_0029",
+    "unans_type": "regulation_not_covered",
+    "reason": "Tidak ada Permenkeu apa pun di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Apa isi Peraturan Pemerintah Nomor 8 Tahun 2016 tentang Perubahan Status Kawasan Transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Peraturan Pemerintah Nomor 8 Tahun 2016 mengatur tentang Berdasarkan bukti yang diberikan, tidak ada informasi mengenai isi Peraturan Pemerintah Nomor 8 Tahun 2016 tentang Perubahan Status Kawasan Transmigrasi. Bukti yang tersedia membahas Peraturan Menteri Transmigrasi Nomor 1 Tahun 2025 dan Peraturan Pemerintah Nomor 38 Tahun 2007. Berdasarkan bukti yang diberikan, tidak ada informasi mengenai isi Peraturan Pemerintah Nomor 8 Tahun 2016 tentang Perubahan Status Kawasan Transmigrasi. Bukti yang tersedia membahas Peraturan Menteri Transmigrasi Nomor 1 Tahun 2025 tentang Kerja Sama Pelaksanaan Transmigrasi Antar Pemerintah Daerah dan Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan Pemerintahan. si Peraturan Pemerintah Nomor 8 Tahun 2016",
+    "evidence": [
+      {
+        "chunk_id": 816,
+        "filename": "Permentrans_1_2025_KerjaSamaDaerah.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 0,
+        "chunk_size": 810,
+        "text": "PERATURAN MENTERI TRANSMIGRASI\nREPUBLIK INDONESIA\nNOMOR 1 TAHUN 2025\nTENTANG\nKERJA SAMA PELAKSANAAN TRANSMIGRASI ANTAR PEMERINTAH DAERAH\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nMENTERI TRANSMIGRASI\nREPUBLIK INDONESIA,\nMenimbang : bahwa untuk melaksanakan ketentuan Pasal 143 ayat (1)\nPeraturan Pemerintah Nomor 19 Tahun 2024 tentang Peraturan\nPelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian sebagaimana telah diubah dengan Undang-\nUndang Nomor 29 Tahun 2009 tentang Perubahan atas\nUndang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian, perlu menetapkan Peraturan Menteri\nTransmigrasi tentang Kerja Sama Pelaksanaan Transmigrasi\nAntar Pemerintah Daerah;\nMengingat : 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 39 Tahun 2008 tentang",
+        "year": "2025",
+        "regulation_type": "PP",
+        "hybrid_score": 0.852
+      },
+      {
+        "chunk_id": 1013,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 120,
+        "chunk_size": 820,
+        "text": "ntang perubahan atas Undang-Undang No\n15 Tahun 1997 tentang Ketransmigrasian.\n63 SOLUSI PERENCANAAN TRANSMIGRASI\n15. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang\nPembagian Urusan Pemerintahan antara Pemerintah,\nPemerintah Daerah Provinsi, dan Pemerintah Daerah\nKabupaten/Kota;\n16. Peraturan Pemerintah Nomor 26 Tahun 2008 tentang\nRencana Tata Ruang Wilayah Nasional;\n17. Peraturan Pemerintah Nomor 15 Tahun 2010 tentang\nPenyelenggaraan Penataan Ruang;\n18. Peraturan Pemerintah Nomor 68 Tahun 2010 tentang\nBentuk dan Tata Cara Peran Masyarakat dalam Penataan\nRuang;\n19. Keputusan Presiden Nomor 32 Tahun 1990 tentang\nPengelolaan Kawasan Lindung;\n20. Permen PU Nomor: 15/PRT/M/2012, tentang Pedoman\nPenyusunan Rencana Tata Ruang Kawasan Strategis.\n21. Peraturan Presiden RI Nomor 32 Tahun 2011 tentang\nMasterplan Perce",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.807
+      },
+      {
+        "chunk_id": 590,
+        "filename": "PP Nomor 19 Tahun 2024.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 1,
+        "chunk_size": 820,
+        "text": "erintah Nomor 3 Tahun 2014 tentang\nPelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang Ketransmigrasian sebagaimana telah diubah dengan\nUndang-Undang Nomor 29 Tahun 2OO9 tentang Perubahan\nAtas Undang-Undang Nomor 15 Tahun 1997 tentang\nKetrans'migrasian sudah tidak sesuai dengan perkembangan\ndan kebutuhan di masyarakat sehingga perlu diganti;\nc. bahwa berdasarkan pertimbangan sebagaimana dimaksud\ndalam huruf a dan huruf b, serta untuk melaksanakan\nketentuan Pasal 8 ayat (5), Pasal 14 ayat (5), Pasal 15\nayat (4), Pasal 17, Pasal 22, Pasal 31, Pasal 33, Pasal 35\nayat (4), Pasal35A ayat (2), Pasal35F, dan Pasal38 Undang-\nUndang Nomor 15 Tahun 1997 tentang Ketransmigrasian\nsebagaimana telah diubah dengan Undang-Undang\nNomor 29 Tahun 2OO9 tentang Perubahan atas Undang-\nUndang Nomor 15 Tahun 1997 tentang Ketransmi",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "regulation_type": "PP",
+        "hybrid_score": 0.7512
+      },
+      {
+        "chunk_id": 816,
+        "filename": "Permentrans_1_2025_KerjaSamaDaerah.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 0,
+        "chunk_size": 810,
+        "text": "PERATURAN MENTERI TRANSMIGRASI\nREPUBLIK INDONESIA\nNOMOR 1 TAHUN 2025\nTENTANG\nKERJA SAMA PELAKSANAAN TRANSMIGRASI ANTAR PEMERINTAH DAERAH\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nMENTERI TRANSMIGRASI\nREPUBLIK INDONESIA,\nMenimbang : bahwa untuk melaksanakan ketentuan Pasal 143 ayat (1)\nPeraturan Pemerintah Nomor 19 Tahun 2024 tentang Peraturan\nPelaksanaan Undang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian sebagaimana telah diubah dengan Undang-\nUndang Nomor 29 Tahun 2009 tentang Perubahan atas\nUndang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian, perlu menetapkan Peraturan Menteri\nTransmigrasi tentang Kerja Sama Pelaksanaan Transmigrasi\nAntar Pemerintah Daerah;\nMengingat : 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik\nIndonesia Tahun 1945;\n2. Undang-Undang Nomor 39 Tahun 2008 tentang",
+        "year": "2025",
+        "regulation_type": "PP",
+        "hybrid_score": 0.8418
+      },
+      {
+        "chunk_id": 1013,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 120,
+        "chunk_size": 820,
+        "text": "ntang perubahan atas Undang-Undang No\n15 Tahun 1997 tentang Ketransmigrasian.\n63 SOLUSI PERENCANAAN TRANSMIGRASI\n15. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang\nPembagian Urusan Pemerintahan antara Pemerintah,\nPemerintah Daerah Provinsi, dan Pemerintah Daerah\nKabupaten/Kota;\n16. Peraturan Pemerintah Nomor 26 Tahun 2008 tentang\nRencana Tata Ruang Wilayah Nasional;\n17. Peraturan Pemerintah Nomor 15 Tahun 2010 tentang\nPenyelenggaraan Penataan Ruang;\n18. Peraturan Pemerintah Nomor 68 Tahun 2010 tentang\nBentuk dan Tata Cara Peran Masyarakat dalam Penataan\nRuang;\n19. Keputusan Presiden Nomor 32 Tahun 1990 tentang\nPengelolaan Kawasan Lindung;\n20. Permen PU Nomor: 15/PRT/M/2012, tentang Pedoman\nPenyusunan Rencana Tata Ruang Kawasan Strategis.\n21. Peraturan Presiden RI Nomor 32 Tahun 2011 tentang\nMasterplan Perce",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.8165
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 29.785,
+    "flare_iters": 3,
+    "query_id": "uq_0030",
+    "unans_type": "regulation_not_covered",
+    "reason": "PP No. 8/2016 tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Apa standar teknis budidaya teh di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Standar teknis budidaya teh di kawasan transmigrasi Berdasarkan bukti yang diberikan, tidak ada informasi spesifik mengenai Standar teknis budidaya teh di kawasan transmigrasi Berdasarkan bukti yang diberikan, tidak ada informasi spesifik mengenai **standar teknis budidaya teh. Bukti yang ada lebih membahas mengenai Rencana Teknis Satuan Permukiman (RTSP) dan Rencana Teknis Satuan Kawasan Pengembangan (RSKP) dalam perencanaan kawasan transmigrasi, serta upaya integrasi penduduk lokal dalam program transmigrasi.** bangan (RTSKP).\"\n\nSince the evidence provided does not contain specific information",
+    "evidence": [
+      {
+        "chunk_id": 1071,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 178,
+        "chunk_size": 820,
+        "text": "mpat yang berada di sekitarnya.\nSalah satu upaya yang dilakukan pemerintah untuk melibatkan penduduk setempat dalam program transmigrasi\nadalah pembangunan kawasan transmigrasi yang terintegrasi\ndengan penduduk lokal/desa yang ada, yaitu dengan cara\nmemasukkan desa sekitar ke dalam deliniasi SKP, yang mengarah\nke pembentukan satu kesatuan kawasan ekonomi dalam sistem\npengembangan ekonomi wilayah.\nUntuk mewujudkan data dan deliniasi peta Rencana Satuan\nKawasan Pengembangan (RSKP) sudah ter upload dalam Aplikasi\nSIPUKAT, dengan penggambaran di bawah ini yaitu Kawasan\nMelolo, Kabupaten Sumba Timur, Provinsi Nusa Tenggara Timur.\n111\nSOLUSI PERENCANAAN TRANSMIGRASI\nGambar 5. 25 Rencana Teknis Satuan Pengembangan\n(RSKP)\n5.16.2 Rencana Teknis Satuan Pemukiman (RTSP)\nRencana Teknis Satuan Permukiman (RSKP) untuk\nmeng",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.5446
+      },
+      {
+        "chunk_id": 560,
+        "filename": "Permentrans Nomor 8 Tahun 2025 tentang Transformasi Transmigrasi.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 27,
+        "chunk_size": 820,
+        "text": "i, lingkungan, serta bidang\nlainnya yang mendukung penyelenggaraan Transmigrasi. (3) Pelatihan Transmigran Lokal dilaksanakan sesuai dengan\npola usaha pokok yang dikembangkan dan/atau\nrekomendasi kebijakan hasil riset dan kajian di Kawasan\nTransmigrasi.\n(4) Pelatihan Transmigran Lokal dilaksanakan melalui\ntahapan:\na. perencanaan;\nb. pelaksanaan; dan\nc. pemantauan dan evaluasi.\n(5) Pelatihan Transmigran Lokal dilaksanakan oleh unit kerja\ndan unit pelaksana teknis di lingkungan Kementerian.\n(6) Dalam hal unit kerja dan unit pelaksana teknis tidak\ndapat melaksanakan tugas sebagaimana dimaksud pada\nayat (5), maka pelatihan Transmigran Lokal dilakukan\noleh pemerintah daerah provinsi, pemerintah daerah\nkabupaten/kota, atau lembaga yang bergerak di bidang\npengembangan sumber daya manusia dengan tetap\nmemperhatikan t",
+        "year": "2025",
+        "commodities": [
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.5446
+      },
+      {
+        "chunk_id": 1120,
+        "filename": "KAK_Transpolitan_SIPUKAT.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 0,
+        "chunk_size": 799,
+        "text": "KERANGKA ACUAN KERJA\nSTRATEGI PENGEMBANGAN KAWASAN TRANSPOLITAN MELALUI SIPUKAT\n(Tahap I: Jangka Pendek)\nA. Latar Belakang\nKawasan Transmigrasi merupakan kawasan budidaya yang memiliki fungsi sebagai\npermukiman dan tempat usaha masyarakat dalam satu sistem pengembangan berupa wilayah\npengembangan transmigrasi atau lokasi permukiman transmigrasi. Sebaran Kawasan\nTransmigrasi berada di 152 (seratus lima puluh dua) Kawasan dengan tingkat perkembangan\nyang bisa dikelompokkan menjadi Kawasan berkembang, Kawasan mandiri dan Kawasan\nberdaya saing/mitra.\nMenyongsong era digital saat ini, dimana semua manusia dapat saling berkomunikasi\nsedemikian dekat walaupun saling berjauhan bahkan secara real time, paradigma\npembangunan transmigrasi harus dirubah dengan melakukan berbagai inovasi untuk menjadi",
+        "region": "Transpolitan Melalui Sipukat",
+        "year": "2009",
+        "regulation_type": "PP",
+        "hybrid_score": 0.5229
+      },
+      {
+        "chunk_id": 981,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 88,
+        "chunk_size": 820,
+        "text": "empatan dan\nd. Pusat SKP\n3. Rencana Teknis Satuan Permukiman (RTSP) menghasilkan deliniasi areal yang direkomendasikan untuk dibuka\n42\nSIPUKAT\nUntuk perencanaan kawasan transmigrasi selanjutnya, dengan\nmelakukan Rencana Teknis Satuan Kawasan Pengembangan dan\nRencana Teknis Satuan Pemukiman. Untuk penjelasannya di\nbawah ini.\n3.3 Rencana Teknis Satuan Kawasan Pengembangan(RSKP)\nPada hakikatnya program transmigrasi adalah mendukung\npercepatan pertumbuhan daerah. Pada masa lalu pembangunan\npemukiman transmigrasi khusus di atas lahan yang memiliki SK\nHPL, yang ternyata menimbulkan kecemburuan penduduk\nsetempat yang berada di sekitarnya. Salah satu upaya yang\ndilakukan pemerintah untuk melibatkan penduduk setempat\ndalam program transmigrasi adalah pembangunan kawasan\ntransmigrasi yang terintegrasi dengan penduduk l",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.5379
+      },
+      {
+        "chunk_id": 1071,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 178,
+        "chunk_size": 820,
+        "text": "mpat yang berada di sekitarnya.\nSalah satu upaya yang dilakukan pemerintah untuk melibatkan penduduk setempat dalam program transmigrasi\nadalah pembangunan kawasan transmigrasi yang terintegrasi\ndengan penduduk lokal/desa yang ada, yaitu dengan cara\nmemasukkan desa sekitar ke dalam deliniasi SKP, yang mengarah\nke pembentukan satu kesatuan kawasan ekonomi dalam sistem\npengembangan ekonomi wilayah.\nUntuk mewujudkan data dan deliniasi peta Rencana Satuan\nKawasan Pengembangan (RSKP) sudah ter upload dalam Aplikasi\nSIPUKAT, dengan penggambaran di bawah ini yaitu Kawasan\nMelolo, Kabupaten Sumba Timur, Provinsi Nusa Tenggara Timur.\n111\nSOLUSI PERENCANAAN TRANSMIGRASI\nGambar 5. 25 Rencana Teknis Satuan Pengembangan\n(RSKP)\n5.16.2 Rencana Teknis Satuan Pemukiman (RTSP)\nRencana Teknis Satuan Permukiman (RSKP) untuk\nmeng",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.5261
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 44.86,
+    "flare_iters": 3,
+    "query_id": "uq_0031",
+    "unans_type": "commodity_not_covered",
+    "reason": "Komoditas di corpus: padi, jagung, karet, udang, sapi, kopi, kakao, kelapa sawit — teh tidak termasuk.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Bagaimana panduan budidaya tembakau untuk petani transmigran?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Panduan budidaya tembakau untuk petani transmigran mencakup tah apan-tahapan penting mulai",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 7.317,
+    "flare_iters": 1,
+    "query_id": "uq_0032",
+    "unans_type": "commodity_not_covered",
+    "reason": "Tembakau tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa kriteria mutu lada sesuai SNI yang berlaku di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Kriteria mutu lada sesuai SNI yang berlaku di kawasan transmigrasi di Maaf, berdasarkan bukti yang diberikan, tidak ada informasi spesifik mengenai kriteria Maaf, berdasarkan bukti yang diberikan, tidak ada informasi spesifik mengenai kriteria mutu lada sesuai SNI yang berlaku di kawasan transmigrasi. Bukti yang tersedia membahas tentang perencanaan lokasi transmigrasi dan kriteria penetapan kawasan transmigrasi (K-1, K-2, K-3), bukan standar mutu produk pertanian seperti lada. Maaf, berdasarkan bukti yang diberikan, tidak ada informasi spesifik mengenai kriteria mutu lada sesuai SNI yang berlaku di kawasan transmigrasi. Bukti yang tersedia membahas tentang perencanaan lokasi transmigrasi dan kriteria penetapan kawasan transmigrasi (K-1, K-2, K-3) berdasarkan fungsinya, bukan standar mutu produk pertanian seperti lada.",
+    "evidence": [
+      {
+        "chunk_id": 517,
+        "filename": "Permenperin No. 10 Tahun 2025.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 8,
+        "chunk_size": 820,
+        "text": "erakreditasi yang melakukan\nsertifikasi produk barang dan/atau jasa industri dan menerbitkan Sertifikat SNI sesuai dengan persyaratan\nSNI yang diberlakukan secara wajib.\n16. Laboratorium Uji adalah lembaga terakreditasi yang\nmelakukan pengujian kesesuaian mutu terhadap\ncontoh barang sesuai dengan persyaratan SNI yang\ndiberlakukan secara wajib.\n17. Komite Akreditasi Nasional yang selanjutnya disingkat\nKAN adalah lembaga nonstruktural yang bertugas dan\nbertanggung jawab di bidang akreditasi lembaga\npenilaian kesesuaian.\n18. Surveilen adalah pengulangan sistematik penilaian\nkesesuaian sebagai dasar untuk memelihara validitas\npernyataan kesesuaian.\n19. Petugas Pengawas Standar Industri yang selanjutnya\ndisingkat PPSI adalah pegawai negeri sipil pusat atau\ndaerah yang ditugaskan untuk melakukan\npengawasan terhadap",
+        "year": "2008",
+        "commodities": [
+          "kakao",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.7308
+      },
+      {
+        "chunk_id": 523,
+        "filename": "Permenperin No. 10 Tahun 2025.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 14,
+        "chunk_size": 820,
+        "text": ") huruf a dilakukan melalui:\n- 7 -\na. audit proses produksi dan penerapan sistem manajemen mutu dengan ISO 9001:2015 atau\nsistem manajemen keamanan pangan; dan\nb. pengujian kesesuaian mutu dengan ketentuan\nSNI sebagaimana dimaksud dalam Pasal 2 ayat\n(1).\n(2) Sistem manajemen keamanan pangan sebagaimana\ndimaksud pada ayat (1) huruf a dapat berupa:\na. SNI ISO 22000:2018; atau\nb. Sistem manajemen keamanan pangan lainnya\nyang ditetapkan oleh organisasi pengembangan\nstandar internasional.\nPasal 8\n(1) Kegiatan penilaian kesesuaian dengan sistem sertifkasi\ntipe 1 (satu) b sebagaimana dimaksud dalam Pasal 6\nayat (1) huruf b dilakukan melalui:\na. tinjauan permohonan; dan\nb. pengujian kesesuaian mutu dengan ketentuan\nSNI sebagaimana dimaksud dalam Pasal 2 ayat\n(1).\n(2) Pengujian kesesuaian mutu sebagaimana dimaksud\npad",
+        "year": "2008",
+        "commodities": [
+          "kakao",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.7017
+      },
+      {
+        "chunk_id": 279,
+        "filename": "Biji_kakao.docx",
+        "category": "technical_standards",
+        "doc_type": "docx",
+        "chunk_index": 3,
+        "chunk_size": 820,
+        "text": "tu C (119,67 biji/100 g).\nTujuh kelompok lainnya masuk mutu S (>120 biji/100 g). Berdasarkan persyaratan mutu SNI (umum dan khusus), semua kelompok di Kulon Progo belum memenuhi standar karena persentase biji berjamur dan slaty sangat tinggi. Penyebab utama meliputi penjemuran tidak optimal, kelembaban saat penyimpanan, serta fermentasi dengan kapasitas tidak memadai sehingga suhu tidak mencapai 40°C.\nDi Gunungkidul, dua kelompok (Trukan dan Nglegi) memiliki berat biji yang lebih baik (golongan A dan B), tetapi tetap belum memenuhi persyaratan SNI karena kadar biji berjamur dan slaty masih tinggi. Banyak faktor internal (kualitas buah sebelum fermentasi) dan eksternal (proses fermentasi dan pasca-fermentasi) memengaruhi hasil ini.\n3. Persyaratan SNI 01-2323-2008 untuk Biji Kakao\nSNI 01-2323-2008 mengatur klas",
+        "year": "2008",
+        "commodities": [
+          "kakao",
+          "kelapa sawit",
+          "karet"
+        ],
+        "hybrid_score": 0.652
+      },
+      {
+        "chunk_id": 1039,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 146,
+        "chunk_size": 820,
+        "text": "isusun di lokasi yang\ntepat, diharapkan penempatan transmigran dapat lebih tepat sasaran dan sesuai dengan kebutuhan lokasi, sehingga pencapaian\nsasaran kesejahteraan transmigran dapat tercapai.\nPerencanaan lokasi secara akurat menjadi lebih relevan lagi\nmengingat saat ini, lokasi bagi penempatan transmigrasi semakin\nsedikit sehubungan dengan meningkatnya persaingan\npenggunaan lahan untuk berbagai kebutuhan di berbagai sektor\ndi luar sektor transmigrasi.\nDalam konteks perencanaan penempatan, sesuai dengan\namanat Undang-undang Nomor 29 Tahun 2009 tentang\nKetransmigrasian, transmigrasi adalah perpindahan penduduk\nsecara sukarela untuk meningkatkan kesejahteraan dan menetap\ndi kawasan transmigrasi. Sementara itu, kawasan transmigrasi\nadalah kawasan budidaya yang memiliki fungsi sebagai\npermukiman dan tempat usah",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.6023
+      },
+      {
+        "chunk_id": 706,
+        "filename": "pengantar_kriteria_kawasan.docx",
+        "category": "general_reference",
+        "doc_type": "docx",
+        "chunk_index": 0,
+        "chunk_size": 752,
+        "text": "DATA TERSTRUKTUR – PENGANTAR KRITERIA 45 KAWASAN TRANSMIGRASI\nA. Kerangka Kriteria Kawasan Transmigrasi\nPenetapan kawasan transmigrasi menggunakan tiga kriteria utama: K-1, K-2, dan K-3.\nK-1 didefinisikan sebagai kawasan transmigrasi yang mendukung penataan persebaran penduduk.\nK-2 didefinisikan sebagai kawasan transmigrasi yang berfungsi sebagai pusat pertumbuhan lokal dan terhubung dengan KEK, KI, DPP, dan PKSN.\nK-3 didefinisikan sebagai kawasan transmigrasi yang berfungsi sebagai penyangga pusat-pusat pertumbuhan, termasuk WM, IKN, dan KSPP.\nB. Daftar 45 Kawasan Transmigrasi (sebagaimana tercantum dalam dokumen)\nKawasan Transmigrasi Selaut berada di Kabupaten Simeulue.\nKawasan Transmigrasi Batu Betumpang berada di Kabupaten Bangka Selatan.",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "hybrid_score": 0.5882
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 48.551,
+    "flare_iters": 3,
+    "query_id": "uq_0033",
+    "unans_type": "commodity_not_covered",
+    "reason": "Lada tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Sebutkan teknik budidaya cengkeh yang direkomendasikan untuk kawasan transmigrasi.",
+    "reference": "",
+    "method": "flare",
+    "answer": "Teknik budidaya cengkeh yang direkomendasikan untuk kawasan trans migrasi adalah pemilihan lokasi yang tepat",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 8.228,
+    "flare_iters": 1,
+    "query_id": "uq_0034",
+    "unans_type": "commodity_not_covered",
+    "reason": "Cengkeh tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa standar pengolahan pala di kawasan transmigrasi Maluku?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Standar pengolahan pala di kawasan transmigrasi Maluku meliputi beberapa tahapan kunci",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 10.114,
+    "flare_iters": 1,
+    "query_id": "uq_0035",
+    "unans_type": "commodity_not_covered",
+    "reason": "Pala tidak ada di corpus meski Maluku (provinsinya) ada — menguji apakah sistem 'memaksakan' jawaban dari konteks regional yang salah komoditas.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Bagaimana pedoman budidaya kapas untuk program transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Pedoman budidaya kapas untuk program transmigrasi dirancang untuk membantu trans migran dalam mengembangkan usaha pertanian kapas",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 10.32,
+    "flare_iters": 1,
+    "query_id": "uq_0036",
+    "unans_type": "commodity_not_covered",
+    "reason": "Kapas tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa standar teknis budidaya tebu di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Standar teknis budidaya tebu di kawasan transmigrasi umumnya Berdasarkan bukti yang diberikan, tidak ada informasi mengenai standar teknis Next sentence: Oleh karena itu",
+    "evidence": [
+      {
+        "chunk_id": 1071,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 178,
+        "chunk_size": 820,
+        "text": "mpat yang berada di sekitarnya.\nSalah satu upaya yang dilakukan pemerintah untuk melibatkan penduduk setempat dalam program transmigrasi\nadalah pembangunan kawasan transmigrasi yang terintegrasi\ndengan penduduk lokal/desa yang ada, yaitu dengan cara\nmemasukkan desa sekitar ke dalam deliniasi SKP, yang mengarah\nke pembentukan satu kesatuan kawasan ekonomi dalam sistem\npengembangan ekonomi wilayah.\nUntuk mewujudkan data dan deliniasi peta Rencana Satuan\nKawasan Pengembangan (RSKP) sudah ter upload dalam Aplikasi\nSIPUKAT, dengan penggambaran di bawah ini yaitu Kawasan\nMelolo, Kabupaten Sumba Timur, Provinsi Nusa Tenggara Timur.\n111\nSOLUSI PERENCANAAN TRANSMIGRASI\nGambar 5. 25 Rencana Teknis Satuan Pengembangan\n(RSKP)\n5.16.2 Rencana Teknis Satuan Pemukiman (RTSP)\nRencana Teknis Satuan Permukiman (RSKP) untuk\nmeng",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.5769
+      },
+      {
+        "chunk_id": 1120,
+        "filename": "KAK_Transpolitan_SIPUKAT.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 0,
+        "chunk_size": 799,
+        "text": "KERANGKA ACUAN KERJA\nSTRATEGI PENGEMBANGAN KAWASAN TRANSPOLITAN MELALUI SIPUKAT\n(Tahap I: Jangka Pendek)\nA. Latar Belakang\nKawasan Transmigrasi merupakan kawasan budidaya yang memiliki fungsi sebagai\npermukiman dan tempat usaha masyarakat dalam satu sistem pengembangan berupa wilayah\npengembangan transmigrasi atau lokasi permukiman transmigrasi. Sebaran Kawasan\nTransmigrasi berada di 152 (seratus lima puluh dua) Kawasan dengan tingkat perkembangan\nyang bisa dikelompokkan menjadi Kawasan berkembang, Kawasan mandiri dan Kawasan\nberdaya saing/mitra.\nMenyongsong era digital saat ini, dimana semua manusia dapat saling berkomunikasi\nsedemikian dekat walaupun saling berjauhan bahkan secara real time, paradigma\npembangunan transmigrasi harus dirubah dengan melakukan berbagai inovasi untuk menjadi",
+        "region": "Transpolitan Melalui Sipukat",
+        "year": "2009",
+        "regulation_type": "PP",
+        "hybrid_score": 0.566
+      },
+      {
+        "chunk_id": 560,
+        "filename": "Permentrans Nomor 8 Tahun 2025 tentang Transformasi Transmigrasi.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 27,
+        "chunk_size": 820,
+        "text": "i, lingkungan, serta bidang\nlainnya yang mendukung penyelenggaraan Transmigrasi. (3) Pelatihan Transmigran Lokal dilaksanakan sesuai dengan\npola usaha pokok yang dikembangkan dan/atau\nrekomendasi kebijakan hasil riset dan kajian di Kawasan\nTransmigrasi.\n(4) Pelatihan Transmigran Lokal dilaksanakan melalui\ntahapan:\na. perencanaan;\nb. pelaksanaan; dan\nc. pemantauan dan evaluasi.\n(5) Pelatihan Transmigran Lokal dilaksanakan oleh unit kerja\ndan unit pelaksana teknis di lingkungan Kementerian.\n(6) Dalam hal unit kerja dan unit pelaksana teknis tidak\ndapat melaksanakan tugas sebagaimana dimaksud pada\nayat (5), maka pelatihan Transmigran Lokal dilakukan\noleh pemerintah daerah provinsi, pemerintah daerah\nkabupaten/kota, atau lembaga yang bergerak di bidang\npengembangan sumber daya manusia dengan tetap\nmemperhatikan t",
+        "year": "2025",
+        "commodities": [
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.5631
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 15.11,
+    "flare_iters": 2,
+    "query_id": "uq_0037",
+    "unans_type": "commodity_not_covered",
+    "reason": "Tebu tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Sebutkan panduan budidaya kentang untuk petani transmigran dataran tinggi.",
+    "reference": "",
+    "method": "flare",
+    "answer": "Berikut adalah panduan budidaya kentang yang disesuaikan untuk petani transmig",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 7.301,
+    "flare_iters": 1,
+    "query_id": "uq_0038",
+    "unans_type": "commodity_not_covered",
+    "reason": "Kentang tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa kriteria mutu bawang merah dalam program transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Kriteria mutu bawang merah dalam program transmigrasi ditetapkan berdasarkan standar tertentu untuk memastikan Berdasarkan bukti yang diberikan, tidak ada informasi spesifik mengenai kriteria mutu Next sentence: Oleh",
+    "evidence": [
+      {
+        "chunk_id": 1122,
+        "filename": "KAK_Transpolitan_SIPUKAT.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 2,
+        "chunk_size": 820,
+        "text": "tan, perlu diketahui terlebih dahulu kriteria maupun indicator ukuran pencapaian masing-masing Kawasan tersebut. Sehingga berlandaskan base line indicator yang ada serta\nindikasi program pembangunan untuk mencapai tingkat perkembangan yang direncanakan,\nbisa memudahkan dalam penyusunan rancangan pembangunan transpolitan.\nKriteria dari Kawasan Transmigrasi dan Kawasan Transpolitan yakni:\nUntuk mengetahui apakah pembangunan ketransmigrasian sudah sesuai sasaran atau\nbelum, maka perlu dilakukan kegiatan pengukuran/penilaian perkembangan Kawasan\ntransmigrasi, dengan model arsitektur penentuan indeks perkembangan seperti berikut:\n2\nStatus Kawasan Transmigrasi serta Satuan Kawasan Pengembangan (SKP) dan Satuan\nPermukiman (SP) bisa dibagi menjadi seperti berikut:\nIndikator Perkembangan Kawasan Transmigrasi adalah se",
+        "region": "Transpolitan Melalui Sipukat",
+        "year": "2009",
+        "regulation_type": "PP",
+        "hybrid_score": 0.4719
+      },
+      {
+        "chunk_id": 508,
+        "filename": "no 5.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 51,
+        "chunk_size": 699,
+        "text": "n waktu pelaksanaan\nyang direkomendasikan untuk mewujudkan Kawasan\nTransmigrasi. (2) Arahan indikasi program utama sebagaimana dimaksud\npada ayat (1) berfungsi sebagai:\na. acuan dalam penyusunan program pembangunan\ndan pengembangan Kawasan Transmigrasi;\nb. acuan institusi dan/atau sektor dalam penyusunan\nrencana strategis serta besaran investasi di Kawasan\nTransmigrasi;\nc. dasar estimasi kebutuhan biaya dan sumber\npembiayaan; dan\nd. dasar estimasi waktu pelaksanaan.\nPasal 46\n(1) Arahan indikasi program utama sebagaimana dimaksud\ndalam Pasal 45 ayat (1) paling sedikit memuat arahan\nmengenai:\na. program utama;\nb. lokasi;\nc. sumber pendanaan;\nd. institusi pelaksana; dan\ne. tahapan pelaksanaan.",
+        "region": "Dengan Rahmat Tuhan Yang Maha Esa",
+        "year": "2021",
+        "regulation_type": "PP",
+        "hybrid_score": 0.422
+      },
+      {
+        "chunk_id": 706,
+        "filename": "pengantar_kriteria_kawasan.docx",
+        "category": "general_reference",
+        "doc_type": "docx",
+        "chunk_index": 0,
+        "chunk_size": 752,
+        "text": "DATA TERSTRUKTUR – PENGANTAR KRITERIA 45 KAWASAN TRANSMIGRASI\nA. Kerangka Kriteria Kawasan Transmigrasi\nPenetapan kawasan transmigrasi menggunakan tiga kriteria utama: K-1, K-2, dan K-3.\nK-1 didefinisikan sebagai kawasan transmigrasi yang mendukung penataan persebaran penduduk.\nK-2 didefinisikan sebagai kawasan transmigrasi yang berfungsi sebagai pusat pertumbuhan lokal dan terhubung dengan KEK, KI, DPP, dan PKSN.\nK-3 didefinisikan sebagai kawasan transmigrasi yang berfungsi sebagai penyangga pusat-pusat pertumbuhan, termasuk WM, IKN, dan KSPP.\nB. Daftar 45 Kawasan Transmigrasi (sebagaimana tercantum dalam dokumen)\nKawasan Transmigrasi Selaut berada di Kabupaten Simeulue.\nKawasan Transmigrasi Batu Betumpang berada di Kabupaten Bangka Selatan.",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "hybrid_score": 0.4164
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 16.907,
+    "flare_iters": 2,
+    "query_id": "uq_0039",
+    "unans_type": "commodity_not_covered",
+    "reason": "Bawang merah tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Bagaimana pedoman budidaya rumput laut di kawasan transmigrasi pesisir?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Pedoman budidaya rumput laut di kawasan transmigrasi pes isir mencakup beberapa aspek penting",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 8.483,
+    "flare_iters": 1,
+    "query_id": "uq_0040",
+    "unans_type": "commodity_not_covered",
+    "reason": "Rumput laut tidak ada di corpus (yang ada dari sektor perairan hanya udang).",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa standar budidaya singkong/ubi kayu di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Standar budidaya singkong/ubi kayu di kawasan transmigrasi Berikut adalah prediksi kalimat selanjutnya:",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 6.636,
+    "flare_iters": 1,
+    "query_id": "uq_0041",
+    "unans_type": "commodity_not_covered",
+    "reason": "Singkong/ubi kayu tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Sebutkan teknik budidaya pisang untuk kawasan transmigrasi.",
+    "reference": "",
+    "method": "flare",
+    "answer": "Teknik budidaya pisang untuk kawasan transmigrasi meliputi: Berikut adalah prediksi kalimat selanjutnya:",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 16.51,
+    "flare_iters": 1,
+    "query_id": "uq_0042",
+    "unans_type": "commodity_not_covered",
+    "reason": "Pisang tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa pedoman budidaya kelapa (non-sawit) di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Pedoman budidaya kelapa (non-sawit) di kawasan transmigrasi menc",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 7.268,
+    "flare_iters": 1,
+    "query_id": "uq_0043",
+    "unans_type": "commodity_not_covered",
+    "reason": "Kelapa biasa (kopra) tidak ada di corpus — hanya kelapa sawit.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Bagaimana standar budidaya vanili untuk petani transmigran?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Standar budidaya vanili untuk petani transmigran mencakup ser Standar budidaya vanili",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 13.933,
+    "flare_iters": 1,
+    "query_id": "uq_0044",
+    "unans_type": "commodity_not_covered",
+    "reason": "Vanili tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa kriteria mutu jambu mete dalam program pengembangan komoditas transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Kriteria mutu jambu mete dalam program pengembangan komoditas transmig Kriteria mutu jambu mete dalam program pengembangan komoditas transmigrasi Kriteria mutu jambu",
+    "evidence": [
+      {
+        "chunk_id": 547,
+        "filename": "Permentrans Nomor 8 Tahun 2025 tentang Transformasi Transmigrasi.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 14,
+        "chunk_size": 820,
+        "text": "f dilaksanakan untuk mewujudkan\nkomoditas lokal yang potensial menjadi komoditas unggulan di Kawasan Transmigrasi.\n(7) Hilirisasi hasil produksi komoditas unggulan\nsebagaimana dimaksud dalam Pasal 5 huruf g\ndilaksanakan untuk meningkatkan nilai tambah ekonomi\ndi Kawasan Transmigrasi.\n(8) Digitalisasi sebagaimana dimaksud dalam Pasal 5 huruf h\ndilakukan untuk memudahkan akses informasi guna\npengembangan Kawasan Transmigrasi.\nPasal 8\nTransformasi Transmigrasi dilaksanakan melalui 5 (lima)\nProgram Unggulan, meliputi:\na. Trans Tuntas;\nb. Trans Lokal;\nc. Trans Patriot;\nd. Trans Karya Nusa; dan\ne. Trans Gotong Royong.\nBAB III\nTRANSMIGRASI TUNTAS\nBagian Kesatu\nUmum\nPasal 9\n(1) Trans Tuntas sebagaimana dimaksud dalam Pasal 8 huruf\na diselenggarakan untuk:\na. memberikan kepastian hukum atas penyediaan tanah\nuntuk Tran",
+        "year": "2025",
+        "commodities": [
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.7562
+      },
+      {
+        "chunk_id": 263,
+        "filename": "telang.docx",
+        "category": "regional_profile",
+        "doc_type": "docx",
+        "chunk_index": 8,
+        "chunk_size": 607,
+        "text": "\nPerlu peningkatan kreativitas masyarakat dalam pengembangan komoditas unggulan. Perlu pelibatan pelaku seni dan budaya dalam pengembangan komoditas unggulan.\nPerlu pemanfaatan produk budaya masyarakat secara lebih optimal.\nPerlu perumusan rencana pengembangan dan rencana kebutuhan pembiayaan pembangunan Kawasan Transmigrasi Telang.\nPerlu pembuatan nota kesepahaman bersama tentang alokasi sumber daya pembangunan untuk Kawasan Transmigrasi Telang.\nPerlu penyusunan kebijakan tentang promosi produk unggulan Kawasan Transmigrasi Telang.\nPerlu adanya promosi komoditas unggulan Kawasan Transmigrasi Telang.",
+        "region": "Telang",
+        "province": "Sumatera Selatan",
+        "year": "2016",
+        "commodities": [
+          "padi",
+          "jagung",
+          "sapi"
+        ],
+        "hybrid_score": 0.6931
+      },
+      {
+        "chunk_id": 571,
+        "filename": "Permentrans Nomor 8 Tahun 2025 tentang Transformasi Transmigrasi.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 38,
+        "chunk_size": 820,
+        "text": "wasan Transmigrasi;\nb. pembentukan dan/atau revitalisasi lembaga ekonomi;\n- 16 - c. pengembangan keahlian dan keterampilan sumber daya\nmanusia sesuai kebutuhan kawasan;\nd. industrialisasi dan hilirisasi komoditas lokal;\ne. pengembangan sektor jasa unggulan;\nf. pelaksanaan penanaman modal dalam negeri dan\npenanaman modal asing;\ng. promosi dan pemasaran hasil industri olahan komoditas\nlokal dan sektor jasa unggulan; dan\nh. seleksi dan penempatan transmigran.\nPasal 40\nPenetapan komoditas lokal dan sektor jasa unggulan sesuai\npotensi Kawasan Transmigrasi sebagaimana dimaksud dalam\nPasal 39 huruf a didasarkan pada dokumen:\na. RKT;\nb. hasil kajian tim ekspedisi patriot; dan/atau\nc. kajian lainnya di Kawasan Transmigrasi.\nPasal 41\n(1) Pembentukan dan/atau revitalisasi lembaga ekonomi\nsebagaimana dimaksud dalam Pasal",
+        "year": "2025",
+        "commodities": [
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.6539
+      }
+    ],
+    "is_refusal": false,
+    "latency_s": 30.057,
+    "flare_iters": 2,
+    "query_id": "uq_0045",
+    "unans_type": "commodity_not_covered",
+    "reason": "Jambu mete tidak ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Bagaimana prosedur perizinan usaha pertambangan nikel di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Prosedur perizinan usaha pertambangan nikel di Next sentence: Prosedur",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 8.96,
+    "flare_iters": 1,
+    "query_id": "uq_0046",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "Pertambangan bukan cakupan corpus (fokus: profil kawasan, standar komoditas, layanan, regulasi transmigrasi).",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa syarat pengajuan Kredit Usaha Rakyat (KUR) untuk petani transmigran?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Untuk mengajukan Kredit Usaha Rakyat (KUR), petani transmigran perlu memenuhi persyaratan umum dan khusus",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 7.305,
+    "flare_iters": 1,
+    "query_id": "uq_0047",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "Skema pembiayaan perbankan KUR tidak dibahas di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Bagaimana prosedur pendaftaran BPJS Kesehatan bagi warga transmigran?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Pendaftaran BPJS Kesehatan bagi warga transmigran memiliki prosedur khusus yang melibatkan koordin asi antara berbagai pihak terkait",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 10.695,
+    "flare_iters": 1,
+    "query_id": "uq_0048",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "BPJS Kesehatan (domain kesehatan) tidak dibahas di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa ketentuan pajak UMKM bagi pelaku usaha di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Ketentuan pajak UMKM bagi pelaku usaha di kawasan transmigrasi pada dasarnya Tidak ada informasi mengenai ketentuan pajak UMKM bagi pelaku usaha di kawasan trans berdasarkan bukti yang diberikan, tidak ditemukan informasi spesifik mengenai ketentuan pajak UMKM berdasarkan bukti yang diberikan, tidak ditemukan informasi spesifik mengenai ketentuan",
+    "evidence": [
+      {
+        "chunk_id": 538,
+        "filename": "Permentrans Nomor 8 Tahun 2025 tentang Transformasi Transmigrasi.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 5,
+        "chunk_size": 820,
+        "text": "rian\nTransmigrasi (Berita Negara Republik Indonesia Tahun\n2024 Nomor 886);\n- 3 - MEMUTUSKAN:\nMenetapkan : PERATURAN MENTERI TRANSMIGRASI TENTANG\nTRANSFORMASI TRANSMIGRASI.\nBAB I\nKETENTUAN UMUM\nPasal 1\nDalam Peraturan Menteri ini yang dimaksud dengan:\n1. Ketransmigrasian adalah segala sesuatu yang berkaitan\ndengan penyelenggaraan transmigrasi.\n2. Transmigrasi adalah perpindahan penduduk secara\nsukarela untuk meningkatkan kesejahteraan dan menetap\ndi kawasan Transmigrasi yang diselenggarakan oleh\npemerintah pusat.\n3. Kawasan Transmigrasi adalah kawasan budidaya yang\nmemiliki fungsi sebagai permukiman dan tempat usaha\nmasyarakat dalam satu sistem pengembangan berupa\nwilayah pengembangan Transmigrasi atau lokasi\npermukiman Transmigrasi.\n4. Rencana Kawasan Transmigrasi yang selanjutnya disingkat\nRKT adalah hasil p",
+        "year": "2025",
+        "commodities": [
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.566
+      },
+      {
+        "chunk_id": 645,
+        "filename": "UU Nomor 29 Tahun 2009.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 15,
+        "chunk_size": 820,
+        "text": "erintah\ndan/atau pemerintah daerah.\n(3) Penempatan transmigran pada Transmigrasi Swakarsa Berbantuan dilaksanakan oleh\nPemerintah dan/atau pemerintah daerah serta\ndapat mengikutsertakan badan usaha.\n(4) Penempatan transmigran pada Transmigrasi\nSwakarsa Mandiri dilaksanakan sendiri oleh\ntransmigran atau badan usaha yang\nmenyediakan lapangan kerja atau usaha,\ndapat dibantu oleh Pemerintah dan/atau\npemerintah daerah.\n12. Judul . . .\n- 1 2 -\n12. Judul BAB VIII diubah, sehingga berbunyi sebagai\nberikut:\nBAB VIII\nPENGEMBANGAN MASYARAKAT TRANSMIGRASI\nDAN KAWASAN TRANSMIGRASI\n13. Ketentuan Pasal 32 diubah, sehingga Pasal 32\nberbunyi sebagai berikut:\nPasal 32\n(1) Pengembangan masyarakat transmigrasi dan\nKawasan Transmigrasi diarahkan untuk\nmencapai kesejahteraan, kemandirian,\nintegrasi transmigran dengan penduduk\nseki",
+        "region": "Transmigrasi",
+        "year": "2009",
+        "regulation_type": "PP",
+        "hybrid_score": 0.5565
+      },
+      {
+        "chunk_id": 969,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 76,
+        "chunk_size": 820,
+        "text": "ngkatkan\nKeterkaitan Desa-Kota\nRencana pembangunan transmigrasi berbasis kawasan memiliki keterkaitan fungsional dan hierarki dengan pusat\npertumbuhan dalam satu kesatuan sistem pembangunan ekonomi\nwilayah Kabupaten dan/atau Provinsi. Dengan tersusunnya\ndokumen rencana kawasan transmigrasi yang memuat kebijakan\npembangunan daerah, luas, deliniasi kawasan transmigrasi,\nrencana struktur kawasan transmigrasi, rencana peruntukkan\nkawasan transmigrasi, arahan jenis transmigrasi dan bentuk\npermukiman transmigrasi (sp-baru, sp-pugar, sp-tempatan) yang\nakan dilaksanakan, arahan penataan persebaran penduduk dan\nkebutuhan sumber daya manusia, arahan indikasi program\nutama, tahapan perwujudan kawasan transmigrasi serta\nketentuan pengendalian pemanfaatan kawasan transmigrasi.\n31\nSOLUSI PERENCANAAN TRANSMIGRASI\nGambar 3. ",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.5534
+      },
+      {
+        "chunk_id": 639,
+        "filename": "UU Nomor 29 Tahun 2009.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 9,
+        "chunk_size": 820,
+        "text": "emerintah dan/atau pemerintah\ndaerah.\n(3) Transmigran pada Transmigrasi Swakarsa Berbantuan mendapat bantuan dari badan\nusaha berupa:\na. perolehan kredit investasi dan modal kerja\nyang diperlukan bagi kegiatan usaha\ntransmigran;\nb. bimbingan, pelatihan, dan penyuluhan\nusaha ekonomi;\nc. informasi usaha;\nd. jaminan pemasaran hasil produksi;\ne. jaminan pendapatan yang memenuhi\nkebutuhan hidup layak;\nf. bimbingan sosial kemasyarakatan; dan\ng. fasilitas umum dan fasilitas sosial.\n(4) Ketentuan lebih lanjut mengenai pelaksanaan\npemberian bantuan oleh Pemerintah dan/atau\npemerintah daerah sebagaimana dimaksud\npada ayat (1) dan ayat (2) diatur dengan\nPeraturan Menteri.\n(5) Ketentuan lebih lanjut mengenai pelaksanaan\npemberian bantuan oleh badan usaha\nsebagaimana dimaksud pada ayat (3) diatur\ndengan Peraturan Pemerint",
+        "region": "Transmigrasi",
+        "year": "2009",
+        "regulation_type": "PP",
+        "hybrid_score": 0.6392
+      },
+      {
+        "chunk_id": 512,
+        "filename": "Permenperin No. 10 Tahun 2025.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 3,
+        "chunk_size": 820,
+        "text": "ian\nPerindustrian (Berita Negara Republik Indonesia\nTahun 2023 Nomor 384);\n- 3 - MEMUTUSKAN:\nMenetapkan : PERATURAN MENTERI PERINDUSTRIAN TENTANG\nPEMBERLAKUAN STANDAR NASIONAL INDONESIA UNTUK\nKAKAO BUBUK SECARA WAJIB.\nBAB I\nKETENTUAN UMUM\nPasal 1\nDalam Peraturan Menteri ini yang dimaksud dengan:\n1. Standar Nasional Indonesia yang selanjutnya disingkat\nSNI adalah standar yang ditetapkan oleh lembaga\npemerintah nonkementerian yang bertugas dan\nbertanggung jawab di bidang standardisasi dan\npenilaian kesesuaian.\n2. Kakao Bubuk adalah produk yang diperolah dari\nbungkil kakao yang diubah bentuknya menjadi bubuk.\n3. Pelaku Usaha adalah orang perseorangan atau badan\nusaha baik yang berbentuk badan hukum maupun\nbukan badan hukum yang didirikan dan\nberkedudukan atau melakukan kegiatan dalam\nwilayah hukum Negara Kesatua",
+        "year": "2008",
+        "commodities": [
+          "kakao",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.5903
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 35.673,
+    "flare_iters": 3,
+    "query_id": "uq_0049",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "Perpajakan tidak dibahas di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": true
+  },
+  {
+    "query": "Bagaimana prosedur perizinan usaha pariwisata di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Prosedur perizinan usaha pariwisata di kawasan transmig Next sentence:rasi umumnya melibatkan",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 13.07,
+    "flare_iters": 1,
+    "query_id": "uq_0050",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "Pariwisata hanya pernah muncul sebagai skenario kebijakan hasil generate SR di contoh kualitatif paper, bukan fakta dari dokumen sumber.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa syarat pendirian sekolah menengah kejuruan di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Pendirian sekolah menengah kejuruan di kawasan transmigrasi memiliki beberapa ...persyaratan yang harus dipenuhi",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 7.041,
+    "flare_iters": 1,
+    "query_id": "uq_0051",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "Pendidikan formal (SMK) tidak dibahas di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Bagaimana skema investasi pembangkit listrik tenaga surya di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Skema investasi pembangkit listrik tenaga surya (PLTS) Next sentence: Sk",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 6.533,
+    "flare_iters": 1,
+    "query_id": "uq_0052",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "Energi terbarukan tidak dibahas di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa prosedur perizinan eksplorasi minyak dan gas bumi di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Prosedur perizinan eksplorasi minyak dan gas bumi di kawasan transmigrasi melalui beberapa tahapan dengan pengumpulan data primer dan pengumpulan data sekunder.",
+    "evidence": [
+      {
+        "chunk_id": 974,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 81,
+        "chunk_size": 820,
+        "text": "an transmigrasi melalui\nbeberapa tahapan dengan pengumpulan data primer dan data sekunder. Pengumpulan data primer meliputi:\n(1) Penjaringan aspirasi masyarakat yang dapat dilaksanakan\nmelalui temu wicara, wawancara orang per-orang, Focus\nGroup Discussion, dan lain sebagainya;\n(2) Penjaringan informasi kebijakan pembangunan dilakukan\ndengan melakukan wawancara di instansi tingkat kabupaten,\ndan\n(3) Pengenalan kondisi fisik dan sosial ekonomi wilayah secara\nlangsung melalui kunjungan beberapa bagian wilayah\nterpilih di kawasan transmigrasi.\nSedangkan pada data sekunder beberapa tahapan antara lain\npeta-peta harus memenuhi (1) Peta Rupa Bumi Indonesia (RBI)\natau peta topografi skala 1 : 50.000, yang diproduksi oleh instansi\n35\nSOLUSI PERENCANAAN TRANSMIGRASI\nyang berwenang berupa file digital atau cetak, (2) ci",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.5061
+      },
+      {
+        "chunk_id": 902,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 9,
+        "chunk_size": 820,
+        "text": "i WebGIS sebagai\ninovasi dalam menyajikan gambaran visual secara geografis. Data disajikan melalui citra, peta maupun kenampakan permukaan\n(relief) yang merupakan representasi kondisi riil lapangan secara\nmaksimal hingga skala tertentu, serta diintegrasikan dengan data\nspasial ketransmigrasian.\nPenyajian Profil Kawasan Transmigrasi pada SIPUKAT\nberbasis WebGIS diatur dalam beberapa layer peta yang dapat\ndilakukan overlay sehingga lebih interaktif, jelas dan informatif.\nLayer peta dasar penting yang dapat ditampilkan di antaranya\nPeta Penetapan Kawasan Hutan dari Kementerian Lingkungan\nHidup dan Kehutanan serta Peta Citra Rupa Bumi Indonesia (RBI)\ndari Badan Informasi Geospasial (BIG).\nix\nSOLUSI PERENCANAAN TRANSMIGRASI\nDengan terbitnya Buku Sipukat Solusi Perencanaan\nTransmigrasi, berharap bagi para pemangku ",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.5041
+      },
+      {
+        "chunk_id": 1127,
+        "filename": "KAK_Transpolitan_SIPUKAT.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 7,
+        "chunk_size": 820,
+        "text": "nalkan kawasan transmigrasi dari segi aspek potensi lahannya, potensi sumberdaya manusianya maupun promosi komoditas unggulan.\n7\n8\nDalam rangka penyediaan data dan informasi peta terpadu kawasan transmigrasi,\nDitjen Penyiapan Kawasan dan Pembangunan Permukiman Transmigrasi mengembangkan\nsebuah system aplikasi yakni Sipukat (Sistem Informasi Peta Terpadu Kawasan\nTransmigrasi). Sipukat memuat system informasi yang memuat data kawasan transmigrasi\ndalam bentuk informasi spasial dan informasi atribut berbasis WebGIS (Geographic\nInformation System) dan Mobile Application yang terintegrasi dengan database Peta\nTerpadu Kawasan Transmigrasi, yang berfungsi sebagai data dasar bidang transmigrasi yang\ndapat dimanfaatkan oleh berbagai pihak sehingga tercapai efisiensi dan efektivitas\npemanfaatan data spasial.\nSipukat me",
+        "region": "Transpolitan Melalui Sipukat",
+        "year": "2009",
+        "regulation_type": "PP",
+        "hybrid_score": 0.4016
+      }
+    ],
+    "is_refusal": false,
+    "latency_s": 22.064,
+    "flare_iters": 2,
+    "query_id": "uq_0053",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "Migas tidak dibahas di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Bagaimana ketentuan pembangunan jalan tol yang melintasi kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Ketentuan pembangunan jalan tol yang melintasi kawasan transmigrasi diatur Next sentence: dalam peraturan perundang",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 7.348,
+    "flare_iters": 1,
+    "query_id": "uq_0054",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "Infrastruktur jalan tol tidak dibahas di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa syarat pendaftaran perguruan tinggi negeri baru di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Secara umum, syarat pendaftaran perguruan tinggi negeri baru di kawasan transmig rasi tidak dapat ditemukan dalam bukti yang diberikan. Bukti yang tersedia hanya membahas pendaftaran calon transmigrasi, bukan pendaftaran perguruan tinggi di kawasan transmigrasi. Bukti yang diberikan hanya menjelaskan tentang pendaftaran calon transmigrasi Namun, bukti yang diberikan tidak menjelaskan syarat pendaftaran bagi mahasiswa atau syarat",
+    "evidence": [
+      {
+        "chunk_id": 704,
+        "filename": "layanan_pendaftaran_grobogan_2025.txt",
+        "category": "service_programs",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 619,
+        "text": "Pendaftaran Calon Transmigrasi Kabupaten Grobogan — Dinas Tenaga Kerja dan Transmigrasi Kabupaten Grobogan\nINFO PENDAFTARAN CALON TRANSMIGRASI KABUPATEN GROBOGAN TAHUN 2025.\nDinas Tenaga Kerja dan Transmigrasi Kabupaten Grobogan membuka pendaftaran calon transmigrasi Tahun Anggaran 2025.\nBagi masyarakat Kabupaten Grobogan yang berminat mengikuti program transmigrasi silahkan mendaftar secara Offline ke Kantor Dinas Tenaga Kerja dan Transmigrasi Kabupaten Grobogan (Ruang Bidang Pentatrans) dengan membawa dokumen yang menjadi persyaratan atau bisa mendaftar secara Online pada website sibarduktrans.kemendesa.go.id.",
+        "year": "2025",
+        "hybrid_score": 0.5457
+      },
+      {
+        "chunk_id": 705,
+        "filename": "layanan_pendaftaran_grobogan_2025.txt",
+        "category": "service_programs",
+        "doc_type": "txt",
+        "chunk_index": 1,
+        "chunk_size": 604,
+        "text": "an atau bisa mendaftar secara Online pada website sibarduktrans.kemendesa.go.id. Transmigrasi merupakan perpindahan penduduk secara sukarela untuk meningkatkan kesejahteraan dan menetap di kawasan transmigrasi. Transmigrasi umum merupakan jenis transmigrasi yang ditujukan bagi masyarakat yang mengalami keterbatasan dalam mendapatkan peluang kerja dan usaha.\nUntuk informasi lebih lanjut terkait pendaftaran ataupun seleksi calon transmigran dapat menghubungi narahubung Dinas Tenaga Kerja dan Transmigrasi Kabupaten Grobogan.\nSumber: Dinas Tenaga Kerja dan Transmigrasi Kabupaten Grobogan, Jawa Tengah.",
+        "year": "2025",
+        "hybrid_score": 0.5022
+      },
+      {
+        "chunk_id": 688,
+        "filename": "layanan_tata_cara_bertransmigrasi.txt",
+        "category": "service_programs",
+        "doc_type": "txt",
+        "chunk_index": 9,
+        "chunk_size": 582,
+        "text": "ngan jumlah alokasi program perpindahan kabupaten/ kota tahun yang bersangkutan. Calon trans yg memperoleh sertifikat pelatihan dan tidak ditetapkan sbg transmigran akibat tdk tersedia alokasi program perpindahan, ditetapkan sebagai cadangan dan merupakan prioritas penetapan trans pengganti atau sebagai transmigran tahun berikutnya.\nPENDAFTARAN MENJADI CALON TRANSMIGRAN\nTIDAK DIPUNGUT BIAYA!!!\nFOLLOW US\nKementerian Transmigrasi Republik Indonesia Jl. TMP. Kalibata no.17, Rawajati, Kec. Pancoran\n(021) 7971972\n[email protected]\n2024 © Kementerian Transmigrasi Republik Indonesia",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "hybrid_score": 0.493
+      },
+      {
+        "chunk_id": 704,
+        "filename": "layanan_pendaftaran_grobogan_2025.txt",
+        "category": "service_programs",
+        "doc_type": "txt",
+        "chunk_index": 0,
+        "chunk_size": 619,
+        "text": "Pendaftaran Calon Transmigrasi Kabupaten Grobogan — Dinas Tenaga Kerja dan Transmigrasi Kabupaten Grobogan\nINFO PENDAFTARAN CALON TRANSMIGRASI KABUPATEN GROBOGAN TAHUN 2025.\nDinas Tenaga Kerja dan Transmigrasi Kabupaten Grobogan membuka pendaftaran calon transmigrasi Tahun Anggaran 2025.\nBagi masyarakat Kabupaten Grobogan yang berminat mengikuti program transmigrasi silahkan mendaftar secara Offline ke Kantor Dinas Tenaga Kerja dan Transmigrasi Kabupaten Grobogan (Ruang Bidang Pentatrans) dengan membawa dokumen yang menjadi persyaratan atau bisa mendaftar secara Online pada website sibarduktrans.kemendesa.go.id.",
+        "year": "2025",
+        "hybrid_score": 0.5457
+      },
+      {
+        "chunk_id": 705,
+        "filename": "layanan_pendaftaran_grobogan_2025.txt",
+        "category": "service_programs",
+        "doc_type": "txt",
+        "chunk_index": 1,
+        "chunk_size": 604,
+        "text": "an atau bisa mendaftar secara Online pada website sibarduktrans.kemendesa.go.id. Transmigrasi merupakan perpindahan penduduk secara sukarela untuk meningkatkan kesejahteraan dan menetap di kawasan transmigrasi. Transmigrasi umum merupakan jenis transmigrasi yang ditujukan bagi masyarakat yang mengalami keterbatasan dalam mendapatkan peluang kerja dan usaha.\nUntuk informasi lebih lanjut terkait pendaftaran ataupun seleksi calon transmigran dapat menghubungi narahubung Dinas Tenaga Kerja dan Transmigrasi Kabupaten Grobogan.\nSumber: Dinas Tenaga Kerja dan Transmigrasi Kabupaten Grobogan, Jawa Tengah.",
+        "year": "2025",
+        "hybrid_score": 0.5022
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 38.461,
+    "flare_iters": 3,
+    "query_id": "uq_0055",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "Perguruan tinggi tidak dibahas di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Bagaimana prosedur izin usaha perikanan tangkap laut dalam bagi warga transmigran?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Untuk warga transmigran, prosedur izin usaha perikanan tangkap laut Next sentence: dalam melibatkan beberapa",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 12.237,
+    "flare_iters": 1,
+    "query_id": "uq_0056",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "Perikanan tangkap laut dalam berbeda dari budidaya udang tambak yang ada di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa ketentuan perbankan syariah untuk pembiayaan usaha transmigran?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Perbankan syariah memiliki ketentuan khusus untuk pembiayaan usaha transmig Berikut adalah prediksi kalimat selanjutnya:",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 14.399,
+    "flare_iters": 1,
+    "query_id": "uq_0057",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "Perbankan syariah tidak dibahas di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Bagaimana regulasi e-commerce untuk produk UMKM kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Regulasi e-commerce untuk produk UMKM di kawasan transmigrasi umumnya berusaha untuk menyederhanakan dan menginovasi kebijakan nasional Namun, bukti yang diberikan tidak secara spesifik membahas regulasi e- commerce. Berdasarkan bukti yang diberikan, yaitu Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi Nomor 5 Tahun 2021 tentang Tata Cara Perencanaan Kawasan Transmigrasi dan Peraturan Pemerintah Nomor 19 Tahun 2024 tentang Peraturan Pelaksanaan Undang-Undang Ketransmigrasian, tidak ditemukan informasi spesifik mengenai regulasi e",
+    "evidence": [
+      {
+        "chunk_id": 1125,
+        "filename": "KAK_Transpolitan_SIPUKAT.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 5,
+        "chunk_size": 820,
+        "text": "emanfaatkan teknologi informasi untuk\nmendorong digitalisasi perdesaan.\nTahap 2: Pembangunan Kawasan transmigrasi dengan memanfaatkan potensi komoditi unggulan\nmenjadi peluang bisnis mulai dari hulu sampai hilir.\nTahap 3:\nMenyederhanakan regulasi dengan melakukan inovasi kebijakan nasional di bidang\nketransmigrasian dengan memanfaatkan penelitian dan pengembangan yang bekerjasama\ndengan perguruan tinggi.\nTahap 4:\nForum Pentahelix sebagai actor-aktor pembangunan berkomitmen untuk bersama-sama\nberkolaborasi membangun investasi.\nTahap 5:\nPemasaran produk unggulan dengan memanfaatkan teknologi digital untuk mendorong\ntransformasi ekonomi.\nPembangunan transpolitan memperhatikan aspek-aspek seperti berikut:\n6\nPelaku atau aktor-aktor pembangunan Pentahelix yakni:\nKonsep Pentahelix adalah:\n1. Unsur pemerintah mempuny",
+        "region": "Transpolitan Melalui Sipukat",
+        "year": "2009",
+        "regulation_type": "PP",
+        "hybrid_score": 0.7764
+      },
+      {
+        "chunk_id": 1123,
+        "filename": "KAK_Transpolitan_SIPUKAT.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 3,
+        "chunk_size": 820,
+        "text": "perti berikut:\n1.Pengembangan\nKomoditas Unggulan\n2.Pelibatan Masyarakat\ndan UMKM dalamPengembangan\nKomoditas Unggulan\n(Kelembagaan Ekonomi)\n3.Peran BUMDes dan\nBUMDes Bersama\ndalam Pengembangan\nKomoditas Unggulan\n4.Pengembangan Jejaring\nKlaster/ Kawasan\nTransmigrasi\n5.Promosi Komoditas\nUnggulan oleh kawasan\ntransmigrasi/ Klaster\n6 .Sertifikasi/ Standardisasi\nProduk yang dihasilkan\n7 .Tingkat Melek\nKeuangan Masyarakat\n(Pemanfaatan jasa\nlembaga keuangan)\n8.Pemilikan/ Penguasaan\nLahan\n3\nB. Strategi Pengembangan Kawasan Transpolitan\nSaat ini pembangunan wilayah dengan skema pembangunan transmigrasi dimulai\ndengan perencanaan kawasan transmigrasi, pembangunan Satuan Permukiman,\npembangunan kawasan transmigrasi, pembangunan Kawasan Perkotaan Baru (KPB) dan\nakan dikembangkan pembangunan Kawasan Transpolitan serta Kaw",
+        "region": "Transpolitan Melalui Sipukat",
+        "year": "2009",
+        "regulation_type": "PP",
+        "hybrid_score": 0.675
+      },
+      {
+        "chunk_id": 781,
+        "filename": "Permentrans_1_2024_OTK.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 69,
+        "chunk_size": 820,
+        "text": "si dan Pemasaran Produk Unggulan\nTransmigrasi sebagaimana dimaksud pada ayat (1) dipimpin oleh Direktur yang berada di bawah dan\nbertanggung jawab kepada Direktur Jenderal.\nPasal 118\nDirektorat Promosi dan Pemasaran Produk Unggulan\nTransmigrasi mempunyai tugas melaksanakan penyiapan\nperumusan dan pelaksanaan kebijakan di bidang promosi dan\npemasaran produk unggulan transmigrasi.\nPasal 119\nDalam melaksanakan tugas sebagaimana dimaksud dalam\nPasal 118, Direktorat Promosi dan Pemasaran Produk\nUnggulan Transmigrasi menyelenggarakan fungsi:\na. penyiapan perumusan kebijakan di bidang\npengembangan strategi pemasaran, pengembangan\njaringan dan kerja sama pemasaran, pengembangan\npromosi kawasan dan produk unggulan, pengembangan\npemasaran produk unggulan, pelayanan informasi\npotensi investasi, serta pelayanan perijinan",
+        "region": "Transmigrasi",
+        "year": "2024",
+        "regulation_type": "Permen",
+        "hybrid_score": 0.5696
+      },
+      {
+        "chunk_id": 1014,
+        "filename": "EBOOK_SIPUKAT_Profil_Kawasan.pdf",
+        "category": "regional_profile",
+        "doc_type": "pdf",
+        "chunk_index": 121,
+        "chunk_size": 820,
+        "text": "terplan Percepatan dan perluasan Pembangunan\nEkonomi Indonesia (MP3EI) 2011-2025 22. Peraturan Presiden RI Nomor 50 Tahun 2018 Tentang\nKoordinasi dan Integrasi Penyelenggaraan Transmigrasi\n64\nSIPUKAT\nBAB IV\nPERENCANAAN\nSISTEM INFORMASI\n4.1 Sistem Informasi\nPengembangan Sistem Informasi Peta Terpadu Kawasan\nTransmigrasi (SIPUKAT) merupakan kegiatan rekayasa\nperangkat lunak yang menghasilkan informasi, dengan bantuan\nteknologi informasi dan komunikasi (TIK) sehingga segala\ninformasi yang disajikan akan lebih mudah dan cepat dengan\npenyajian data spasial melalui sistem informasi geografis (SIG).\nPada era informasi ini, kebutuhan informasi menjadi semakin\nkompleks dan beragam. Masyarakat memerlukan akses secara\ncepat dan mudah untuk memperoleh informasi. Dengan semakin\nberkembangnya teknologi informasi, banyak in",
+        "region": "Transmigrasi",
+        "province": "Sulawesi Tenggara",
+        "year": "2014",
+        "commodities": [
+          "padi",
+          "jagung",
+          "karet",
+          "udang"
+        ],
+        "regulation_type": "PP",
+        "hybrid_score": 0.5256
+      },
+      {
+        "chunk_id": 457,
+        "filename": "no 5.pdf",
+        "category": "regulations_policies",
+        "doc_type": "pdf",
+        "chunk_index": 0,
+        "chunk_size": 789,
+        "text": "SALINAN\nMENTE RI DESA, PEM\nMENTERI DESA, PEMBANGUNAN DAERA H TERTINGGAL, DAN TRANSMIGRASI\nREPUBLIK INDONESIA BANGUNAN DAERAH TERTINGGAL, DAN\nTRANSMIGRASI\nPERATURAN MENTERI\nDESA, PEMBANGUNAN DAERAH TERTINGGAL, DAN TRANSMIGRASI\nREPUBLIK INDONESIA\nNOMOR 5 TAHUN 2021\nTENTANG\nTATA CARA PERENCANAAN KAWASAN TRANSMIGRASI\nDENGAN RAHMAT TUHAN YANG MAHA ESA\nMENTERI DESA, PEMBANGUNAN DAERAH TERTINGGAL, DAN TRANSMIGRASI\nREPUBLIK INDONESIA,\nMenimbang : bahwa untuk melaksanakan ketentuan Pasal 38 ayat (3),\nPasal 41 ayat (4), Pasal 48, dan Pasal 63 Peraturan\nPemerintah Nomor 3 Tahun 2014 tentang Pelaksanaan\nUndang-Undang Nomor 15 Tahun 1997 tentang\nKetransmigrasian sebagaimana telah diubah dengan Undang-\nUndang Nomor 29 Tahun 2009 tentang Perubahan atas\nUndang-Undang Nomor 15 Tahun 1997 tentang",
+        "region": "Dengan Rahmat Tuhan Yang Maha Esa",
+        "year": "2021",
+        "regulation_type": "PP",
+        "hybrid_score": 0.4631
+      }
+    ],
+    "is_refusal": true,
+    "latency_s": 47.68,
+    "flare_iters": 3,
+    "query_id": "uq_0058",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "E-commerce tidak dibahas di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Apa syarat pendirian rumah sakit tipe C di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Pendirian rumah sakit tipe C di kawasan transmigrasi memiliki sejumlah syarat yang harus dip",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 14.131,
+    "flare_iters": 1,
+    "query_id": "uq_0059",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "Fasilitas kesehatan tingkat lanjut (RS tipe C) tidak dibahas di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  },
+  {
+    "query": "Bagaimana prosedur sertifikasi halal untuk produk olahan komoditas di kawasan transmigrasi?",
+    "reference": "",
+    "method": "flare",
+    "answer": "Prosedur sertifikasi halal untuk produk olahan komoditas di kawasan trans migrasi melibatkan beberapa tahapan utama",
+    "evidence": [],
+    "is_refusal": false,
+    "latency_s": 8.375,
+    "flare_iters": 1,
+    "query_id": "uq_0060",
+    "unans_type": "out_of_domain_mixing",
+    "reason": "Sertifikasi halal tidak dibahas di corpus.",
+    "should_be_answerable": false,
+    "is_refusal_raw": false
+  }
+]
